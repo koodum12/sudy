@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "eaa3331dfeac8dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd1bc2ea9961fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e9c5e1b2b2f49c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "오늘 공부한거/2024-5-2 오늘 공부한 전공.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2800df0322029031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/python 공부/7.반복문/7-1.for문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9483c51ade09d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/python 공부/6.라이브러리 && 라이브러리 기능/6-1.넘파이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41a66f06ce2639fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/python 공부/6.라이브러리 && 라이브러리 기능/6-1.넘파이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8461762fd0e02089",
+    "type": "split",
+    "children": [
+      {
+        "id": "13d7a47625f0db7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fddca95bfec4b830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "806c99054e52b2ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f3051d73c1ddc6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9448ba59ca970f75",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d9946c32e9c086f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cb5b734531eaf13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/python 공부/7.반복문/7-1.for문.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c62cae330b8a422",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/python 공부/7.반복문/7-1.for문.md"
+              }
+            }
+          },
+          {
+            "id": "6bc7439d2a37912d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/python 공부/7.반복문/7-1.for문.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44326206642ee54c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7ff9564f72d7e575",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "7a967c070f5058c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba3190cad5eae6e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7ff9564f72d7e575",
+  "lastOpenFiles": [
+    "Python/python 공부/1.입출력&변수/1-2 입력.md",
+    "Git 사용법/1.깃허브 명령어.md",
+    "Git 사용법/2.깃허브 버전 관리..md",
+    "오늘 공부한거/2024-5-16 오늘 공부한거.md",
+    "🥕/2024-05-15 피곤4스택.md",
+    "🥕/2024-05-15.md",
+    "🥕/2024-05-14 흠.......,.md",
+    "🥕/2024-05-12 오늘 한 게 너무 없음..md",
+    "🥕/2024-05-10 피곤해..., 3..md",
+    "🥕/당근.md",
+    "Git 사용법/무제 파일.canvas",
+    "Python/python 공부/10.랜덤/10-1.랜덤.md",
+    "Python/python 공부/11.클래스/11-1 클래스.md",
+    "Git 사용법",
+    "AI/colab 오류/NameError.md",
+    "AI/숫자 인신 인공지능 만들기/1. 개발 환경 만들기..md",
+    "AI/숫자 인신 인공지능 만들기/2.데이터셋 불러오기.md",
+    "AI/숫자 인신 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
+    "AI/숫자 인신 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+    "AI/숫자 인신 인공지능 만들기/공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
+    "AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
+    "AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+    "AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
+    "AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
+    "AI/간단한 개념/2,딥러닝/딥러닝이란.md",
+    "AI/간단한 개념/1.머신러닝/머신러닝이란..md",
+    "AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
+    "Python/python 공부/9.함수/9-1 사용자 지정 함수.md",
+    "Python/python 공부/11.클래스/무제 폴더",
+    "Python/python 공부/11.클래스",
+    "AI/간단한 개념/무제 폴더",
+    "Python/python 알고가면 좋은 거",
+    "AI/Ai Image/3-4-2 인공 신경망 오차 줄이기-20240427220253007.webp",
+    "AI/colab 오류",
+    "AI/숫자 인신 인공지능 만들기/공부하면서 사용하는 개념 노트",
+    "Unity/Unity_MapleSrory/Code Canvas.canvas",
+    "Python/python image/6.넘파이-20240507093426964.webp",
+    "Python/python image/6.넘파이-20240507091518408.webp",
+    "Python/python 공부/4.배열",
+    "옵시디언/옵시디언 켄버스.canvas",
+    "AI/Ai Image/3-4-2 인공 신경망 오차 줄이기-20240427214034883.webp",
+    "AI/간단하진 않은 개념/tensorflow",
+    "AI/간단하진 않은 개념",
+    "Python/python 공부/무제 파일.canvas",
+    "무제 파일.canvas",
+    "AI/Ai Image/5-1딥러닝 신경망-20240505132653413.webp",
+    "AI/Ai Image/conv5.png",
+    "5-1딥러닝 신경망-20240505125643175.webp",
+    "AI/Ai Image/3-4-2 인공 신경망 오차 줄이기-20240427223436531.webp",
+    "AI/Ai Image/활성화 함수-20240427133146072.webp",
+    "AI/Ai Image/활성화 함수-20240427133016500.webp",
+    "무제 파일 1.canvas"
+  ]
+}

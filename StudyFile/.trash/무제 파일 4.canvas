@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0ced8c60563d28b","type":"text","text":"<h3 style=\"color:FF8000;\"> Staging Area</h3>\n\n수정 이력을 기록할 파일을 대기시키는 장소.\n\n깃이 관리하는 영역.","x":40,"y":-164,"width":440,"height":340},
+		{"id":"3313538292041f53","type":"text","text":"<h3 style=\"color:FF8000;\"> working Directory</h3>\n\n내가 만든 프로젝트 폴더.\n나는 언제나 이곳을 보며 작업을 진행한다.\n\n나의 문서 작업은 이 곳에서 이루어진다.","x":-600,"y":-164,"width":470,"height":340},
+		{"id":"771b330c849047f8","type":"text","text":"<h3 style=\"color:FF8000;\"> Repository</h3>\n\n스테이징 영역에서 대기 중이던 파일들의 수정 이력이 최종적으로 기록되는 장소.\n\n깃이 관리하는 영역.","x":640,"y":-164,"width":440,"height":340}
+	],
+	"edges":[
+		{"id":"050d8bf71ce7e101","fromNode":"3313538292041f53","fromSide":"right","toNode":"c0ced8c60563d28b","toSide":"left"},
+		{"id":"32cb2f97fb8333ca","fromNode":"c0ced8c60563d28b","fromSide":"right","toNode":"771b330c849047f8","toSide":"left"}
+	]
+}
