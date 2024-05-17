@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -159,6 +159,7 @@
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
     "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
@@ -187,7 +188,6 @@
     "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/무제 폴더",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
-    "StudyFile/오늘 공부한거/2024-5-2 오늘 공부한 전공.md",
     "Excalidraw"
   ]
 }
