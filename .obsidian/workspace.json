@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/5.인공지능 모델 설계하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/5.인공지능 모델 설계하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/5.인공지능 모델 설계하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md"
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/5.인공지능 모델 설계하기.md"
               }
             }
           },
@@ -168,8 +168,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "42693246b435f371",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/AI/숫자 인신 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+    "StudyFile/AI/숫자 인신 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/2.데이터셋 불러오기.md",
