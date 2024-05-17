@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/1. 개발 환경 만들기..md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/1. 개발 환경 만들기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/1. 개발 환경 만들기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md"
+                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/1. 개발 환경 만들기..md"
               }
             }
           },
@@ -170,8 +170,11 @@
   },
   "active": "42693246b435f371",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/11.클래스/11-1 클래스.md",
+    "StudyFile/AI/숫자 인신 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/숫자 인신 인공지능 만들기/1. 개발 환경 만들기..md",
+    "StudyFile/AI/숫자 인신 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
+    "StudyFile/Python/python 공부/11.클래스/11-1 클래스.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
