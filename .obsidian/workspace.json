@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+                "file": "StudyFile/AI/colab 오류/NameError.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+                "file": "StudyFile/AI/colab 오류/NameError.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+                "file": "StudyFile/AI/colab 오류/NameError.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md"
+                "file": "StudyFile/AI/colab 오류/NameError.md"
               }
             }
           },
@@ -159,10 +158,12 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
-    "image 1.gif",
-    "image.gif",
-    "StudyFile/AI/숫자 인신 인공지능 만들기/6.데이터 학습시키기..md",
+    "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
+    "README.md",
+    "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+    "StudyFile/AI/Ai Image/image 1.gif",
+    "StudyFile/AI/숫자 인신 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/🥕/2024-05-16 피곤4스택.md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
@@ -186,7 +187,6 @@
     "StudyFile/오늘 공부한거/2024-5-13 오늘 공부한 전공.md",
     "StudyFile/오늘 공부한거/2024-5-7 오늘 공부한 전공.md",
     "StudyFile/오늘 공부한거/2024-5-12 오늘 공부한 전공.md",
-    "StudyFile/AI/숫자 인신 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
     "Excalidraw"
   ]
 }

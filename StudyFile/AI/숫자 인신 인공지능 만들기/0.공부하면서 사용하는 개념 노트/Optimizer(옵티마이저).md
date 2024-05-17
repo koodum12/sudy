@@ -8,13 +8,17 @@
 그래프로 형상화 한 것(아직 난 이해 못함)
 ![[image 1.gif|469]]
 ## 옵티마이저 종류
+ ![[Optimizer(옵티마이저)-20240517192737506.webp|568]]
+ 
 #### GD
 #### NAG
 #### Nadam
 #### Momentum
-#### Adan
+#### Adam
+Momentum 와 RMSProp 두가지를 섞어 쓴 알고리즘이다(대충 그렇구나 하고 넘기도록 하자)
+
 #### SGD
 #### Adagrad
 #### AdaDelta
+#### RmsProp
 
-#### Rms
