@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
+                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
+                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
+                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md"
+                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
-    "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
+    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
+    "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
@@ -184,9 +186,7 @@
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-    "StudyFile/Python/python 공부/6.라이브러리 && 라이브러리 기능/6-1.넘파이.md",
     "StudyFile/🥕/당근.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/무제 폴더",
     "Excalidraw"
   ]
