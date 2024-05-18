@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md"
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md"
               }
             }
           },
@@ -158,23 +158,27 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
+    "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
+    "StudyFile/🥕/2024-05-17 집 보내줘!.md",
+    "StudyFile/오늘 공부한거/2024-5-18 오늘 공부한 것.md",
+    "StudyFile/오늘 공부한거/2024-5-17 오늘 공부한 것.md",
+    "StudyFile/오늘 공부한거/2024-5-16 오늘 공부한 것.md",
     "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
+    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/AI/colab 오류/NameError.md",
-    "StudyFile/🥕/2024-05-17 집 보내줘!.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
     "README.md",
     "StudyFile/AI/Ai Image/image.gif",
@@ -183,10 +187,6 @@
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-    "StudyFile/🥕/당근.md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/무제 폴더",
     "Excalidraw"
   ]
