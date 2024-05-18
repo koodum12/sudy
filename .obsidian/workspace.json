@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md"
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
+    "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
     "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
     "StudyFile/🥕/2024-05-17 집 보내줘!.md",
     "StudyFile/오늘 공부한거/2024-5-18 오늘 공부한 것.md",
@@ -186,7 +187,6 @@
     "StudyFile/🥕/2024-05-16 피곤4스택.md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/무제 폴더",
     "Excalidraw"
   ]
