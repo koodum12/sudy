@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
+                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
+                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
+                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md"
+                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
-    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
+    "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/web/web 공부",
     "StudyFile/web/web 공부/3.JS",
     "StudyFile/web/web 공부/2.CSS",
@@ -191,7 +192,6 @@
     "README.md",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif",
-    "StudyFile/🥕/2024-05-16 피곤4스택.md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/무제 폴더",
     "Excalidraw"
   ]
