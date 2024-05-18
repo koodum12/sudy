@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
+                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
+                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
+                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md"
+                "file": "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md"
               }
             }
           },
@@ -158,11 +158,16 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
+    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
+    "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
+    "StudyFile/web/web 공부",
+    "StudyFile/web/web 공부/3.JS",
+    "StudyFile/web/web 공부/2.CSS",
+    "StudyFile/web/web 공부/1.HTML",
     "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/이번 주에 공부할 것",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
     "StudyFile/🥕/2024-05-17 집 보내줘!.md",
@@ -187,7 +192,6 @@
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/🥕/2024-05-16 피곤4스택.md",
-    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/무제 폴더",
     "Excalidraw"
   ]
