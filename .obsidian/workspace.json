@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md"
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md"
               }
             }
           },
@@ -158,8 +158,14 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/1.HTML/5.삽입.md",
+    "7. form 삽입하기-20240519133328375.webp",
+    "StudyFile/Unity/Unity_MapleSrory/Player Move.md",
+    "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas",
+    "StudyFile/Unity/유니티 지식/LayerMask.md",
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
+    "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
     "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
+    "StudyFile/web/web 공부/1.HTML/5.삽입.md",
     "StudyFile/web/web 공부/1.HTML/4.표.md",
     "StudyFile/web/web 공부/1.HTML/5. 삽입",
     "StudyFile/web/web 공부/1.HTML/3.목록 태그.md",
@@ -185,11 +191,6 @@
     "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
-    "StudyFile/AI/colab 오류/NameError.md",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif",
