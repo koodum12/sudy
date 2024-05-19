@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
+    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
     "잠깐 쓰는 매모장.md",
     "무제 폴더",
@@ -206,9 +209,6 @@
     "StudyFile/이번 주에 공부할 것",
     "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
-    "StudyFile/🥕/2024-05-17 집 보내줘!.md",
-    "StudyFile/오늘 공부한거/2024-5-18 오늘 공부한 것.md",
-    "StudyFile/오늘 공부한거/2024-5-17 오늘 공부한 것.md",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif",
