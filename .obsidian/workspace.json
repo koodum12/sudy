@@ -11,11 +11,14 @@
             "id": "c739f3fd9c8c6170",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "StudyFile/옵시디언/옵시디언 마크다운.md",
-                "mode": "source",
-                "source": false
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas",
+                "viewState": {
+                  "x": -750,
+                  "y": -387,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/옵시디언/옵시디언 마크다운.md",
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/옵시디언/옵시디언 마크다운.md",
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/옵시디언/옵시디언 마크다운.md"
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas"
               }
             }
           },
@@ -156,8 +159,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "c739f3fd9c8c6170",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/옵시디언/옵시디언 마크다운.md",
+    "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
+    "StudyFile/이번 주에 공부할 것/무제 파일.md",
     "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
     "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
     "StudyFile/web/web 공부/1.HTML/5.삽입.md",
@@ -183,7 +189,6 @@
     "StudyFile/web/web 공부/1.HTML",
     "StudyFile/AI/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
-    "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/이번 주에 공부할 것",
     "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
@@ -192,8 +197,6 @@
     "StudyFile/오늘 공부한거/2024-5-17 오늘 공부한 것.md",
     "StudyFile/오늘 공부한거/2024-5-16 오늘 공부한 것.md",
     "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
-    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif",
