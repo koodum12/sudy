@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f6153b390b1360b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
+                "file": "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
+                "file": "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
+                "file": "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md"
+                "file": "StudyFile/Git 사용법/2.깃허브 버전 관리..md"
               }
             }
           },
@@ -181,9 +169,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "6f6153b390b1360b",
+  "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "잠깐 쓰는 매모장.md",
     "StudyFile/🥕/2024-05-19 집....., 집 보내줘..,.md",
     "StudyFile/🥕/2024-05-01-힘들어..md",
@@ -194,7 +185,6 @@
     "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
-    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
@@ -209,8 +199,6 @@
     "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
-    "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
-    "StudyFile/이번 주에 공부할 것/무제 파일.md",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/image",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
