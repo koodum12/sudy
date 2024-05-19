@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md"
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "6f6153b390b1360b",
   "lastOpenFiles": [
+    "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+    "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
@@ -208,9 +211,6 @@
     "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
     "StudyFile/web/web 공부/1.HTML/5.삽입.md",
     "StudyFile/web/web 공부/1.HTML/3.목록 태그.md",
-    "StudyFile/web/web 공부/1.HTML/2.텍스트 관련 태그.md",
-    "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
-    "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/image",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
