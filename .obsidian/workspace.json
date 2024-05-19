@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f6153b390b1360b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md"
+                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md"
               }
             }
           },
@@ -169,8 +181,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "37de177f6c030351",
+  "active": "6f6153b390b1360b",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+    "StudyFile/🥕/2024-05-02- 수학 help🥕.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "잠깐 쓰는 매모장.md",
@@ -179,7 +195,6 @@
     "StudyFile/오늘 공부한거/2024-5-18 오늘 공부한 것.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
     "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
@@ -200,10 +215,7 @@
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas",
     "StudyFile/Unity/유니티 지식/LayerMask.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
-    "StudyFile/web/web 공부/1.HTML/4.표.md",
     "StudyFile/web/web 공부/1.HTML/5. 삽입",
-    "StudyFile/Python/python 공부/11.클래스/11-1 클래스.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/web/web 공부",
     "StudyFile/web/web 공부/3.JS",
     "StudyFile/web/web 공부/2.CSS",
