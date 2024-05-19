@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
+                "file": "StudyFile/web/web 공부/1.HTML/목록 태그.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
+                "file": "StudyFile/web/web 공부/1.HTML/목록 태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
+                "file": "StudyFile/web/web 공부/1.HTML/목록 태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md"
+                "file": "StudyFile/web/web 공부/1.HTML/목록 태그.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "c739f3fd9c8c6170",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/1.HTML/2.텍스트 관련 태그.md",
+    "StudyFile/web/web 공부/1.HTML/목록 태그.md",
     "StudyFile/web/web 공부/1.HTML/1.택스트 입력.md",
-    "StudyFile/web/web 공부/1.HTML/2.텍스트 강조.md",
+    "StudyFile/Python/python 공부/11.클래스/11-1 클래스.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/web/web 공부",
     "StudyFile/web/web 공부/3.JS",
@@ -187,9 +189,7 @@
     "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
-    "README.md",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/숫자 인신 인공지능 만들기/0.공부하면서 사용하는 개념 노트/무제 폴더",
