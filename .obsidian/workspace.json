@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37de177f6c030351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -156,8 +169,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "c739f3fd9c8c6170",
+  "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
+    "무제 파일.md",
+    "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
@@ -193,7 +209,6 @@
     "StudyFile/🥕/2024-05-17 집 보내줘!.md",
     "StudyFile/오늘 공부한거/2024-5-18 오늘 공부한 것.md",
     "StudyFile/오늘 공부한거/2024-5-17 오늘 공부한 것.md",
-    "StudyFile/오늘 공부한거/2024-5-16 오늘 공부한 것.md",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif",
