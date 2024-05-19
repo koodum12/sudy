@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md"
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md"
               }
             }
           },
@@ -184,6 +184,7 @@
   "active": "6f6153b390b1360b",
   "lastOpenFiles": [
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/🥕/2024-05-02- 수학 help🥕.md",
@@ -214,7 +215,6 @@
     "StudyFile/Unity/Unity_MapleSrory/Player Move.md",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas",
     "StudyFile/Unity/유니티 지식/LayerMask.md",
-    "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/web/web 공부/1.HTML/5. 삽입",
     "StudyFile/web/web 공부",
     "StudyFile/web/web 공부/3.JS",
