@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md"
+                "file": "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "6f6153b390b1360b",
   "lastOpenFiles": [
+    "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
@@ -214,7 +215,6 @@
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
     "StudyFile/Unity/Unity_MapleSrory/Player Move.md",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas",
-    "StudyFile/Unity/유니티 지식/LayerMask.md",
     "StudyFile/web/web 공부/1.HTML/5. 삽입",
     "StudyFile/web/web 공부",
     "StudyFile/web/web 공부/3.JS",
