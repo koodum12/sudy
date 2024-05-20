@@ -23,11 +23,9 @@
             "id": "37de177f6c030351",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md"
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
               }
             }
           },
@@ -169,8 +167,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/Python/python 공부/9.함수/9-1 사용자 지정 함수.md",
     "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
@@ -186,7 +185,6 @@
     "StudyFile/Python/python 공부/7.반복문/7-2.range문.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
-    "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
