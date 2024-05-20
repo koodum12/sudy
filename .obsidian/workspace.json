@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md"
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
     "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+    "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
