@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md"
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md"
               }
             }
           },
@@ -169,24 +169,26 @@
       "media-extended:Open media": false
     }
   },
-  "active": "37de177f6c030351",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
+    "StudyFile/Python/python 공부/9.함수/9-1 사용자 지정 함수.md",
+    "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
+    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
+    "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
     "잠깐 쓰는 매모장.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
-    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
     "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
     "StudyFile/Python/python 공부/7.반복문/7-3.while문.md",
     "StudyFile/Python/python 공부/7.반복문/7-2.range문.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
     "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
-    "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "README.md",
@@ -196,8 +198,6 @@
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
-    "StudyFile/Git 사용법/1.깃허브 명령어.md",
-    "StudyFile/🥕/2024-05-19 집....., 집 보내줘..,.md",
     "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
