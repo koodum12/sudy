@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md"
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
+    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
+    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
@@ -178,7 +181,6 @@
     "README.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
     "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
@@ -195,8 +197,6 @@
     "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
     "StudyFile/AI/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
