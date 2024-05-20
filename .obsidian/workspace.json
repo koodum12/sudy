@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/Python/python 공부/8.조건문/8-1 if문.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "잠깐 쓰는 매모장.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
@@ -188,7 +189,6 @@
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "잠깐 쓰는 매모장.md",
     "README.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
     "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
