@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Git 사용법/3.그룹 프로젝트..md"
+                "file": "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md"
               }
             }
           },
@@ -171,6 +171,13 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
+    "StudyFile/Python/python 공부/4.배열/4-3.split.md",
+    "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
+    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
+    "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
+    "StudyFile/Python/python 공부/7.반복문/7-3.while문.md",
+    "StudyFile/Python/python 공부/7.반복문/7-2.range문.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
     "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
@@ -181,12 +188,9 @@
     "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
-    "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
-    "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "잠깐 쓰는 매모장.md",
     "README.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
-    "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
@@ -194,10 +198,6 @@
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/🥕/2024-05-19 집....., 집 보내줘..,.md",
-    "StudyFile/🥕/2024-05-01-힘들어..md",
-    "StudyFile/오늘 공부한거/2024-5-19 오늘 공부한 것.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
