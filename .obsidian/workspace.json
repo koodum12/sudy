@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md"
+                "file": "잠깐 쓰는 매모장.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "37de177f6c030351",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
