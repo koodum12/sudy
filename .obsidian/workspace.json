@@ -23,9 +23,11 @@
             "id": "37de177f6c030351",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
+                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
+                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md"
               }
             }
           },
@@ -169,6 +171,12 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
+    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
+    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
+    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
+    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/Python/python 공부/9.함수/9-1 사용자 지정 함수.md",
@@ -183,19 +191,13 @@
     "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
     "StudyFile/Python/python 공부/7.반복문/7-3.while문.md",
     "StudyFile/Python/python 공부/7.반복문/7-2.range문.md",
-    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "README.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
     "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열.md",
-    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
-    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
-    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
