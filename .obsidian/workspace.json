@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md"
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
     "잠깐 쓰는 매모장.md",
     "StudyFile/주식 일지",
     "README.md",
-    "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
     "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
