@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md"
+                "file": "README.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "37de177f6c030351",
   "lastOpenFiles": [
+    "잠깐 쓰는 매모장.md",
+    "README.md",
+    "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
     "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
@@ -185,7 +188,6 @@
     "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
     "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
     "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
-    "잠깐 쓰는 매모장.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
@@ -196,8 +198,6 @@
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "README.md",
-    "StudyFile/web/web 공부/2.CSS/무제 파일.md",
     "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
