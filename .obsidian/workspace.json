@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   "active": "37de177f6c030351",
   "lastOpenFiles": [
     "잠깐 쓰는 매모장.md",
+    "StudyFile/주식 일지",
     "README.md",
     "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
     "StudyFile/web/web 공부/1.HTML/6. 하이퍼링크 삽입하기.md",
@@ -197,8 +198,6 @@
     "StudyFile/Python/python 공부/7.반복문/7-2.range문.md",
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "무제 폴더",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/image",
