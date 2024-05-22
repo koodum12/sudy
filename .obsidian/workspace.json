@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md"
+                "file": "잠깐 쓰는 매모장.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "e2694e6e5572c618",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
+    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
     "StudyFile/Python/python 공부/12.예외 처리",
     "StudyFile/Python/python 공부/무제 파일.md",
     "StudyFile/Python/python 공부/8.조건문/8-2 예외 처리 방법.md",
