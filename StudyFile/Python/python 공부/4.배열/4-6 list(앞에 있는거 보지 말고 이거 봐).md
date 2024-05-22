@@ -115,5 +115,10 @@ print(x)#2를 출력한다
 ```
 - 만약 다른 곳에 있는 x의 인덱스를 구하고 싶다면
 ```python
-a = []
+a = [n,m,m,m,n,m,m,m,m,m,n]
+index = int(-1)
+for i in range(len(a)):
+	print(a.index(n,index+1),)
+	print(index)
+	
 ```

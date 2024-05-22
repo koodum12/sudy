@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+                "file": "StudyFile/Python/python 공부/8.조건문/8-2 예외 처리 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+                "file": "StudyFile/Python/python 공부/8.조건문/8-2 예외 처리 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+                "file": "StudyFile/Python/python 공부/8.조건문/8-2 예외 처리 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md"
+                "file": "StudyFile/Python/python 공부/8.조건문/8-2 예외 처리 방법.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "e2694e6e5572c618",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+    "StudyFile/Python/python 공부/8.조건문/8-2 예외 처리 방법.md",
+    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
@@ -184,7 +185,6 @@
     "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
     "잠깐 쓰는 매모장.md",
     "StudyFile/주식 일지",
-    "README.md",
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
