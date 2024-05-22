@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list.md"
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "e2694e6e5572c618",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
+    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
-    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
-    "StudyFile/Python/python 공부/4.배열/4-6 list.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
     "StudyFile/🥕/2024-05-22-힘들어..md",
     "StudyFile/오늘 공부한거/2024-5-22 오늘 공부한 것.md",
