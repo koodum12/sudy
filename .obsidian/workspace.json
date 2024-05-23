@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md"
               }
             }
           },
@@ -158,13 +158,17 @@
   },
   "active": "e2694e6e5572c618",
   "lastOpenFiles": [
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
+    "StudyFile/AI/따라만들기",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/오늘 공부한거/2024-5-17 오늘 공부한 것.md",
     "StudyFile/오늘 공부한거/2024-5-18 오늘 공부한 것.md",
     "StudyFile/오늘 공부한거/2024-5-16 오늘 공부한 것.md",
@@ -178,13 +182,11 @@
     "StudyFile/🥕/2024-05-23-내일 집간다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ..md",
     "잠깐 쓰는 매모장.md",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
-    "StudyFile/AI/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
     "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
     "StudyFile/Python/python 공부/12.예외 처리",
     "StudyFile/Python/python 공부/무제 파일.md",
-    "StudyFile/Python/python 공부/8.조건문/8-2 예외 처리 방법.md",
-    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/주식 일지",
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
@@ -196,8 +198,6 @@
     "StudyFile/web/web 공부",
     "StudyFile/web/web 공부/3.JS",
     "StudyFile/web/web 공부/2.CSS",
-    "StudyFile/web/web 공부/1.HTML",
-    "StudyFile/이번 주에 공부할 것",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/Ai Image/image 1.gif"
