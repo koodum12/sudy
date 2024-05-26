@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md"
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md"
               }
             }
           },
@@ -158,6 +158,13 @@
   },
   "active": "e2694e6e5572c618",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
+    "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
+    "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
@@ -178,13 +185,6 @@
     "StudyFile/오늘 공부한거/2024-5-2 오늘 공부한 전공.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1-라이브러리 불러오기..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/AI/따라만들기",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기",
     "StudyFile/Python/python 공부/12.예외 처리",
