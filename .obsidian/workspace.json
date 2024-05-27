@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+                "file": "StudyFile/web/web 공부/1.HTML/3.목록 태그.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+                "file": "StudyFile/web/web 공부/1.HTML/3.목록 태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+                "file": "StudyFile/web/web 공부/1.HTML/3.목록 태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md"
+                "file": "StudyFile/web/web 공부/1.HTML/3.목록 태그.md"
               }
             }
           },
@@ -155,10 +155,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "e2694e6e5572c618",
   "lastOpenFiles": [
-    "StudyFile/Unity/유니티 지식/LayerMask.md",
+    "StudyFile/web/web 공부/1.HTML/7. form 삽입하기.md",
+    "StudyFile/web/web 공부/1.HTML/5.삽입.md",
+    "StudyFile/web/web 공부/1.HTML/4.표.md",
+    "StudyFile/web/web 공부/1.HTML/3.목록 태그.md",
+    "StudyFile/web/web 공부/1.HTML/2.텍스트 관련 태그.md",
     "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+    "StudyFile/Unity/유니티 지식/LayerMask.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
@@ -178,11 +183,6 @@
     "StudyFile/Python/python 공부/9.사용자 지정함수/9-1 사용자 지정 함수.md",
     "StudyFile/Python/python 공부/9.함수/무제 파일.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
-    "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
-    "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
-    "StudyFile/Python/python 공부/13.딕셔너리/13-1 딕셔너리(dictionary).md",
-    "StudyFile/오늘 공부한거/2024-5-23 오늘 공부한 것.md",
-    "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
     "StudyFile/Python/python 공부/13.딕셔너리",
     "StudyFile/AI/따라만들기",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기",
