@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+                "file": "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+                "file": "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+                "file": "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md"
+                "file": "StudyFile/주식 일지/2024-5-29 (기록 3일차).md"
               }
             }
           },
@@ -159,6 +159,11 @@
   "active": "e2694e6e5572c618",
   "lastOpenFiles": [
     "StudyFile/주식 일지/2024-05-28 (기록 2일차).md",
+    "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1-라이브러리 불러오기..md",
+    "StudyFile/AI/colab 오류/NameError.md",
     "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
     "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
@@ -168,8 +173,6 @@
     "StudyFile/web/web 공부/1.HTML/4.표.md",
     "StudyFile/web/web 공부/1.HTML/2.텍스트 관련 태그.md",
     "StudyFile/Unity/유니티 지식/LayerMask.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0-코로나 19 확진자 수 예측 인공지능 개발 원리..md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
@@ -181,9 +184,6 @@
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
-    "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
-    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Python/python 공부/13.딕셔너리",
     "StudyFile/AI/따라만들기",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기",
