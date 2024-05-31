@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f34260f09ea229c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "학교 프로그래밍/5월 31일 프로그래밍 수업.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +173,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2de0d6f59e59fe12",
+  "active": "8f34260f09ea229c",
   "lastOpenFiles": [
-    "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
     "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
+    "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
     "학교 프로그래밍",
     "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
     "StudyFile/주식 일지/2024-05-28 (기록 2일차).md",
