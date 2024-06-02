@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "2de0d6f59e59fe12",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/표준 라이브러리/functools.reduce.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
+    "StudyFile/Python/python 공부/표준 라이브러리/functools.reduce.md",
     "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.reduce.md",
     "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_permutation.md",
     "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_longest.md",
@@ -189,7 +190,6 @@
     "StudyFile/Python/python 공부/표준 라이브러리/math.lcm.md",
     "StudyFile/Python/python 공부/표준 라이브러리/math.gcd.md",
     "StudyFile/Python/python 공부/표준 라이브러리/time.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/Python/python 공부/표준 라이브러리",
     "StudyFile/Python/python 공부/무제 파일.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
