@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_permutation.md",
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_permutation.md",
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_permutation.md",
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_permutation.md"
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "2de0d6f59e59fe12",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_longest.md",
+    "StudyFile/Python/python 공부/표준 라이브러리/functools.reduce.md",
+    "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
+    "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.reduce.md",
     "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_permutation.md",
+    "StudyFile/Python/python 공부/표준 라이브러리/itertools/itertools.zip_longest.md",
     "StudyFile/Python/python 공부/표준 라이브러리/itertools",
     "StudyFile/Python/python 공부/표준 라이브러리/random(앞에서 정리함).md",
     "StudyFile/Python/python 공부/표준 라이브러리/math.lcm.md",
@@ -205,8 +208,6 @@
     "학교 프로그래밍",
     "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
     "StudyFile/주식 일지/2024-05-28 (기록 2일차).md",
-    "StudyFile/AI/colab 오류/NameError.md",
-    "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
     "StudyFile/Python/python 공부/13.딕셔너리",
     "StudyFile/AI/따라만들기",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기",
