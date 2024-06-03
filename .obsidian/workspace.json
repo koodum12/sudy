@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/keras/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/keras/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/keras/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md"
+                "file": "StudyFile/Python/python 공부/표준 라이브러리/keras/무제 파일.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "2de0d6f59e59fe12",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/Python/python 공부/표준 라이브러리/keras/무제 파일.md",
     "StudyFile/Python/python 공부/표준 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/표준 라이브러리/keras",
@@ -205,7 +206,6 @@
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
     "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
     "학교 프로그래밍",
