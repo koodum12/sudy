@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/datetime.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/datetime.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/datetime.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/표준 라이브러리/datetime.md"
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "2de0d6f59e59fe12",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/표준 라이브러리/time.md",
+    "StudyFile/Python/python 공부/표준 라이브러리/keras/무제 파일.md",
     "StudyFile/Python/python 공부/표준 라이브러리/datetime.md",
+    "StudyFile/Python/python 공부/표준 라이브러리/keras",
+    "StudyFile/Python/python 공부/표준 라이브러리/time.md",
     "StudyFile/Python/python 공부/표준 라이브러리/operator.itemgetter.md",
     "StudyFile/Python/python 공부/표준 라이브러리/math.gcd.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
@@ -207,7 +209,6 @@
     "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
     "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
     "학교 프로그래밍",
-    "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
     "StudyFile/Python/python 공부/13.딕셔너리",
     "StudyFile/AI/따라만들기",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기",
@@ -216,7 +217,6 @@
     "StudyFile/Python/python 공부/11.map 함수",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
-    "StudyFile/web/web 공부/image",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas",
     "StudyFile/AI/Ai Image/Optimizer(옵티마이저)-20240517192737506.webp",
