@@ -17,3 +17,6 @@ import requests
 response = requests.get('https://news.naver.com/section/101')
 print(response.text)
 ```
+
+### 2.POST 요청
+
