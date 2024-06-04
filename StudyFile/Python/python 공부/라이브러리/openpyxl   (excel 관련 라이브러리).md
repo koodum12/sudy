@@ -78,4 +78,19 @@ ws,cell(row=1,column=1,value='Hello')
 
 value = ws.cell(row=1,column = 1).value
 #.value은 Excel 셀에 저장된 실제 값을 검색하는 데 사용
+
+print(value) 
+#셀 안에 있는 값을 읽을 수 있다.
 ```
+
+### 6.엑셀 파일 저장
+열린 엑셀 파일을 저장하기 위해 사용
+```python
+wb.save('파일 경로/새로운 파일 이름.xlsx')
+```
+
+# <hr>
+
+# 함수 활용
+이거는 나중에 
+https://gr-st-dev.tistory.com/1780
