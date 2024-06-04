@@ -19,4 +19,15 @@ print(response.text)
 ```
 
 ### 2.POST 요청
+- post 요청을 보내려면 requests.post()함수를 사용한다.
+ex)
+```python
+import requests
+import json
 
+data = {'Key':'value'}
+headers = {'Content-type': 'application/json'}
+
+response = requests.post('http://news.naver.com/101',data = json.dumps(data),headers)
+print(response)
+```
