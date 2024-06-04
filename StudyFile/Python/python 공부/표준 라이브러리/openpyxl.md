@@ -40,7 +40,7 @@ ws = wb.create_sheet('새로운 시트')
 ```
 
 
-### 셀에 데이터 입력
+### 4.셀에 데이터 입력
 ex1)
 ```python
 #시트 선택
@@ -66,4 +66,16 @@ ws[A1] = 'Hello'
 #A1셀에 Hello가 들어감
 ```
 
-### 셀 값 읽기
+### 5.셀 값 읽기
+```python
+import openpyxl
+
+wb = load_workbook('파일 경로/파일 이름.xlsx')
+
+ws = wb('시트 이름')
+
+ws,cell(row=1,column=1,value='Hello')
+
+value = ws.cell(row=1,column = 1).value
+#.value은 Excel 셀에 저장된 실제 값을 검색하는 데 사용
+```
