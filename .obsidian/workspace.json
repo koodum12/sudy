@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
+                "file": "StudyFile/Python/python 공부/라이브러리/requests.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
+                "file": "StudyFile/Python/python 공부/라이브러리/requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
+                "file": "StudyFile/Python/python 공부/라이브러리/requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md"
+                "file": "StudyFile/Python/python 공부/라이브러리/requests.md"
               }
             }
           },
@@ -204,8 +204,16 @@
   "active": "24ddd2609d939778",
   "lastOpenFiles": [
     "StudyFile/Python/python 공부/라이브러리/openpyxl   (excel 관련 라이브러리).md",
-    "StudyFile/Python/python 공부/라이브러리/requests.md",
     "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
+    "StudyFile/🥕/2024-05-05-사람살려.md",
+    "StudyFile/🥕/당근.md",
+    "StudyFile/오늘 공부한거/2024-5-17 오늘 공부한 것.md",
+    "StudyFile/오늘 공부한거/2024-5-18 오늘 공부한 것.md",
+    "StudyFile/오늘 공부한거/2024-5-22 오늘 공부한 것.md",
+    "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
+    "StudyFile/오늘 공부한거/2024-5-23 오늘 공부한 것.md",
+    "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
+    "StudyFile/Python/python 공부/라이브러리/requests.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
@@ -217,7 +225,6 @@
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_permutation.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
-    "StudyFile/🥕/ㅣㅏ퍼.md",
     "StudyFile/Python/python 공부/라이브러리/keras/무제 파일.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/Python/python 공부/라이브러리/keras",
@@ -226,13 +233,6 @@
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools",
     "StudyFile/Python/python 공부/라이브러리",
-    "StudyFile/Python/python 공부/무제 파일.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "학교 프로그래밍",
     "StudyFile/Python/python 공부/13.딕셔너리",
     "StudyFile/AI/따라만들기",
