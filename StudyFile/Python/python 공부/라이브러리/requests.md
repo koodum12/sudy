@@ -9,3 +9,11 @@ pip install requests
 
 
 ### 1.Get
+- 요청을 보내기 위해 requests .get()함수를 사용해야 한다
+ex)
+```python
+import requests
+
+response = requests.get('https://news.naver.com/section/101')
+print(response.text)
+```
