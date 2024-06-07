@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/requests.md",
+                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/requests.md",
+                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/requests.md",
+                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/requests.md"
+                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md"
               }
             }
           },
@@ -201,8 +201,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "24ddd2609d939778",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/라이브러리/requests.md",
     "StudyFile/Python/python 공부/라이브러리/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
     "StudyFile/🥕/2024-05-05-사람살려.md",
@@ -213,7 +214,6 @@
     "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
     "StudyFile/오늘 공부한거/2024-5-23 오늘 공부한 것.md",
     "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
-    "StudyFile/Python/python 공부/라이브러리/requests.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
