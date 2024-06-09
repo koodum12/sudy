@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2694e6e5572c618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2de0d6f59e59fe12",
             "type": "leaf",
             "state": {
@@ -37,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/requests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24ddd2609d939778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/무제 파일.md"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md"
               }
             }
           },
@@ -201,9 +177,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "131592091b967a01",
   "lastOpenFiles": [
     "StudyFile/Python/python 공부/라이브러리/requests.md",
+    "StudyFile/주식 일지/2024-5-29 (기록 3일차).md",
+    "StudyFile/주식 일지/2024-05-28 (기록 2일차).md",
+    "StudyFile/주식 일지/2024-5-27 (기록 1일차).md",
+    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
+    "StudyFile/web/web 공부/2.CSS/무제 파일.md",
     "StudyFile/Python/python 공부/라이브러리/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
     "StudyFile/🥕/2024-05-05-사람살려.md",
@@ -223,14 +206,7 @@
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.reduce.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_permutation.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
-    "StudyFile/Python/python 공부/라이브러리/keras/무제 파일.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/Python/python 공부/라이브러리/keras",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools",
     "StudyFile/Python/python 공부/라이브러리",
     "학교 프로그래밍",
