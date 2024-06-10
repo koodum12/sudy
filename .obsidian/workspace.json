@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md"
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md"
               }
             }
           },
@@ -176,11 +176,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "131592091b967a01",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
+    "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
     "StudyFile/Python/python 공부/라이브러리/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/Python/python 공부/라이브러리/requests.md",
-    "StudyFile/Python/python 공부/라이브러리/beautifulsoup.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
@@ -200,10 +204,6 @@
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/8.예측한 데이터 살펴보기..md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/용어",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리",
