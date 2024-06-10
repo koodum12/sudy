@@ -23,9 +23,11 @@
             "id": "131592091b967a01",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md"
               }
             }
           },
@@ -174,8 +176,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "131592091b967a01",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
+    "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
+    "StudyFile/이번 주에 공부할 것/무제 파일.md",
+    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/🥕/당근.md",
     "StudyFile/🥕/2024-05-10 피곤해..., 3..md",
     "StudyFile/🥕/2024-05-15.md",
@@ -198,10 +204,6 @@
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
-    "StudyFile/Python/python 공부/라이브러리/keras/무제 파일.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-    "StudyFile/옵시디언/옵시디언 마크다운.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
     "StudyFile/AI/간단한 개념/2,딥러닝/용어",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리",
