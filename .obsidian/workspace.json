@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/무제 파일.md",
+                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/무제 파일.md",
+                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/무제 파일.md",
+                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/무제 파일.md"
+                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md"
               }
             }
           },
@@ -180,7 +180,7 @@
   "active": "131592091b967a01",
   "lastOpenFiles": [
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/무제 파일.md",
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
