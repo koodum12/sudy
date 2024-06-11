@@ -39,7 +39,15 @@ time.sleep(3)
 ##### 1)조작을 원하는 버튼이나 입력창의 html 파악
 - F12를 눌러 개발자 도구로 자신이 눌러서  조작할 부분의 태그or class or id를 찾는다.
 ##### 2)아래의 두 함수에 html 정보를 입력해서 객체 선택
+![[Selenium-20240611171528080.webp]]
+```python
+import selenium import webdriver
 
+#키보드 키를 시뮬레이션하는 데 사용
+import selenium.webdriver.commin.keys import Keys
+
+#Selenium WebDriver에서 요소를 찾는 다양한 방법을 지정하는 데 사용
+from selenium.webdriver.common.by import By
+import time
+```
 ##### 3)기능 동작 관련 함수로 원하는 기능 조작
-
-LZ4I
