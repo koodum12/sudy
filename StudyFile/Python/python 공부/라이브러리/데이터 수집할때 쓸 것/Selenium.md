@@ -50,4 +50,20 @@ import selenium.webdriver.commin.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 ```
+
+```python
+driver = webdriver.Chrome()
+
+driver.get('https://www.google.co.kr/')
+
+time.sleep(3)
+```
+**find_element( ) 함수**로 chromedriver가 검색창을 찾는다.
+```python
+# 검색어 창을 찾아 search 변수에 저장 (By.CLASS_NAME 방식)
+serch_box = driver.find_element(By.CLASS_NAME, 'gLFyf.gsfi')
+
+# 검색어 창을 찾아 search 변수에 저장 (By.XPATH 방식)
+search_box = driver.find_element_by_xpath('//*[@id="google_search"]')
+```
 ##### 3)기능 동작 관련 함수로 원하는 기능 조작
