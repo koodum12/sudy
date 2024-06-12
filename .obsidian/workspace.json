@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md"
+                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md"
               }
             }
           },
@@ -179,6 +179,21 @@
   },
   "active": "131592091b967a01",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.gcd.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_permutation.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.reduce.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
+    "StudyFile/Python/python 공부/13.딕셔너리/13-1 딕셔너리(dictionary).md",
+    "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
@@ -190,25 +205,10 @@
     "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
     "StudyFile/🥕/2024-05-23-내일 집간다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-    "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것",
-    "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
-    "StudyFile/이번 주에 공부할 것/무제 파일.md",
-    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/용어",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리",
