@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md"
+                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "131592091b967a01",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
+    "StudyFile/Python/python 공부/4.배열/4-3.split.md",
+    "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
+    "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
@@ -201,10 +205,6 @@
     "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/5.입력 데이터 생성하기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
-    "StudyFile/🥕/당근.md",
-    "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
-    "StudyFile/🥕/2024-05-23-내일 집간다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
