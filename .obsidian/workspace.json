@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md"
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md"
               }
             }
           },
@@ -179,6 +179,14 @@
   },
   "active": "131592091b967a01",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
     "StudyFile/Unity/유니티 지식/LayerMask.md",
@@ -197,14 +205,6 @@
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
-    "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
