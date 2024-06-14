@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md"
+                "file": "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md"
               }
             }
           },
@@ -202,6 +202,11 @@
   },
   "active": "131592091b967a01",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
+    "StudyFile/Python/python 공부/4.배열/4-3.split.md",
+    "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
+    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
@@ -222,11 +227,6 @@
     "StudyFile/Python/python 공부/9.사용자 지정함수/9-1 사용자 지정 함수.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
-    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
-    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
-    "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
-    "StudyFile/Python/python 공부/4.배열/4-3.split.md",
-    "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
