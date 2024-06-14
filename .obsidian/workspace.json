@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md"
+                "file": "StudyFile/Python/python 공부/4.배열/4-2문자열.md"
               }
             }
           },
@@ -200,8 +200,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "131592091b967a01",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
+    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
+    "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
+    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
+    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.gcd.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
@@ -212,10 +218,7 @@
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
     "StudyFile/Python/python 공부/9.사용자 지정함수/9-1 사용자 지정 함수.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
@@ -224,10 +227,7 @@
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
-    "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
-    "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
