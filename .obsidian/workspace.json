@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md"
               }
             }
           },
@@ -201,34 +201,34 @@
       "media-extended:Open media": false
     }
   },
-  "active": "131592091b967a01",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
+    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
+    "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
+    "무제 파일.md",
     "학교 프로그래밍/무제 파일.md",
     "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
-    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
-    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
-    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.gcd.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
-    "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
-    "StudyFile/Python/python 공부/9.사용자 지정함수/9-1 사용자 지정 함수.md",
-    "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
