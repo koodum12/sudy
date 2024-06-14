@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학교 프로그래밍/무제 파일.md",
+                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,14 +53,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8f34260f09ea229c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -130,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학교 프로그래밍/무제 파일.md",
+                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학교 프로그래밍/무제 파일.md",
+                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학교 프로그래밍/무제 파일.md"
+                "file": "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md"
               }
             }
           },
@@ -181,8 +173,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "cec4ec854aa9190c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,8 +203,8 @@
   },
   "active": "131592091b967a01",
   "lastOpenFiles": [
-    "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
     "학교 프로그래밍/무제 파일.md",
+    "학교 프로그래밍/5월 31일 프로그래밍 수업.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
