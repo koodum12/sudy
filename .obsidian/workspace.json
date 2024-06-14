@@ -23,9 +23,11 @@
             "id": "131592091b967a01",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
+                "file": "학교 프로그래밍/무제 파일.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+                "file": "학교 프로그래밍/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+                "file": "학교 프로그래밍/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
+                "file": "학교 프로그래밍/무제 파일.md"
               }
             }
           },
@@ -199,8 +201,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "131592091b967a01",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+    "학교 프로그래밍/무제 파일.md",
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/Python/python 공부/라이브러리/keras/무제 파일.md",
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
@@ -224,9 +229,6 @@
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
