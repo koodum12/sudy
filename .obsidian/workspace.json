@@ -35,9 +35,11 @@
             "id": "0ba5fefe613cda0c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 16.54.42.excalidraw.md"
+                "file": "개발 일지/2024-6-18일.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 16.54.42.excalidraw.md",
+                "file": "개발 일지/2024-6-18일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 16.54.42.excalidraw.md",
+                "file": "개발 일지/2024-6-18일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 16.54.42.excalidraw.md"
+                "file": "개발 일지/2024-6-18일.md"
               }
             }
           },
@@ -197,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +214,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0ba5fefe613cda0c",
+  "active": "6c7a9f21c9a25f54",
   "lastOpenFiles": [
+    "개발 일지/Drawing 2024-06-18 16.54.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
+    "개발 일지/2024-6-18일.md",
+    "개발 일지",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-    "Excalidraw/Drawing 2024-06-18 16.54.42.excalidraw.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Train set.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Test set.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
@@ -237,8 +243,6 @@
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
-    "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "무제 파일.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
@@ -250,7 +254,6 @@
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools",
     "StudyFile/Python/python 공부/라이브러리",
     "학교 프로그래밍",
-    "StudyFile/Python/python 공부/13.딕셔너리",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
