@@ -35,11 +35,9 @@
             "id": "0ba5fefe613cda0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
-                "mode": "source",
-                "source": false
+                "file": "개발 일지/Drawing 2024-06-18 16.54.42.excalidraw.md"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "개발 일지/Drawing 2024-06-18 16.54.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "개발 일지/Drawing 2024-06-18 16.54.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md"
+                "file": "개발 일지/Drawing 2024-06-18 16.54.42.excalidraw.md"
               }
             }
           },
@@ -216,6 +214,8 @@
   },
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
+    "개발 일지/2024-6-18일.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
     "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
     "StudyFile/🥕/2024-05-17 집 보내줘!.md",
@@ -224,8 +224,6 @@
     "StudyFile/🥕/2024-05-14 흠.......,.md",
     "StudyFile/🥕/2024-05-10 피곤해..., 3..md",
     "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
-    "개발 일지/2024-6-18일.md",
     "개발 일지/Drawing 2024-06-18 16.54.42.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "개발 일지",
