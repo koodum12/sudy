@@ -35,9 +35,11 @@
             "id": "0ba5fefe613cda0c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "개발 일지/행렬 곱셈.md"
+                "file": "개발 일지/2024-6-18일.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발 일지/행렬 곱셈.md",
+                "file": "개발 일지/2024-6-18일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발 일지/행렬 곱셈.md",
+                "file": "개발 일지/2024-6-18일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발 일지/행렬 곱셈.md"
+                "file": "개발 일지/2024-6-18일.md"
               }
             }
           },
@@ -214,8 +216,8 @@
   },
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
-    "개발 일지/2024-6-18일.md",
     "개발 일지/행렬 곱셈.md",
+    "개발 일지/2024-6-18일.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
     "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
