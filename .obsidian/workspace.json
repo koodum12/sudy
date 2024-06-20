@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md"
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md"
               }
             }
           },
@@ -216,18 +216,19 @@
   },
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
+    "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
     "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Test set.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "5-1딥러닝 신경망-20240618214621038.webp",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "개발 일지/2024-6-18일.md",
     "개발 일지/행렬 곱셈.md",
     "StudyFile/🥕/2024-05-18 히히 오줌 발사!!.md",
@@ -243,7 +244,6 @@
     "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
