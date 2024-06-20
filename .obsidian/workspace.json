@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md"
+                "file": "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
+    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
     "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Test set.md",
@@ -243,7 +244,6 @@
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
