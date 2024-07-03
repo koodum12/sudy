@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md"
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md"
               }
             }
           },
@@ -213,8 +213,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
@@ -241,7 +242,6 @@
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "5-1딥러닝 신경망-20240618214621038.webp",
     "개발 일지/2024-6-18일.md",
-    "개발 일지/행렬 곱셈.md",
     "개발 일지",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
