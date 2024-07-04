@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md"
               }
             }
           },
@@ -215,6 +215,9 @@
   },
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
@@ -238,9 +241,6 @@
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Train set.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Test set.md",
     "StudyFile/🥕/2024-05-01-힘들어..md",
-    "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
-    "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
-    "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "5-1딥러닝 신경망-20240618214621038.webp",
     "개발 일지",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
