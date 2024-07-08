@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
+                "file": "StudyFile/AI/gemini api/-공부 링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
+                "file": "StudyFile/AI/gemini api/-공부 링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
+                "file": "StudyFile/AI/gemini api/-공부 링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md"
+                "file": "StudyFile/AI/gemini api/-공부 링크.md"
               }
             }
           },
@@ -215,9 +215,9 @@
   },
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
+    "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
     "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
     "StudyFile/AI/gemini api/-공부 링크.md",
-    "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
     "StudyFile/AI/CNN/CNN이란.md",
     "StudyFile/AI/gemini api",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
