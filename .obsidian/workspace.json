@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md"
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md"
               }
             }
           },
@@ -215,9 +215,15 @@
   },
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
     "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
@@ -233,16 +239,10 @@
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
     "5-1딥러닝 신경망-20240618214621038.webp",
     "개발 일지",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
