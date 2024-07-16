@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
+                "file": "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
+                "file": "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
+                "file": "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md"
+                "file": "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md"
               }
             }
           },
@@ -215,6 +215,9 @@
   },
   "active": "0ba5fefe613cda0c",
   "lastOpenFiles": [
+    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
@@ -240,9 +243,6 @@
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
-    "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
     "5-1딥러닝 신경망-20240618214621038.webp",
     "개발 일지",
     "StudyFile/AI/간단하진 않은 개념/pytorch",
