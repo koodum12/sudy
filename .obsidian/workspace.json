@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+                "file": "StudyFile/AI/참고 자료/영상 분석 ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+                "file": "StudyFile/AI/참고 자료/영상 분석 ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+                "file": "StudyFile/AI/참고 자료/영상 분석 ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md"
+                "file": "StudyFile/AI/참고 자료/영상 분석 ai.md"
               }
             }
           },
@@ -227,8 +227,10 @@
   },
   "active": "7d5e883a4be11401",
   "lastOpenFiles": [
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/참고 자료/영상 분석 ai.md",
+    "StudyFile/AI/참고 자료",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
@@ -255,7 +257,6 @@
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
     "StudyFile/AI/gemini api",
     "StudyFile/AI/CNN",
     "개발 일지",
@@ -267,7 +268,6 @@
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리",
     "StudyFile/Python/python 공부/라이브러리/keras",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
