@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md"
               }
             }
           },
@@ -227,9 +227,12 @@
   },
   "active": "7d5e883a4be11401",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
+    "StudyFile/AI/참고 자료/영상 분석 ai.md",
+    "잠깐 쓰는 매모장.md",
     "무제 파일.md",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/AI/참고 자료/영상 분석 ai.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/참고 자료",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
@@ -249,14 +252,11 @@
     "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
     "StudyFile/AI/gemini api/-공부 링크.md",
     "README.md",
-    "잠깐 쓰는 매모장.md",
     "5-1딥러닝 신경망-20240618214621038.webp",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
     "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
-    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
-    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/AI/gemini api",
     "StudyFile/AI/CNN",
     "개발 일지",
