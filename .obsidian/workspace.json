@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "371adcb15db8be9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
+                "file": "StudyFile/c/자료구조와 함수 포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "371adcb15db8be9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
+                "file": "StudyFile/c/자료구조와 함수 포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
+                "file": "StudyFile/c/자료구조와 함수 포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md"
+                "file": "StudyFile/c/자료구조와 함수 포인터.md"
               }
             }
           },
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,6 +228,11 @@
   },
   "active": "7d5e883a4be11401",
   "lastOpenFiles": [
+    "StudyFile/c/구조체.md",
+    "StudyFile/c/자료구조와 함수 포인터.md",
+    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
+    "StudyFile/c",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
     "StudyFile/AI/참고 자료/영상 분석 ai.md",
@@ -250,13 +256,9 @@
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
     "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
-    "StudyFile/AI/gemini api/-공부 링크.md",
-    "README.md",
     "5-1딥러닝 신경망-20240618214621038.webp",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/Ai Image/image.gif",
-    "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
-    "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
     "StudyFile/AI/gemini api",
     "StudyFile/AI/CNN",
     "개발 일지",
@@ -267,7 +269,6 @@
     "StudyFile/AI/간단한 개념/2,딥러닝/용어",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리",
-    "StudyFile/Python/python 공부/라이브러리/keras",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
