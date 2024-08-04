@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/c/자료구조와 함수 포인터.md",
+                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/c/자료구조와 함수 포인터.md",
+                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/c/자료구조와 함수 포인터.md",
+                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/c/자료구조와 함수 포인터.md"
+                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md"
               }
             }
           },
@@ -228,8 +228,8 @@
   },
   "active": "7d5e883a4be11401",
   "lastOpenFiles": [
-    "StudyFile/c/구조체.md",
     "StudyFile/c/자료구조와 함수 포인터.md",
+    "StudyFile/c/구조체.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/c",
