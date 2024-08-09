@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/django/공부 파일/1..md",
+                "file": "StudyFile/django/공부 파일/0.강의.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/django/공부 파일/1..md",
+                "file": "StudyFile/django/공부 파일/0.강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/django/공부 파일/1..md",
+                "file": "StudyFile/django/공부 파일/0.강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/django/공부 파일/1..md"
+                "file": "StudyFile/django/공부 파일/0.강의.md"
               }
             }
           },
@@ -240,8 +240,9 @@
   },
   "active": "bb5b08899c7dd5bf",
   "lastOpenFiles": [
-    "StudyFile/django/django 로드멥.md",
     "StudyFile/django/공부 파일/1..md",
+    "StudyFile/django/공부 파일/0.강의.md",
+    "StudyFile/django/django 로드멥.md",
     "StudyFile/django/공부 파일",
     "StudyFile/django/공부 한 날.md",
     "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
@@ -267,7 +268,6 @@
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/c/자료구조와 함수 포인터.md",
     "StudyFile/c/구조체.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/c",
     "StudyFile/AI/참고 자료",
     "5-1딥러닝 신경망-20240618214621038.webp",
