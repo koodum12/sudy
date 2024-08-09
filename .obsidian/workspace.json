@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/django/공부 한 날.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/django/공부 한 날.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/django/공부 한 날.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/django/공부 한 날.md"
               }
             }
           },
@@ -240,8 +240,12 @@
   },
   "active": "bb5b08899c7dd5bf",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "StudyFile/오늘 공부한거/2024-5-2 오늘 공부한 전공.md",
+    "StudyFile/django/공부 한 날.md",
+    "StudyFile/django/django 로드멥.md",
     "잠깐 쓰는 매모장.md",
+    "StudyFile/django",
+    "무제 파일.md",
     "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
@@ -265,9 +269,6 @@
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/참고 자료",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
     "5-1딥러닝 신경망-20240618214621038.webp",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/Ai Image/image.gif",
@@ -280,7 +281,6 @@
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것",
     "StudyFile/AI/간단한 개념/2,딥러닝/용어",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
