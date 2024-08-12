@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
+                "file": "StudyFile/django/공부 파일/1.Rest api.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
+                "file": "StudyFile/django/공부 파일/1.Rest api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
+                "file": "StudyFile/django/공부 파일/1.Rest api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md"
+                "file": "StudyFile/django/공부 파일/1.Rest api.md"
               }
             }
           },
@@ -239,6 +239,10 @@
   },
   "active": "bb5b08899c7dd5bf",
   "lastOpenFiles": [
+    "StudyFile/django/공부 한 날.md",
+    "StudyFile/django/공부 파일/1.Rest api.md",
+    "StudyFile/django/공부 파일/0.강의.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.reduce.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
@@ -255,17 +259,13 @@
     "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
-    "StudyFile/django/공부 파일/0.강의.md",
-    "StudyFile/django/공부 파일/1..md",
     "StudyFile/django/django 로드멥.md",
     "StudyFile/django/공부 파일",
-    "StudyFile/django/공부 한 날.md",
     "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
     "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
     "StudyFile/오늘 공부한거/2024-5-23 오늘 공부한 것.md",
     "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
     "StudyFile/오늘 공부한거/2024-5-2 오늘 공부한 전공.md",
-    "잠깐 쓰는 매모장.md",
     "StudyFile/django",
     "StudyFile/c",
     "StudyFile/AI/참고 자료",
