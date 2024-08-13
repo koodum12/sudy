@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
+                "file": "StudyFile/Python/python 공부/7.반복문/enumerate().md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
+                "file": "StudyFile/Python/python 공부/7.반복문/enumerate().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
+                "file": "StudyFile/Python/python 공부/7.반복문/enumerate().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 공부/3.연산자/3.연산자.md"
+                "file": "StudyFile/Python/python 공부/7.반복문/enumerate().md"
               }
             }
           },
@@ -239,6 +239,11 @@
   },
   "active": "bb5b08899c7dd5bf",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/7.반복문/7-2.range문.md",
+    "StudyFile/Python/python 공부/7.반복문/enumerate().md",
+    "StudyFile/Python/python 공부/7.반복문/7-3.while문.md",
+    "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
+    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
     "StudyFile/백엔드/node.js/0..md",
     "StudyFile/백엔드/node.js/1..md",
@@ -262,12 +267,7 @@
     "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
     "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
     "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
-    "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
-    "StudyFile/백엔드/django/django 로드멥.md",
     "StudyFile/백엔드/django/공부 파일",
-    "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
-    "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
     "StudyFile/백엔드/django",
     "StudyFile/c",
     "StudyFile/AI/참고 자료",
