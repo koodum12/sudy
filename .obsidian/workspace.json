@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/이번 주에 공부할 것/5월 4번째 주.md"
+                "file": "잠깐 쓰는 매모장.md"
               }
             }
           },
@@ -237,10 +237,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "bb5b08899c7dd5bf",
   "lastOpenFiles": [
-    "StudyFile/AI/Ai Image/5-1딥러닝 신경망-20240618214621038.webp",
+    "README.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
+    "StudyFile/AI/Ai Image/5-1딥러닝 신경망-20240618214621038.webp",
     "StudyFile/c/자료구조와 함수 포인터.md",
     "StudyFile/c/구조체.md",
     "잠깐 쓰는 매모장.md",
