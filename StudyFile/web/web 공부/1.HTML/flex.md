@@ -18,4 +18,4 @@ defalts = 1
 
 ### flex-basis
 auto = 요소의 Content 너비
-단위 = px,em
+단위 = px,em,rem 등 단위로 지정
