@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/grid.md",
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/grid.md",
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/grid.md",
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/1.HTML/grid.md"
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md"
               }
             }
           },
@@ -223,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,8 +241,12 @@
   },
   "active": "bb5b08899c7dd5bf",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/1.HTML/flex.md",
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
+    "StudyFile/AI/nlp/1.자연어 처리란.md",
+    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/web/web 공부/1.HTML/grid.md",
+    "StudyFile/AI/nlp",
+    "StudyFile/web/web 공부/1.HTML/flex.md",
     "잠깐 쓰는 매모장.md",
     "README.md",
     "StudyFile/백엔드/django/공부 파일/1.Rest api.md",
@@ -265,9 +271,6 @@
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
-    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
     "StudyFile/백엔드/django/공부 파일",
     "StudyFile/백엔드/django",
     "StudyFile/c",
@@ -277,7 +280,6 @@
     "StudyFile/AI/gemini api",
     "StudyFile/AI/CNN",
     "개발 일지",
-    "StudyFile/AI/간단하진 않은 개념/pytorch",
     "StudyFile/Python/python image/Selenium-20240611165358916.webp",
     "StudyFile/Python/python image/Selenium-20240611171528080.webp",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
