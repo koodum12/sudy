@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.nlp 용어 모음.md",
+                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.nlp 용어 모음.md",
+                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.nlp 용어 모음.md",
+                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.nlp 용어 모음.md"
+                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md"
               }
             }
           },
@@ -253,7 +253,7 @@
   "active": "0258a787aaa79623",
   "lastOpenFiles": [
     "StudyFile/AI/nlp/1.자연어 처리란.md",
-    "2.nlp 용어 모음.md",
+    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
     "2024-08-20.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
