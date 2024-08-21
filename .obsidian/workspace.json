@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md"
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md"
               }
             }
           },
@@ -252,14 +252,15 @@
   },
   "active": "0258a787aaa79623",
   "lastOpenFiles": [
-    "StudyFile/AI/nlp/1.자연어 처리란.md",
-    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+    "StudyFile/web/web 공부/2.CSS/flex.md",
+    "StudyFile/web/web 공부/2.CSS/무제 파일.md",
+    "StudyFile/web/web 공부/2.CSS/grid.md",
     "2024-08-20.md",
+    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+    "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
-    "StudyFile/web/web 공부/1.HTML/grid.md",
     "StudyFile/AI/nlp",
-    "StudyFile/web/web 공부/1.HTML/flex.md",
     "잠깐 쓰는 매모장.md",
     "README.md",
     "StudyFile/백엔드/django/공부 파일/1.Rest api.md",
@@ -281,7 +282,6 @@
     "StudyFile/백엔드/django/공부 한 날.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.reduce.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/백엔드/django/공부 파일",
     "StudyFile/백엔드/django",
     "StudyFile/c",
