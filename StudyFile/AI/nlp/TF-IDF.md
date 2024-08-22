@@ -4,3 +4,10 @@
 ##### TF 표현
 - 단순히 원-핫을 합해 만듬.
 	ex)Fruit flies like time flies a fruit의 TF표현 \[1,2,2,1,1,0,0,0]
+	표기법: TF\\((W)\\)
+##### TF-IDF표현
+- IDF(Inverse Document Frequency) = 역문서빈도
+- IDF는 백터 표현에서 자주 등장하는 토큰의 점수를 잦추고 드문 토큰의 점수를 높인다.
+- IDF(\\(W\\)) = \\(\\log\\dfrac{N}{n_{w}}\\)
+	- \\\\(n_{w}\\)는 단어 \\(w\\)를 포함한 문서의 개수
+	- \\\\(N\\)은 전체 문서 개수
