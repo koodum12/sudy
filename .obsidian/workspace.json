@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
+                "file": "StudyFile/AI/nlp/TF-IDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
+                "file": "StudyFile/AI/nlp/TF-IDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
+                "file": "StudyFile/AI/nlp/TF-IDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md"
+                "file": "StudyFile/AI/nlp/TF-IDF.md"
               }
             }
           },
@@ -274,11 +274,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "81af3e09d0c8a5f9",
   "lastOpenFiles": [
+    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
+    "StudyFile/AI/nlp/TF-IDF.md",
     "StudyFile/🥕/2024-05-05-사람살려.md",
     "StudyFile/🥕/2024-05-08 눈 아파ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ.md",
-    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/c/무제 파일.md",
     "무제 폴더",
     "StudyFile/web/web 공부/2.CSS/grid.md",
@@ -305,7 +306,6 @@
     "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
-    "StudyFile/백엔드/node.js/0..md",
     "StudyFile/백엔드/node.js",
     "StudyFile/백엔드",
     "StudyFile/백엔드/django/공부 파일",
