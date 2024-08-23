@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -274,7 +275,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "81af3e09d0c8a5f9",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
     "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
