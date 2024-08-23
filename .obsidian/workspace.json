@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/nlp/TF-IDF.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -194,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/nlp/TF-IDF.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/nlp/TF-IDF.md",
+                "file": "잠깐 쓰는 매모장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/nlp/TF-IDF.md"
+                "file": "잠깐 쓰는 매모장.md"
               }
             }
           },
@@ -274,10 +275,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "81af3e09d0c8a5f9",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
-    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
+    "README.md",
+    "잠깐 쓰는 매모장.md",
     "StudyFile/AI/nlp/TF-IDF.md",
+    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/🥕/2024-05-05-사람살려.md",
     "StudyFile/🥕/2024-05-08 눈 아파ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ.md",
     "StudyFile/c/무제 파일.md",
@@ -292,8 +295,6 @@
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/AI/nlp",
-    "잠깐 쓰는 매모장.md",
-    "README.md",
     "StudyFile/백엔드/django/공부 파일/1.Rest api.md",
     "StudyFile/백엔드/django/공부 파일/0.강의.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
