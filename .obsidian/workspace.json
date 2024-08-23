@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/nlp/형태소 분석.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/nlp/형태소 분석.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/nlp/형태소 분석.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/nlp/형태소 분석.md"
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md"
               }
             }
           },
@@ -276,16 +276,21 @@
   },
   "active": "81af3e09d0c8a5f9",
   "lastOpenFiles": [
+    "StudyFile/AI/nlp/형태소 분석.md",
+    "StudyFile/AI/nlp/자연어 처리 단계.md",
+    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+    "StudyFile/AI/nlp/1.자연어 처리란.md",
+    "StudyFile/AI/gemini api/-공부 링크.md",
+    "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
+    "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
+    "형태소 분석-20240823200524057.webp",
+    "형태소 분석-20240823200301095.webp",
     "형태소 분석-20240823195737567.webp",
     "형태소 분석-20240823195457692.webp",
-    "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/AI/nlp/TF-IDF.md",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194707317.webp",
-    "StudyFile/AI/nlp/형태소 분석.md",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194505887.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194428848.webp",
-    "StudyFile/AI/nlp/1.자연어 처리란.md",
-    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
     "StudyFile/web/web 공부/2.CSS/grid.md",
     "잠깐 쓰는 매모장.md",
     "README.md",
@@ -308,8 +313,6 @@
     "StudyFile/c/자료구조와 함수 포인터.md",
     "StudyFile/c/구조체.md",
     "StudyFile/Python/python 공부/7.반복문/enumerate().md",
-    "StudyFile/Python/python 공부/7.반복문/7-2.range문.md",
-    "StudyFile/Python/python 공부/7.반복문/7-3.while문.md",
     "StudyFile/백엔드/node.js",
     "StudyFile/백엔드",
     "StudyFile/백엔드/django/공부 파일",
@@ -319,10 +322,7 @@
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/AI/gemini api",
-    "StudyFile/Python/python image/Selenium-20240611165358916.webp",
-    "StudyFile/Python/python image/Selenium-20240611171528080.webp",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
-    "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
 }
