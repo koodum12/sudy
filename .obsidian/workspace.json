@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/grid.md"
+                "file": "StudyFile/AI/nlp/1.자연어 처리란.md"
               }
             }
           },
@@ -275,6 +275,8 @@
   },
   "active": "81af3e09d0c8a5f9",
   "lastOpenFiles": [
+    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+    "StudyFile/web/web 공부/2.CSS/grid.md",
     "잠깐 쓰는 매모장.md",
     "README.md",
     "StudyFile/AI/nlp/TF-IDF.md",
@@ -283,12 +285,10 @@
     "StudyFile/🥕/2024-05-08 눈 아파ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ.md",
     "StudyFile/c/무제 파일.md",
     "무제 폴더",
-    "StudyFile/web/web 공부/2.CSS/grid.md",
     "StudyFile/외부 강사",
     "StudyFile/web/web 공부/2.CSS/flex.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
     "2024-08-20.md",
-    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
     "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
