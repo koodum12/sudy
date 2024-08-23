@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/nlp/자연어 처리 단계.md"
+                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md"
               }
             }
           },
@@ -276,10 +276,13 @@
   },
   "active": "81af3e09d0c8a5f9",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
+    "StudyFile/AI/nlp/TF-IDF.md",
     "StudyFile/AI/nlp/형태소 분석.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/AI/nlp/2.nlp 용어 모음.md",
-    "StudyFile/AI/nlp/TF-IDF.md",
     "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/AI/gemini api/-공부 링크.md",
     "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
@@ -310,9 +313,6 @@
     "StudyFile/백엔드/django/공부 파일/0.강의.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/AI/Ai Image/5-1딥러닝 신경망-20240618214621038.webp",
-    "StudyFile/c/자료구조와 함수 포인터.md",
-    "StudyFile/c/구조체.md",
-    "StudyFile/Python/python 공부/7.반복문/enumerate().md",
     "StudyFile/백엔드/node.js",
     "StudyFile/백엔드",
     "StudyFile/백엔드/django/공부 파일",
