@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/web/web 공부/2.CSS/grid.md"
               }
             }
           },
@@ -260,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +273,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "81af3e09d0c8a5f9",
   "lastOpenFiles": [
-    "README.md",
     "잠깐 쓰는 매모장.md",
+    "README.md",
     "StudyFile/AI/nlp/TF-IDF.md",
     "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/🥕/2024-05-05-사람살려.md",
