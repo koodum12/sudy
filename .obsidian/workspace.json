@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/nlp/1.자연어 처리란.md"
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md"
               }
             }
           },
@@ -259,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,6 +276,8 @@
   },
   "active": "81af3e09d0c8a5f9",
   "lastOpenFiles": [
+    "StudyFile/AI/nlp/1.자연어 처리란.md",
+    "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/AI/nlp/2.nlp 용어 모음.md",
     "StudyFile/web/web 공부/2.CSS/grid.md",
     "잠깐 쓰는 매모장.md",
@@ -289,7 +292,6 @@
     "StudyFile/web/web 공부/2.CSS/flex.md",
     "StudyFile/web/web 공부/2.CSS/무제 파일.md",
     "2024-08-20.md",
-    "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/AI/nlp",
@@ -304,7 +306,6 @@
     "StudyFile/Python/python 공부/7.반복문/7-3.while문.md",
     "StudyFile/Python/python 공부/7.반복문/7-1.for문.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
     "StudyFile/백엔드/node.js",
     "StudyFile/백엔드",
     "StudyFile/백엔드/django/공부 파일",
