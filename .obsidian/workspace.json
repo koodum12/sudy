@@ -95,11 +95,9 @@
             "id": "81af3e09d0c8a5f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
-                "mode": "source",
-                "source": false
+                "file": "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp"
               }
             }
           },
@@ -194,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
+                "file": "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
+                "file": "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md"
+                "file": "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp"
               }
             }
           },
@@ -274,8 +272,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "81af3e09d0c8a5f9",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/AI/Ai Image/형태소 분석-20240823195737567.webp",
+    "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
@@ -287,10 +287,9 @@
     "StudyFile/AI/gemini api/-공부 링크.md",
     "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
     "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
-    "형태소 분석-20240823200524057.webp",
-    "형태소 분석-20240823200301095.webp",
-    "형태소 분석-20240823195737567.webp",
-    "형태소 분석-20240823195457692.webp",
+    "StudyFile/AI/Ai Image/형태소 분석-20240823200524057.webp",
+    "StudyFile/AI/Ai Image/형태소 분석-20240823200301095.webp",
+    "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194707317.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194505887.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194428848.webp",
@@ -310,8 +309,6 @@
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/AI/nlp",
     "StudyFile/백엔드/django/공부 파일/1.Rest api.md",
-    "StudyFile/백엔드/django/공부 파일/0.강의.md",
-    "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/AI/Ai Image/5-1딥러닝 신경망-20240618214621038.webp",
     "StudyFile/백엔드/node.js",
     "StudyFile/백엔드",
