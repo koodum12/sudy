@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/nlp/2.nlp 용어 모음.md"
+                "file": "StudyFile/AI/nlp/자연어 처리 단계.md"
               }
             }
           },
@@ -288,6 +288,7 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/AI/nlp/형태소 분석.md",
     "StudyFile/AI/nlp/NLTK.md",
@@ -295,7 +296,6 @@
     "StudyFile/Python/python 알고리즘(방과후))",
     "StudyFile/AI/nlp/TF-IDF.md",
     "StudyFile/AI/nlp/1.자연어 처리란.md",
-    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
