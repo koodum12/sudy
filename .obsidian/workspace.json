@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/nlp/NLTK.md",
+                "file": "StudyFile/Python/python 알고리즘/2024_08_26.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/nlp/NLTK.md",
+                "file": "StudyFile/Python/python 알고리즘/2024_08_26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/nlp/NLTK.md",
+                "file": "StudyFile/Python/python 알고리즘/2024_08_26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/nlp/NLTK.md"
+                "file": "StudyFile/Python/python 알고리즘/2024_08_26.md"
               }
             }
           },
@@ -288,12 +288,14 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/AI/nlp/NLTK.md",
+    "StudyFile/Python/python 알고리즘/2024_08_26.md",
+    "StudyFile/Python/python 알고리즘",
     "StudyFile/AI/nlp/TF-IDF.md",
     "StudyFile/AI/nlp/형태소 분석.md",
     "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/AI/nlp/2.nlp 용어 모음.md",
-    "StudyFile/AI/nlp/NLTK.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
@@ -320,7 +322,6 @@
     "잠깐 쓰는 매모장.md",
     "README.md",
     "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
-    "StudyFile/🥕/2024-05-05-사람살려.md",
     "무제 폴더",
     "StudyFile/외부 강사",
     "StudyFile/AI/nlp",
@@ -333,7 +334,6 @@
     "StudyFile/AI/참고 자료",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/Ai Image/image.gif",
-    "StudyFile/AI/gemini api",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
