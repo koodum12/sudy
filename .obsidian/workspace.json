@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+                "file": "StudyFile/AI/nlp/형태소 분석.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07e97b58da03b0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudyFile/AI/nlp/NLTK.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+                "file": "StudyFile/AI/nlp/NLTK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+                "file": "StudyFile/AI/nlp/NLTK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md"
+                "file": "StudyFile/AI/nlp/NLTK.md"
               }
             }
           },
@@ -274,10 +286,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "81af3e09d0c8a5f9",
+  "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
+    "StudyFile/AI/nlp/TF-IDF.md",
+    "StudyFile/AI/nlp/형태소 분석.md",
+    "StudyFile/AI/nlp/1.자연어 처리란.md",
+    "StudyFile/AI/nlp/자연어 처리 단계.md",
+    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+    "StudyFile/AI/nlp/NLTK.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
@@ -290,11 +308,6 @@
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
-    "StudyFile/AI/nlp/TF-IDF.md",
-    "StudyFile/AI/nlp/형태소 분석.md",
-    "StudyFile/AI/nlp/자연어 처리 단계.md",
-    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
-    "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/AI/gemini api/-공부 링크.md",
     "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
     "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
@@ -308,7 +321,6 @@
     "README.md",
     "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/🥕/2024-05-05-사람살려.md",
-    "StudyFile/🥕/2024-05-08 눈 아파ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ.md",
     "무제 폴더",
     "StudyFile/외부 강사",
     "StudyFile/AI/nlp",
