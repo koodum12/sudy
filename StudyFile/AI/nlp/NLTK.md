@@ -12,3 +12,9 @@
 
 ##### NLTK 연구용 코퍼스 다운로드
 - nltk.download('gutenberg')  // gutenberg라는 코퍼스 다운로드
+
+##### 토큰화
+- ###### 문장 단위 토큰화
+	- from nltk.tokenize import sent_tokenize
+- ###### 단어 단위 토큰화
+	- from nltk.tokenize import word_tokenize
