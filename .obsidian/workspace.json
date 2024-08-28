@@ -107,11 +107,14 @@
             "id": "07e97b58da03b0be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1..md",
-                "mode": "source",
-                "source": false
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas",
+                "viewState": {
+                  "x": -750,
+                  "y": -387,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -206,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1..md",
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1..md",
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1..md"
+                "file": "StudyFile/옵시디언/옵시디언 켄버스.canvas"
               }
             }
           },
@@ -288,18 +291,20 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/Git 사용법/1.깃허브 명령어.md",
+    "StudyFile/옵시디언/옵시디언 마크다운.md",
+    "StudyFile/AI/nlp/TF-IDF.md",
+    "StudyFile/AI/nlp/NLTK.md",
+    "StudyFile/AI/nlp/형태소 분석.md",
+    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
+    "StudyFile/AI/nlp/1.자연어 처리란.md",
+    "StudyFile/AI/CNN/CNN이란.md",
     "StudyFile/백엔드/fast_api/1..md",
+    "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/백엔드/fast_api",
     "잠깐 쓰는 매모장.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
-    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
-    "StudyFile/AI/nlp/형태소 분석.md",
-    "StudyFile/AI/nlp/NLTK.md",
     "StudyFile/Python/python 알고리즘(방과후))",
-    "StudyFile/AI/nlp/TF-IDF.md",
-    "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
@@ -316,13 +321,11 @@
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
     "StudyFile/AI/gemini api/-공부 링크.md",
     "StudyFile/AI/gemini api/1.싱글턴으로 메세지 주고 받기.md",
-    "StudyFile/AI/gemini api/0.기본적으로 보고 가라.md",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200524057.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200301095.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194707317.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194505887.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194428848.webp",
-    "StudyFile/web/web 공부/2.CSS/grid.md",
     "무제 폴더",
     "StudyFile/외부 강사",
     "StudyFile/AI/nlp",
