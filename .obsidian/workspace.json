@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
     "잠깐 쓰는 매모장.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
     "StudyFile/AI/nlp/TF-IDF.md",
@@ -180,7 +182,6 @@
     "StudyFile/백엔드/fast_api/1..md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/백엔드/fast_api",
-    "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/Python/python 알고리즘(방과후))",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
@@ -197,7 +198,6 @@
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
-    "StudyFile/AI/gemini api/-공부 링크.md",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200524057.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200301095.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194707317.webp",
