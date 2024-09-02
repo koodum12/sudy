@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2de0d6f59e59fe12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "131592091b967a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ba5fefe613cda0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d5e883a4be11401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb5b08899c7dd5bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/AI/nlp/1.자연어 처리란.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0258a787aaa79623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/grid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa5cfd5f25edea95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/c/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81af3e09d0c8a5f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/AI/nlp/형태소 분석.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "07e97b58da03b0be",
             "type": "leaf",
             "state": {
@@ -114,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72e3f42a17b2db1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "371adcb15db8be9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,6 +167,8 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
+    "잠깐 쓰는 매모장.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
     "StudyFile/AI/nlp/TF-IDF.md",
@@ -299,7 +180,6 @@
     "StudyFile/백엔드/fast_api/1..md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/백엔드/fast_api",
-    "잠깐 쓰는 매모장.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/Python/python 알고리즘(방과후))",
