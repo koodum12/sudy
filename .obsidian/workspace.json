@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
+                "file": "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
+                "file": "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
+                "file": "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md"
+                "file": "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md"
               }
             }
           },
@@ -165,15 +165,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
+    "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md",
+    "StudyFile/Python/python 공부/데코레이터(decorator)",
     "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
     "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
     "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
-    "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
@@ -195,7 +197,6 @@
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195737567.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200524057.webp",
@@ -211,7 +212,6 @@
     "StudyFile/백엔드",
     "StudyFile/백엔드/django/공부 파일",
     "StudyFile/백엔드/django",
-    "StudyFile/c",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
