@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/선형대수/vector.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/선형대수/vector.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/선형대수/vector.md",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/선형대수/vector.md"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md"
               }
             }
           },
@@ -167,8 +167,14 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
     "StudyFile/AI/선형대수/vector.md",
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/선형대수/무제 폴더",
     "StudyFile/AI/선형대수",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
@@ -191,12 +197,6 @@
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
-    "StudyFile/옵시디언/옵시디언 마크다운.md",
-    "StudyFile/AI/nlp/TF-IDF.md",
-    "StudyFile/AI/nlp/NLTK.md",
-    "StudyFile/AI/nlp/형태소 분석.md",
-    "StudyFile/AI/nlp/2.nlp 용어 모음.md",
-    "StudyFile/AI/nlp/1.자연어 처리란.md",
     "StudyFile/백엔드/fast_api",
     "StudyFile/Python/python 알고리즘(방과후))",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
