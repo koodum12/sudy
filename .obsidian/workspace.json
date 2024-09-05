@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/선형대수/vector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/선형대수/vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/AI/선형대수/vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/AI/선형대수/vector.md"
               }
             }
           },
@@ -167,6 +167,16 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+    "StudyFile/AI/선형대수/vector.md",
+    "StudyFile/AI/선형대수/무제 폴더",
+    "StudyFile/AI/선형대수",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
+    "잠깐 쓰는 매모장.md",
     "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md",
     "StudyFile/Python/python 알고가면 좋은 거/이스케이프 코드.md",
     "StudyFile/Python/python 공부/데코레이터(decorator)",
@@ -179,7 +189,6 @@
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
-    "잠깐 쓰는 매모장.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
@@ -188,15 +197,8 @@
     "StudyFile/AI/nlp/형태소 분석.md",
     "StudyFile/AI/nlp/2.nlp 용어 모음.md",
     "StudyFile/AI/nlp/1.자연어 처리란.md",
-    "StudyFile/AI/CNN/CNN이란.md",
-    "StudyFile/백엔드/fast_api/1..md",
-    "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/백엔드/fast_api",
-    "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/Python/python 알고리즘(방과후))",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195737567.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200524057.webp",
@@ -210,8 +212,6 @@
     "StudyFile/AI/Ai Image/5-1딥러닝 신경망-20240618214621038.webp",
     "StudyFile/백엔드/node.js",
     "StudyFile/백엔드",
-    "StudyFile/백엔드/django/공부 파일",
-    "StudyFile/백엔드/django",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/AI/Ai Image/image.gif",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
