@@ -36,8 +36,28 @@ print(s2)
 Name = 출석부 dtype: object
 
 ```python
-s3 = pd.Series({'name':'김분식','age':30,'gender':'male','job'})
+s3 = pd.Series({'name':'김분식','age':30,'gender':'male','job':'분석가'})
 ```
+==
+```python
+dic1 = {'name':'김분식','age':30,'gender':'male','job':'분석가'}
+pd.Series(dic1)
+```
+--출력 결과--
+name     김분식
+age        30
+gender   male
+job         분석가
+dtype: object
 # Dataframe
 - index - column - value
+```python
+pd.DataFrame([10,20,30,40],['철수','영희','분식','은희'])
+```
+--출력 결과--
+10      20       30       40
+철수   영희   분식   은희
 
+```python
+df1 = pd.DataFrame([[1000,'과자','2019-12-31','반]])
+```
