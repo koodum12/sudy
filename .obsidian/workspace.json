@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
+                "file": "StudyFile/AI/선형대수/vector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
+                "file": "StudyFile/AI/선형대수/vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
+                "file": "StudyFile/AI/선형대수/vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md"
+                "file": "StudyFile/AI/선형대수/vector.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
@@ -195,7 +196,6 @@
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/백엔드/fast_api",
     "StudyFile/Python/python 알고리즘(방과후))",
