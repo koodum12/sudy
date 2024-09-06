@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -165,7 +166,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "07e97b58da03b0be",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
     "StudyFile/AI/선형대수/vector.md",
     "StudyFile/전처리/Series Dataframe.md",
