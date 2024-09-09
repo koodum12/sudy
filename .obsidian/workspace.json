@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md"
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/전처리/Series Dataframe.md",
     "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
+    "StudyFile/전처리/Series Dataframe.md",
     "StudyFile/AI/선형대수/vector.md",
     "StudyFile/전처리",
     "무제 폴더 1",
