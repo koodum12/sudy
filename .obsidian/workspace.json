@@ -11,11 +11,9 @@
             "id": "07e97b58da03b0be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/2.Request Body.md"
+                "file": "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md"
               }
             }
           },
@@ -168,9 +165,10 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/🥕/2024-09-19.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
+    "StudyFile/백엔드/fast_api/0.출처.md",
+    "StudyFile/🥕/2024-09-19.md",
     "StudyFile/Python/python 공부/Enum 열거형.md",
     "StudyFile/AI/nlp/Word2vec.md",
     "StudyFile/AI/nlp/NLTK.md",
@@ -193,7 +191,6 @@
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
