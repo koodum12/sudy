@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md"
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md"
               }
             }
           },
@@ -165,10 +166,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/Enum 열거형.md",
+    "StudyFile/🥕/2024-09-19.md",
+    "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
+    "StudyFile/Python/python 공부/Enum 열거형.md",
     "StudyFile/AI/nlp/Word2vec.md",
     "StudyFile/AI/nlp/NLTK.md",
     "StudyFile/AI/nlp/TF-IDF.md",
@@ -191,8 +194,6 @@
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
