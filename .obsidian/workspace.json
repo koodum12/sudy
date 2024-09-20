@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/0.출처.md",
+                "file": "StudyFile/백엔드/fast_api/Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/0.출처.md",
+                "file": "StudyFile/백엔드/fast_api/Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/0.출처.md",
+                "file": "StudyFile/백엔드/fast_api/Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/0.출처.md"
+                "file": "StudyFile/백엔드/fast_api/Query.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
-    "StudyFile/백엔드/fast_api/1.기본기.md",
-    "StudyFile/백엔드/fast_api/0.출처.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
+    "StudyFile/백엔드/fast_api/Query.md",
+    "StudyFile/백엔드/fast_api/0.출처.md",
+    "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/node.js/1..md",
     "StudyFile/백엔드/node.js/0..md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
@@ -192,7 +193,6 @@
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
