@@ -35,3 +35,10 @@ async def read_items(q: Annotated[str | None,Query(max_length = 50)] = None):
 ```
  
 3.9 아래에서는 typing_extensions 에서 import해야 한다.
+
+
+Annotated 라이브러리는 내 파라미터에 메타데이터(데이터를 설명하는 데이터)를 삽입할 수 있다.
+
+```python
+q: Annotated[str | None] = None
+```
