@@ -6,5 +6,32 @@ from fastapi import FastAPI
 app = FastAPI()
 
 @app.get("/items/")
-async def read_items(q: str | None = None)
+async def read_items(q: str | None = None):
+	results = {"items" : [{"item_id" : "Foo"},{"item_id": "Bar"}]}
+	if q:
+		results.update({"q":q})
+	return resullts
 ```
+쿼리 변수 q는 str자료형이 될 수 도있고 None(없을) 수 도 있다. 이때 default는 None으로 명시해놨다.
+
+
+### Additional validation
+str 자료형 q가 제공되었을 때, q의 길이는 50을 넘게 실행되지 않는다. 이를 사용할 수 있게 강화(enforce)해 보자.
+
+#### import Query and Annotated
+```python
+from typing import Annotated
+
+from fastapi import FastAPI, Query
+
+app = FastAPI()
+
+@app.get("/items/")
+async def read_items(q: Annotated[str | None,Query(max_length = 50)] = None):
+	results = {"items": [{"item_id":"Foo"}, {"item_id": Bar}]}
+	if q:
+		results.update({"q": q})
+		return results
+```
+ 
+3.9 아래에서는 typing_extensions 에서 import해야 한다.
