@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/변수.md",
+                "file": "StudyFile/web/web 공부/3.JS/연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/변수.md",
+                "file": "StudyFile/web/web 공부/3.JS/연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/변수.md",
+                "file": "StudyFile/web/web 공부/3.JS/연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/변수.md"
+                "file": "StudyFile/web/web 공부/3.JS/연산자.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/3.JS/자료형 이해.md",
+    "StudyFile/web/web 공부/3.JS/연산자.md",
     "StudyFile/web/web 공부/3.JS/입출력.md",
     "StudyFile/web/web 공부/3.JS/변수.md",
     "StudyFile/백엔드/fast_api/3.Query.md",
@@ -191,8 +193,6 @@
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/7.모델 학습 결과 확인하기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
