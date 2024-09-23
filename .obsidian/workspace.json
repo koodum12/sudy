@@ -11,10 +11,8 @@
             "id": "07e97b58da03b0be",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "StudyFile/Python/python image/6.넘파이-20240507091518408.webp"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "StudyFile/Python/python image/6.넘파이-20240507091518408.webp"
-              }
+              "state": {}
             }
           },
           {
@@ -148,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +158,15 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/🥕/2024-09-23 p곤hey.md",
+    "StudyFile/🥕/2024-09-19.md",
+    "StudyFile/🥕/당근.md",
+    "StudyFile/🥕/2024-05-17 집 보내줘!.md",
+    "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
+    "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
+    "StudyFile/🥕/2024-05-01-힘들어..md",
+    "무제 파일.canvas",
+    "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
     "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
     "StudyFile/전처리/Series Dataframe.md",
@@ -184,14 +186,6 @@
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
-    "StudyFile/Python/python 공부/4.배열/4-5 문자열 처리 함수.md",
-    "StudyFile/Python/python 공부/4.배열/4-4 정렬과 공백.md",
-    "StudyFile/Python/python 공부/4.배열/4-3.split.md",
-    "StudyFile/Python/python 공부/4.배열/4-2문자열.md",
-    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
-    "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
-    "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
