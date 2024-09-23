@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/연산자.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/연산자.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/연산자.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/web/web 공부/3.JS/연산자.md"
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md"
               }
             }
           },
@@ -165,10 +165,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "07e97b58da03b0be",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/3.JS/자료형 이해.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
+    "2024-08-20.md",
+    "README.md",
+    "잠깐 쓰는 매모장.md",
     "StudyFile/web/web 공부/3.JS/연산자.md",
+    "StudyFile/web/web 공부/3.JS/자료형 이해.md",
     "StudyFile/web/web 공부/3.JS/입출력.md",
     "StudyFile/web/web 공부/3.JS/변수.md",
     "StudyFile/백엔드/fast_api/3.Query.md",
@@ -187,12 +193,6 @@
     "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/nlp/자연어 처리 단계.md",
     "StudyFile/AI/nlp/2.nlp 용어 모음.md",
-    "StudyFile/AI/nlp/1.자연어 처리란.md",
-    "StudyFile/AI/nlp/형태소 분석.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/5.입력 데이터 생성하기.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
-    "StudyFile/옵시디언/옵시디언 마크다운.md",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
