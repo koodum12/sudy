@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠깐 쓰는 매모장.md",
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠깐 쓰는 매모장.md"
+                "file": "StudyFile/Python/python 공부/1.입출력&변수/1-2 입력.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/1.입출력&변수/1-1 출력&변수.md",
+    "잠깐 쓰는 매모장.md",
     "StudyFile/🥕/2024-09-23 p곤hey.md",
     "StudyFile/🥕/2024-09-19.md",
     "StudyFile/🥕/당근.md",
@@ -193,8 +195,6 @@
     "StudyFile/Python/python 공부/6.numpy/6-2.nonzero.md",
     "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
     "StudyFile/Python/python 공부/5.랜덤/5-1.랜덤.md",
-    "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
-    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
