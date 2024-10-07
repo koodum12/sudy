@@ -11,12 +11,8 @@
             "id": "07e97b58da03b0be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,6 +159,8 @@
   },
   "active": "07e97b58da03b0be",
   "lastOpenFiles": [
+    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
     "StudyFile/백엔드/fast_api/3.Query.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
@@ -176,7 +170,6 @@
     "StudyFile/백엔드/node.js/1..md",
     "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
     "무제 파일.canvas",
     "잠깐 쓰는 매모장.md",
     "프로젝트 구상(maybe).md",
@@ -189,7 +182,6 @@
     "StudyFile/이번 주에 공부할 것/무제 파일.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
-    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
     "StudyFile/🥕/당근.md",
     "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
     "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
