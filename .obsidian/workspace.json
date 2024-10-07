@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트 구상(maybe).md",
+                "file": "StudyFile/백엔드/fast_api/0.출처.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트 구상(maybe).md",
+                "file": "StudyFile/백엔드/fast_api/0.출처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트 구상(maybe).md",
+                "file": "StudyFile/백엔드/fast_api/0.출처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트 구상(maybe).md"
+                "file": "StudyFile/백엔드/fast_api/0.출처.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "e25d867d80370172",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/3.JS/입출력.md",
+    "StudyFile/백엔드/fast_api/1.기본기.md",
+    "StudyFile/백엔드/fast_api/0.출처.md",
     "프로젝트 구상(maybe).md",
+    "StudyFile/web/web 공부/3.JS/입출력.md",
     "StudyFile/web/web 공부/3.JS/자료형 이해.md",
     "StudyFile/web/web 공부/3.JS/연산자.md",
     "StudyFile/web/web 공부/3.JS/변수.md",
@@ -206,8 +208,6 @@
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
     "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
     "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
-    "StudyFile/Python/python 공부/9.사용자 지정함수/9-1 사용자 지정 함수.md",
-    "StudyFile/Python/python 공부/8.조건문/8-1 if문.md",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
