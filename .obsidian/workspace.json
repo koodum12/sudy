@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ff228b55d09aa7",
+        "id": "6aa3f9a0f0e81cb6",
         "type": "tabs",
         "children": [
           {
-            "id": "07e97b58da03b0be",
+            "id": "2998386ee5949393",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -247.9999848632812,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제 파일.canvas"
+              }
             }
           },
           {
@@ -157,8 +168,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "07e97b58da03b0be",
+  "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
     "StudyFile/백엔드/fast_api/3.Query.md",
@@ -186,14 +198,12 @@
     "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
     "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
     "StudyFile/🥕/2024-05-23-내일 집간다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ..md",
-    "StudyFile/🥕/2024-05-22-힘들어..md",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
     "무제 폴더 1",
     "StudyFile/AI/선형대수/무제 폴더",
     "StudyFile/AI/선형대수",
     "StudyFile/Python/python 공부/데코레이터(decorator)",
-    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/백엔드/fast_api",
     "StudyFile/Python/python 알고리즘(방과후))",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
