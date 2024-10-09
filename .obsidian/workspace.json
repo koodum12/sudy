@@ -11,14 +11,11 @@
             "id": "2998386ee5949393",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -247.9999848632812,
-                  "zoom": 0
-                }
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md"
               }
             }
           },
@@ -170,6 +167,16 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/5.입력 데이터 생성하기.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/0,코로나 19 확진자 수 예측 인공지능 개발 원리..md",
+    "잠깐 쓰는 매모장.md",
+    "README.md",
+    "프로젝트 구상(maybe).md",
+    "무제 파일.canvas",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
@@ -182,10 +189,6 @@
     "StudyFile/백엔드/node.js/1..md",
     "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
-    "무제 파일.canvas",
-    "잠깐 쓰는 매모장.md",
-    "프로젝트 구상(maybe).md",
-    "README.md",
     "2024-08-20.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
@@ -193,11 +196,6 @@
     "StudyFile/web/web 공부/3.JS/입출력.md",
     "StudyFile/이번 주에 공부할 것/무제 파일.md",
     "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
-    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
-    "StudyFile/🥕/당근.md",
-    "StudyFile/🥕/2024-06-20-피곤해 죽겠네 1.md",
-    "StudyFile/🥕/2024-06-11-피곤해 죽겠네.md",
-    "StudyFile/🥕/2024-05-23-내일 집간다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ..md",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
     "무제 폴더 1",
