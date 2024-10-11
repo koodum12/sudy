@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Java/2.주석.md",
+                "file": "StudyFile/Java/상수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Java/2.주석.md",
+                "file": "StudyFile/Java/상수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Java/2.주석.md",
+                "file": "StudyFile/Java/상수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Java/2.주석.md"
+                "file": "StudyFile/Java/상수.md"
               }
             }
           },
@@ -165,10 +165,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2998386ee5949393",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
-    "StudyFile/Java/1.자료형.md",
+    "StudyFile/Java/무제 폴더",
+    "StudyFile/Java/3.변수 명.md",
+    "StudyFile/Java/상수.md",
     "StudyFile/Java/2.주석.md",
+    "StudyFile/Java/1.자료형.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
     "StudyFile/Java",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/5.입력 데이터 생성하기.md",
@@ -194,9 +197,6 @@
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
     "2024-08-20.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
-    "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
-    "StudyFile/Git 사용법/1.깃허브 명령어.md",
-    "StudyFile/web/web 공부/3.JS/입출력.md",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
     "무제 폴더 1",
