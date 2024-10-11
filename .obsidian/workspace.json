@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+                "file": "StudyFile/Java/2.주석.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+                "file": "StudyFile/Java/2.주석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+                "file": "StudyFile/Java/2.주석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md"
+                "file": "StudyFile/Java/2.주석.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/5.입력 데이터 생성하기.md",
+    "StudyFile/Java/1.자료형.md",
+    "StudyFile/Java/2.주석.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
+    "StudyFile/Java",
+    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/5.입력 데이터 생성하기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/3.데이터 정규화 및 분류하기..md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/2.데이터 불러오기.md",
     "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/1,라이브러리 불러오기..md",
@@ -194,8 +197,6 @@
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/web/web 공부/3.JS/입출력.md",
-    "StudyFile/이번 주에 공부할 것/무제 파일.md",
-    "StudyFile/이번 주에 공부할 것/5월 4번째 주.md",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
     "무제 폴더 1",
@@ -214,7 +215,6 @@
     "StudyFile/외부 강사",
     "StudyFile/AI/nlp",
     "StudyFile/AI/Ai Image/5-1딥러닝 신경망-20240618214621038.webp",
-    "StudyFile/백엔드/node.js",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
 }
