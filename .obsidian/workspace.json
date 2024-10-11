@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Java/연산자.md",
+                "file": "StudyFile/Java/7.문자열.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Java/연산자.md",
+                "file": "StudyFile/Java/7.문자열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Java/연산자.md",
+                "file": "StudyFile/Java/7.문자열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Java/연산자.md"
+                "file": "StudyFile/Java/7.문자열.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/Java/형 변환.md",
-    "StudyFile/Java/연산자.md",
+    "StudyFile/Java/6.연산자.md",
+    "StudyFile/Java/7.문자열.md",
+    "StudyFile/Java/5.형 변환.md",
     "StudyFile/Java/4.상수.md",
     "StudyFile/Java/무제 폴더",
     "StudyFile/Java/3.변수 명.md",
@@ -197,7 +198,6 @@
     "StudyFile/백엔드/node.js/1..md",
     "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
-    "2024-08-20.md",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
     "무제 폴더 1",
