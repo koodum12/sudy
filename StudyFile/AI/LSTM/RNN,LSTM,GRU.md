@@ -4,4 +4,28 @@
 
 시간의 흐름에 따라 관측되어 시간의 영향을 받게 되는 데이터 -> **시계열 데이터** (Time series data)
 
-시계열 데이터 + 
+시계열 데이터 + 2개 이상의 변수의 시계열을 이용해 분석하는 것 -> **다변량 시계열 데이터**
+
+### 전통 통계 기반시계열 데이터 분석 방법론
+- 이동평균법(Moving average)
+- 지수평활법(Exponential smoothing)
+- ARIMA (Autoregressive integrated moving)모델
+- SARIMA (Seasonal ARIMA) 모델
+- Binary variable model (해당 서점만 1,나머지는 0으로 변환)
+- Trigonometirc model (sine과 cosine 함수의 조합으로 표현)
+- Growth curve model
+- Autoregressive integrated moving average exogenous (ARIMAX) (X변수를 이용하여 시계열 Y예측)
+- Prophet,......
+
+### 머신러닝 기반 시계열 데이터 분석 방법론
+- Linear regression/Logistic regression models
+- Support yector machine/regression
+- Random forest
+- Boosting
+- Hidden Markov model (HMM)
+
+### 인공지능 기반 시계열 데이터 분석 방법론
+- Recurrent neural networks(RNN) (1986)
+- LSTM(1997)
+- GRU(2014)
+- Seq25eq (NIPS 20)
