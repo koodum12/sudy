@@ -28,4 +28,11 @@
 - Recurrent neural networks(RNN) (1986)
 - LSTM(1997)
 - GRU(2014)
-- Seq25eq (NIPS 20)
+- Seq25eq (NIPS 2014)
+- Seq25eq with attention (ICLR 2015)
+- Convolutional neural networks (CNN) for time series analysis (2016)
+- Transformer (NIPS 2017)
+- GPT-1(2018), BERT(2019), GPT-3(2020).....
+
+
+###
