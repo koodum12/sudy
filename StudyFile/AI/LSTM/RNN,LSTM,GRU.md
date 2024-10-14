@@ -39,4 +39,8 @@ w11,w21 = X1 X2에 대한 가중치
 z01,z11 = 다층 신경망
 **exp** =  자연상수 eee에 대한 지수 함수
 
-#### 순환신경망
+#### 순환신경망 학습
+Backward Propagation Trough Time (BPTT) in RNN
+- 학습 대상(parameters): (W_xh,W_hh,W_hy)
+
+$$\frac{aLoss}{aW_{hy}} = \frac{aL_t}{ay_t} \times \frac{ay_t}{aW_{hy}h_t} \times \frac{aW_{hy}}{aW_{hy}}$$![[RNN,LSTM,GRU-20241014233241823.webp]]
