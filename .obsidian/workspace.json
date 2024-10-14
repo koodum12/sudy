@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
+                "file": "StudyFile/AI/수학/limit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
+                "file": "StudyFile/AI/수학/limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
+                "file": "StudyFile/AI/수학/limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md"
+                "file": "StudyFile/AI/수학/limit.md"
               }
             }
           },
@@ -165,11 +165,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/AI/수학/Log.md",
+    "StudyFile/AI/수학/limit.md",
+    "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/AI/수학",
     "StudyFile/Java/7.문자열.md",
-    "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/AI/LSTM",
     "StudyFile/Java/6.연산자.md",
     "StudyFile/Java/5.형 변환.md",
@@ -198,7 +200,6 @@
     "StudyFile/백엔드/fast_api/0.출처.md",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/백엔드/node.js/0..md",
-    "StudyFile/백엔드/node.js/1..md",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
     "무제 폴더 1",
@@ -206,7 +207,6 @@
     "StudyFile/AI/선형대수",
     "StudyFile/Python/python 공부/데코레이터(decorator)",
     "StudyFile/백엔드/fast_api",
-    "StudyFile/Python/python 알고리즘(방과후))",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195737567.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200524057.webp",
