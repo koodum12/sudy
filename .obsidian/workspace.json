@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md",
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md"
+                "file": "StudyFile/Python/python 알고리즘(방과후))/2024-10-14-1.md"
               }
             }
           },
@@ -165,10 +165,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-10-14-1.md",
+    "StudyFile/Python/python 공부/4.배열/4-6 list(앞에 있는거 보지 말고 이거 봐).md",
+    "StudyFile/Python/python 공부/10.클래스/10-1 클래스.md",
+    "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
+    "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
+    "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md",
+    "StudyFile/Python/python 공부/Enum 열거형.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
@@ -188,15 +195,8 @@
     "StudyFile/Java/7.문자열.md",
     "StudyFile/AI/LSTM",
     "StudyFile/Java/6.연산자.md",
-    "StudyFile/Java/5.형 변환.md",
-    "StudyFile/Java/4.상수.md",
     "StudyFile/Java/무제 폴더",
-    "StudyFile/Java/3.변수 명.md",
-    "StudyFile/Java/2.주석.md",
-    "StudyFile/Java/1.자료형.md",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/4.데이터 형태 변경하기.md",
     "StudyFile/Java",
-    "StudyFile/AI/따라만들기/전염병 에측 인공지능 만들기/5.입력 데이터 생성하기.md",
     "무제 파일.canvas",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/AI/Ai Image/image 1.gif",
