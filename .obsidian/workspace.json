@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/수학/지수 함수.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/수학/지수 함수.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/수학/지수 함수.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/수학/지수 함수.md"
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md"
               }
             }
           },
@@ -168,10 +167,10 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "지수 함수-20241014222130067.webp",
-    "지수 함수-20241014222037060.webp",
     "StudyFile/AI/수학/로그 함수.md",
     "StudyFile/AI/수학/지수 함수.md",
+    "지수 함수-20241014222130067.webp",
+    "지수 함수-20241014222037060.webp",
     "StudyFile/AI/수학/limit.md",
     "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-10-14-1.md",
@@ -215,7 +214,6 @@
     "StudyFile/AI/Ai Image/형태소 분석-20240823200301095.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194707317.webp",
     "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194505887.webp",
-    "StudyFile/AI/Ai Image/자연어 처리 단계-20240823194428848.webp",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
 }
