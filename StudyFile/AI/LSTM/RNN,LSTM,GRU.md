@@ -24,17 +24,8 @@
 - Boosting
 - Hidden Markov model (HMM)
 
-### 인공지능 기반 시계열 데이터 분석 방법론
-- Recurrent neural networks(RNN) (1986)
-- LSTM(1997)
-- GRU(2014)
-- Seq25eq (NIPS 2014)
-- Seq25eq with attention (ICLR 2015)
-- Convolutional neural networks (CNN) for time series analysis (2016)
-- Transformer (NIPS 2017)
-- GPT-1(2018), BERT(2019), GPT-3(2020).....
-
-
-### 모델
+### 인공지능 기반 시계열 데이터 분석 방 
 ##### 선형회귀 모델
 $$ f(x) = w_0 + w_1X_1 + w_2X_2 $$
+##### 로지스틱회귀 모델
+$$\frac{1}{2+e}$$
