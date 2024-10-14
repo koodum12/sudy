@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
+                "file": "StudyFile/AI/수학/Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
+                "file": "StudyFile/AI/수학/Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
+                "file": "StudyFile/AI/수학/Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md"
+                "file": "StudyFile/AI/수학/Log.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/AI/CNN/CNN이란.md",
     "StudyFile/AI/참고 자료/영상 분석 ai.md",
     "StudyFile/AI/수학/Log.md",
-    "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/AI/선형대수/vector.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
