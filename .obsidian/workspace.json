@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md"
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +166,9 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/임베디드/1.Arduino.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/2.깃허브 버전 관리..md",
-    "StudyFile/임베디드/1.Arduino.md",
     "StudyFile/AI/수학/미분 & 적분.md",
     "StudyFile/임베디드",
     "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
