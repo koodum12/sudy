@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md",
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md",
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md",
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md"
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +167,14 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
+    "StudyFile/백엔드/fast_api/3.Query.md",
+    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
+    "StudyFile/백엔드/fast_api/2.Request Body.md",
+    "StudyFile/백엔드/fast_api/1.기본기.md",
+    "StudyFile/백엔드/node.js/0..md",
+    "StudyFile/백엔드/node.js/1..md",
     "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md",
+    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
     "StudyFile/🥕/당근.md",
     "StudyFile/🥕/무제 파일.md",
     "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
@@ -190,12 +197,6 @@
     "StudyFile/Python/python 공부/11.map 함수/11-1 map 함수.md",
     "StudyFile/Python/python 공부/12.예외 처리/12-1 try except.md",
     "StudyFile/Python/python 공부/데코레이터(decorator)/decorator.md",
-    "StudyFile/Python/python 공부/Enum 열거형.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
-    "StudyFile/AI/CNN/CNN이란.md",
     "StudyFile/AI/수학",
     "StudyFile/AI/LSTM",
     "StudyFile/Java/무제 폴더",
