@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md"
+                "file": "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md"
               }
             }
           },
@@ -168,8 +167,8 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
     "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
+    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
     "StudyFile/백엔드/fast_api/3.Query.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
