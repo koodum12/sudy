@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.기본기"
+              "title": "2.Request Body"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.기본기의 백링크"
+              "title": "2.Request Body의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.기본기의 나가는 링크"
+              "title": "2.Request Body의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md"
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md"
               },
               "icon": "lucide-list",
-              "title": "1.기본기 개요"
+              "title": "2.Request Body 개요"
             }
           },
           {
@@ -186,15 +186,15 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/백엔드/fast_api/3.Query.md",
+    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
+    "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/Python/python 공부/14.pandas/pandas.md",
     "StudyFile/Python/python 공부/14.pandas",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/requests.md",
-    "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
-    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
-    "StudyFile/백엔드/fast_api/3.Query.md",
     "StudyFile/백엔드/node.js/0..md",
     "StudyFile/백엔드/node.js/1..md",
     "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md",
