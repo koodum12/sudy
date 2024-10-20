@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/임베디드/1.Arduino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.기본기"
+              "title": "1.Arduino"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/임베디드/1.Arduino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.기본기의 백링크"
+              "title": "1.Arduino의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/임베디드/1.Arduino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.기본기의 나가는 링크"
+              "title": "1.Arduino의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md"
+                "file": "StudyFile/임베디드/1.Arduino.md"
               },
               "icon": "lucide-list",
-              "title": "1.기본기 개요"
+              "title": "1.Arduino 개요"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
     "StudyFile/백엔드/이론/2.rest API, GraphQL비교.md",
@@ -204,7 +205,6 @@
     "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
     "StudyFile/백엔드/이론",
     "StudyFile/백엔드/fast_api/3.Query.md",
-    "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/fast_api/0.출처.md",
     "StudyFile/백엔드/fast_api/8.중첩 모델.md",
     "StudyFile/백엔드/fast_api/7.필드(Field).md",
