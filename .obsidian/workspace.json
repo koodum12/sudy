@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
+                "file": "StudyFile/🥕/2024-10-21 월요병 도진 날.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "아우름플래닛 Q&A"
+              "title": "2024-10-21 월요병 도진 날"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
+                "file": "StudyFile/🥕/2024-10-21 월요병 도진 날.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "아우름플래닛 Q&A의 백링크"
+              "title": "2024-10-21 월요병 도진 날의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
+                "file": "StudyFile/🥕/2024-10-21 월요병 도진 날.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "아우름플래닛 Q&A의 나가는 링크"
+              "title": "2024-10-21 월요병 도진 날의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md"
+                "file": "StudyFile/🥕/2024-10-21 월요병 도진 날.md"
               },
               "icon": "lucide-list",
-              "title": "아우름플래닛 Q&A 개요"
+              "title": "2024-10-21 월요병 도진 날 개요"
             }
           },
           {
@@ -187,8 +187,13 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
+    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
+    "StudyFile/🥕/2024-10-21 월요병 도진 날.md",
+    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md",
+    "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
+    "StudyFile/전처리/Series Dataframe.md",
     "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
+    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/임베디드/1.Arduino.md",
     "StudyFile/외부 강사/기업 탐방",
     "잠깐 쓰는 매모장.md",
@@ -216,11 +221,6 @@
     "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
     "StudyFile/백엔드/django/공부 파일/1.Rest api.md",
-    "StudyFile/백엔드/django/공부 한 날.md",
-    "StudyFile/백엔드/django/django 로드멥.md",
-    "StudyFile/AI/수학/지수 함수.md",
-    "StudyFile/AI/수학/limit.md",
-    "StudyFile/AI/수학/미분 & 적분.md",
     "StudyFile/Python/python 공부/14.pandas",
     "StudyFile/임베디드",
     "StudyFile/AI/수학",
