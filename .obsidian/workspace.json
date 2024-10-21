@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "StudyFile/임베디드/1.Arduino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-4-2 인공 신경망 오차 줄이기"
+              "title": "1.Arduino"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "StudyFile/임베디드/1.Arduino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3-4-2 인공 신경망 오차 줄이기의 백링크"
+              "title": "1.Arduino의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+                "file": "StudyFile/임베디드/1.Arduino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "3-4-2 인공 신경망 오차 줄이기의 나가는 링크"
+              "title": "1.Arduino의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md"
+                "file": "StudyFile/임베디드/1.Arduino.md"
               },
               "icon": "lucide-list",
-              "title": "3-4-2 인공 신경망 오차 줄이기 개요"
+              "title": "1.Arduino 개요"
             }
           },
           {
@@ -187,37 +187,37 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
+    "StudyFile/옵시디언/옵시디언 마크다운.md",
+    "StudyFile/Python/python 공부/Enum 열거형.md",
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
+    "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.gcd.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_permutation.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.reduce.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
+    "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
+    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Validation set.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Test set.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Train set.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
-    "StudyFile/AI/간단한 개념/1.머신러닝/머신러닝이란..md",
-    "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
     "LSTM 튜토리얼-20241021171358311.webp",
     "LSTM 튜토리얼-20241021171234469.webp",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021170822508.webp",
-    "StudyFile/c/구조체.md",
-    "StudyFile/c/무제 파일.md",
-    "StudyFile/🥕/2024-10-21 월요병 도진 날.md",
-    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사).md",
-    "StudyFile/🥕/2024-10-07 p곤hey kill 겠 於(어조사) 2.md",
-    "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
-    "StudyFile/전처리/Series Dataframe.md",
-    "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
-    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
-    "StudyFile/임베디드/1.Arduino.md",
     "StudyFile/외부 강사/기업 탐방",
-    "잠깐 쓰는 매모장.md",
-    "프로젝트 구상(maybe).md",
     "무제 파일.canvas",
-    "StudyFile/백엔드/fast_api/1.기본기.md",
-    "StudyFile/백엔드/fast_api/2.Request Body.md",
-    "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
     "StudyFile/AI/Ai Image/RNN,LSTM,GRU-20241014233241823.webp",
     "StudyFile/AI/Ai Image/지수 함수-20241014222037060.webp",
     "StudyFile/AI/Ai Image/지수 함수-20241014222130067.webp",
@@ -230,7 +230,6 @@
     "StudyFile/AI/LSTM",
     "StudyFile/Java/무제 폴더",
     "StudyFile/Java",
-    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
