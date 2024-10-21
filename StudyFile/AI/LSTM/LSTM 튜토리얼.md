@@ -27,4 +27,7 @@
 3) Hidden state:
 	- 이전 출력
 4) Forget Gate, Input Gate, Output Gate
-	- Gate가 총 3가지로 있고, 이게 잘 조합되어서 Long term 
+	- Gate가 총 3가지로 있고, 이게 잘 조합되어서 Long term & Short term을 둘 다 잘 고려하게 됨
+	- **Core는 Celll state: 일종의 컨베이어 벨트 같은 것으로 지금까지의 정보를 잘 취합해서 cell state로 잘 흘러 들어감**
+
+---\[Gate 설명]
