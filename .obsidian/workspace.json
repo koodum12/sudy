@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Arduino"
+              "title": "아우름플래닛 Q&A"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.Arduino의 백링크"
+              "title": "아우름플래닛 Q&A의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.Arduino의 나가는 링크"
+              "title": "아우름플래닛 Q&A의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md"
+                "file": "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md"
               },
               "icon": "lucide-list",
-              "title": "1.Arduino 개요"
+              "title": "아우름플래닛 Q&A 개요"
             }
           },
           {
@@ -187,15 +187,19 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
+    "StudyFile/외부 강사/기업 탐방/아우름플래닛 Q&A.md",
+    "StudyFile/임베디드/1.Arduino.md",
+    "StudyFile/외부 강사/기업 탐방",
+    "잠깐 쓰는 매모장.md",
+    "프로젝트 구상(maybe).md",
+    "무제 파일.canvas",
     "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
     "StudyFile/백엔드/이론/2.rest API, GraphQL비교.md",
     "StudyFile/백엔드/이론/1.API.md",
     "StudyFile/백엔드/django/공부 파일/0.강의.md",
-    "잠깐 쓰는 매모장.md",
-    "무제 파일.canvas",
-    "프로젝트 구상(maybe).md",
     "README.md",
     "StudyFile/AI/Ai Image/RNN,LSTM,GRU-20241014233241823.webp",
     "StudyFile/AI/Ai Image/지수 함수-20241014222037060.webp",
@@ -217,9 +221,6 @@
     "StudyFile/AI/수학/지수 함수.md",
     "StudyFile/AI/수학/limit.md",
     "StudyFile/AI/수학/미분 & 적분.md",
-    "StudyFile/AI/수학/로그 함수.md",
-    "StudyFile/Python/requests.md",
-    "개발 일지/2024-6-18일.md",
     "StudyFile/Python/python 공부/14.pandas",
     "StudyFile/임베디드",
     "StudyFile/AI/수학",
@@ -230,7 +231,6 @@
     "StudyFile/AI/Ai Image/image 1.gif",
     "StudyFile/Python/python image/6.넘파이-20240507091518408.webp",
     "StudyFile/전처리",
-    "무제 폴더 1",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195457692.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823195737567.webp",
     "StudyFile/AI/Ai Image/형태소 분석-20240823200524057.webp",
