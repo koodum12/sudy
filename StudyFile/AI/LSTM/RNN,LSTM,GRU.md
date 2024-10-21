@@ -43,4 +43,7 @@ z01,z11 = 다층 신경망
 Backward Propagation Trough Time (BPTT) in RNN
 - 학습 대상(parameters): (W_xh,W_hh,W_hy)
 
-$$\frac{aLoss}{aW_{hy}} = \frac{aL_t}{ay_t} \times \frac{ay_t}{aW_{hy}h_t} \times \frac{aW_{hy}}{aW_{hy}}$$![[RNN,LSTM,GRU-20241014233241823.webp]]
+$$\frac{aLoss}{aW_{hy}} = \frac{aL_t}{ay_t} \times \frac{ay_t}{aW_{hy}h_t} \times \frac{aW_{hy}}{aW_{hy}}$$
+
+#### 순환신경망 구조
+![[RNN,LSTM,GRU-20241014233241823.webp]]

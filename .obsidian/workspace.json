@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Arduino"
+              "title": "RNN,LSTM,GRU"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.Arduino의 백링크"
+              "title": "RNN,LSTM,GRU의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md",
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.Arduino의 나가는 링크"
+              "title": "RNN,LSTM,GRU의 나가는 링크"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/임베디드/1.Arduino.md"
+                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md"
               },
               "icon": "lucide-list",
-              "title": "1.Arduino 개요"
+              "title": "RNN,LSTM,GRU 개요"
             }
           },
           {
@@ -188,6 +188,7 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/임베디드/1.Arduino.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/옵시디언/옵시디언 마크다운.md",
     "StudyFile/Python/python 공부/Enum 열거형.md",
