@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/2. cost.md",
+                "file": "StudyFile/AI/수학/시그마(Σ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. cost"
+              "title": "시그마(Σ)"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/1.선형회귀(Linear Regression).md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/2. cost.md",
+    "StudyFile/AI/수학/시그마(Σ).md",
+    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/1.선형회귀(Linear Regression).md",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현/다층 퍼센트론 구현.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)",
     "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
@@ -220,7 +221,6 @@
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/6.numpy/6-1.넘파이.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
-    "StudyFile/AI/간단한 개념/5.딥러닝 기술 살펴보기/5-1딥러닝 신경망.md",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021170822508.webp",
     "StudyFile/외부 강사/기업 탐방",
     "무제 파일.canvas",
