@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -185,8 +184,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2998386ee5949393",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/AI/gemini api/vector-20241023202202681.webp",
     "StudyFile/AI/수학/선형대수/행렬 곱셈.md",
     "StudyFile/AI/수학/선형대수/행렬.md",
     "StudyFile/AI/수학/선형대수/vector.md",
@@ -214,7 +214,6 @@
     "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현",
     "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171358311.webp",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171234469.webp",
     "StudyFile/AI/Ai Image/2.프로세스-20241021231335101.webp",
