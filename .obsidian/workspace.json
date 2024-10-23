@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/수학/limit.md",
+                "file": "StudyFile/AI/수학/선형대수/vector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "limit"
+              "title": "vector"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/수학/limit.md",
+                "file": "StudyFile/AI/수학/선형대수/vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "limit의 백링크"
+              "title": "vector의 백링크"
             }
           },
           {
@@ -186,14 +186,18 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/AI/수학/지수 함수.md",
+    "vector-20241024081654026.webp",
+    "vector-20241024081643612.webp",
+    "vector-20241024081410592.webp",
+    "StudyFile/AI/수학/선형대수/행렬 곱셈.md",
+    "StudyFile/AI/수학/선형대수/행렬.md",
     "StudyFile/AI/수학/미분 & 적분.md",
+    "StudyFile/AI/수학/limit.md",
+    "StudyFile/AI/수학/지수 함수.md",
     "StudyFile/AI/수학/시그마(Σ).md",
     "StudyFile/AI/수학/로그 함수.md",
     "StudyFile/AI/수학/선형대수/vector.md",
     "StudyFile/AI/gemini api/vector-20241023202202681.webp",
-    "StudyFile/AI/수학/선형대수/행렬 곱셈.md",
-    "StudyFile/AI/수학/선형대수/행렬.md",
     "StudyFile/백엔드/fast_api/9.요청 예제 데이터 선언.md",
     "StudyFile/백엔드/fast_api/8.중첩 모델.md",
     "StudyFile/백엔드/fast_api/7.필드(Field).md",
@@ -212,9 +216,7 @@
     "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현/다층 퍼센트론 구현.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)",
-    "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현",
-    "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171358311.webp",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171234469.webp",
     "StudyFile/AI/Ai Image/2.프로세스-20241021231335101.webp",
@@ -225,8 +227,6 @@
     "무제 파일.canvas",
     "StudyFile/AI/Ai Image/RNN,LSTM,GRU-20241014233241823.webp",
     "StudyFile/AI/Ai Image/지수 함수-20241014222037060.webp",
-    "StudyFile/AI/Ai Image/지수 함수-20241014222130067.webp",
-    "StudyFile/백엔드/img/API-20241018201140525.webp",
     "StudyFile/백엔드/img",
     "StudyFile/백엔드/이론",
     "StudyFile/Python/python 공부/14.pandas",

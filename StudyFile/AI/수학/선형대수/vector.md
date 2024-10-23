@@ -17,3 +17,17 @@
 #### 물리적 벡터
 방향과 크기를 모두 갖는 "**속도(벡터)**" 라는 개념을 다룸
 
+
+#### 백터의 합
+##### 벡터가 2개일 때
+
+![[vector-20241024081410592.webp]]
+
+##### 벡터가 3개 이상일 때
+
+![[vector-20241024081654026.webp]]
+
+
+
+# 출처
+https://www.youtube.com/watch?v=LgrNNn4LQxQ&list=PLwzYFiJ0Ed6mlwLfg8tdkCMHVC-vH9_6K&index=3![[vector-20241024081643612.webp]]
