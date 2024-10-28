@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/6.텐서플로 아키텍처.md",
+                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/7.텐서플로 세션.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.텐서플로 아키텍처"
+              "title": "7.텐서플로 세션"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/6.텐서플로 아키텍처.md",
+                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/7.텐서플로 세션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "6.텐서플로 아키텍처의 백링크"
+              "title": "7.텐서플로 세션의 백링크"
             }
           },
           {
@@ -186,9 +186,10 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/6.텐서플로 아키텍처.md",
+    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/7.텐서플로 세션.md",
     "텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
-    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/6.텐서플로 아키텍처.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/4. 텐서플로우 플레이스홀더.md",
     "StudyFile/AI/수학/로그 함수.md",
     "README.md",
@@ -226,7 +227,6 @@
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021170822508.webp",
     "StudyFile/외부 강사/기업 탐방",
     "무제 파일.canvas",
-    "StudyFile/AI/Ai Image/RNN,LSTM,GRU-20241014233241823.webp",
     "StudyFile/백엔드/img",
     "StudyFile/백엔드/이론",
     "StudyFile/Python/python 공부/14.pandas",
