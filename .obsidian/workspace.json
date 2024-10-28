@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
+                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/텐서플로 아키텍처.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.텐서플로 기본 함수"
+              "title": "텐서플로 아키텍처"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
+                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/텐서플로 아키텍처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "5.텐서플로 기본 함수의 백링크"
+              "title": "텐서플로 아키텍처의 백링크"
             }
           },
           {
@@ -186,6 +186,8 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
+    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/텐서플로 아키텍처.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/4. 텐서플로우 플레이스홀더.md",
     "StudyFile/AI/수학/로그 함수.md",
     "README.md",
@@ -195,7 +197,6 @@
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
-    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/3.텐서플로우 변수와 상수.md",
     "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
@@ -215,7 +216,6 @@
     "vector-20241024081643612.webp",
     "vector-20241024081410592.webp",
     "StudyFile/AI/gemini api/vector-20241023202202681.webp",
-    "StudyFile/백엔드/fast_api/6.다중 매개변수.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171358311.webp",
