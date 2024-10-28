@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.텐서플로 기본 함수"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "5.텐서플로 기본 함수의 백링크"
+              "title": "README의 백링크"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +185,14 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/4. 텐서플로우 플레이스홀더.md",
+    "StudyFile/🥕/2024-05-02- 수학 help🥕.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md",
+    "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
+    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/4. 텐서플로우 플레이스홀더.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/3.텐서플로우 변수와 상수.md",
     "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
@@ -210,12 +215,6 @@
     "StudyFile/AI/gemini api/vector-20241023202202681.webp",
     "StudyFile/백엔드/fast_api/6.다중 매개변수.md",
     "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
-    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
-    "StudyFile/백엔드/fast_api/3.Query.md",
-    "StudyFile/백엔드/fast_api/2.Request Body.md",
-    "StudyFile/백엔드/fast_api/0.출처.md",
-    "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
-    "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171358311.webp",
