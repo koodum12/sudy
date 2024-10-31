@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/외부 강사/기업 탐방/Exem.md",
+                "file": "StudyFile/백엔드/이론/3.도메인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exem"
+              "title": "3.도메인"
             }
           }
         ]
@@ -186,8 +186,11 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/외부 강사/기업 탐방/아우름플래닛 기업 탐방.md",
+    "StudyFile/백엔드/이론/1.인터넷.md",
+    "StudyFile/백엔드/이론/3.도메인.md",
+    "StudyFile/백엔드/이론/0.로드맵.md",
     "StudyFile/외부 강사/기업 탐방/Exem.md",
+    "StudyFile/외부 강사/기업 탐방/아우름플래닛 기업 탐방.md",
     "StudyFile/AI/수학/로그 함수.md",
     "StudyFile/AI/수학/지수 함수.md",
     "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
@@ -201,8 +204,6 @@
     "StudyFile/백엔드/fast_api/7.필드(Field).md",
     "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
     "StudyFile/백엔드/fast_api/9.요청 예제 데이터 선언.md",
-    "StudyFile/백엔드/이론/1.인터넷.md",
-    "StudyFile/백엔드/이론/0.로드맵.md",
     "StudyFile/백엔드/이론/2.rest API, GraphQL비교.md",
     "StudyFile/백엔드/fast_api/0.출처.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/7.텐서플로 세션.md",
@@ -212,7 +213,6 @@
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/4. 텐서플로우 플레이스홀더.md",
     "README.md",
     "StudyFile/🥕/2024-05-02- 수학 help🥕.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
     "vector-20241024081654026.webp",
     "vector-20241024081643612.webp",
     "vector-20241024081410592.webp",
