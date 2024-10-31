@@ -19,7 +19,23 @@
 	- 해외 법인: 미,중,일
 	- 종속회사: DB보안 신시웨이
 - 연혁
-	- 
+	- 2001 : 액셈 설립
+	- kt nt it 3개 인증 동시 획득
+	- 2016:클라우다인 합병
+	- 2019:XAIOps 출시, CloudMOA 출시
+	- 2023 SasS사업 본격화
+	- MaxGauge for CloudDb 출시(Mysql, MariaDB)출시
+	- exemOne(통합 모니터링 서비스)
+- 제품 구조
+	- one-Premise
+		- web Serer
+		- was
+		- DB
+		- Mobile
+	- cloud
+	- Big data
+- 조직도
+- 
 
 
 
