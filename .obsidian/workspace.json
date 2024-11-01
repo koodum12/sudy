@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/이론/3.도메인.md",
+                "file": "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.도메인"
+              "title": "LSTM 튜토리얼"
             }
           }
         ]
@@ -186,8 +186,11 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/백엔드/이론/1.인터넷.md",
+    "텐서플로 아키텍처-20241028202454000.webp",
+    "프로젝트 구상(maybe).md",
     "StudyFile/백엔드/이론/3.도메인.md",
+    "무제 파일.canvas",
+    "StudyFile/백엔드/이론/1.인터넷.md",
     "StudyFile/백엔드/이론/0.로드맵.md",
     "StudyFile/외부 강사/기업 탐방/Exem.md",
     "StudyFile/외부 강사/기업 탐방/아우름플래닛 기업 탐방.md",
@@ -208,11 +211,8 @@
     "StudyFile/백엔드/fast_api/0.출처.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/7.텐서플로 세션.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/6.텐서플로 아키텍처.md",
-    "텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/5.텐서플로 기본 함수.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/4. 텐서플로우 플레이스홀더.md",
-    "README.md",
-    "StudyFile/🥕/2024-05-02- 수학 help🥕.md",
     "vector-20241024081654026.webp",
     "vector-20241024081643612.webp",
     "vector-20241024081410592.webp",
@@ -226,7 +226,6 @@
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021170822508.webp",
     "StudyFile/외부 강사/기업 탐방",
-    "무제 파일.canvas",
     "StudyFile/백엔드/img",
     "StudyFile/백엔드/이론",
     "StudyFile/Python/python 공부/14.pandas",
