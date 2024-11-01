@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
+                "file": "StudyFile/백엔드/이론/TCP,IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSTM 튜토리얼"
+              "title": "TCP,IP"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
+                "file": "StudyFile/백엔드/이론/TCP,IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "LSTM 튜토리얼의 백링크"
+              "title": "TCP,IP의 백링크"
             }
           },
           {
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +186,9 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
+    "StudyFile/백엔드/이론/TCP,IP.md",
+    "StudyFile/백엔드/이론/무제 폴더",
     "텐서플로 아키텍처-20241028202454000.webp",
     "프로젝트 구상(maybe).md",
     "StudyFile/백엔드/이론/3.도메인.md",
@@ -195,7 +199,6 @@
     "StudyFile/외부 강사/기업 탐방/아우름플래닛 기업 탐방.md",
     "StudyFile/AI/수학/로그 함수.md",
     "StudyFile/AI/수학/지수 함수.md",
-    "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
     "StudyFile/백엔드/fast_api/3.Query.md",
     "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
@@ -231,7 +234,6 @@
     "StudyFile/임베디드",
     "StudyFile/AI/수학",
     "StudyFile/AI/LSTM",
-    "StudyFile/Java/무제 폴더",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
 }
