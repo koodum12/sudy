@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/쿠키 매개변수.md",
+                "file": "StudyFile/백엔드/이론/Cookie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "쿠키 매개변수"
+              "title": "Cookie"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/쿠키 매개변수.md",
+                "file": "StudyFile/백엔드/이론/Cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "쿠키 매개변수의 백링크"
+              "title": "Cookie의 백링크"
             }
           },
           {
@@ -186,9 +186,10 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
-    "StudyFile/백엔드/fast_api/쿠키 매개변수.md",
+    "StudyFile/백엔드/fast_api/11.쿠키 매개변수.md",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
+    "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
+    "StudyFile/백엔드/이론/Cookie.md",
     "StudyFile/백엔드/이론/TCP,IP.md",
     "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
     "StudyFile/백엔드/이론/무제 폴더",
@@ -214,7 +215,6 @@
     "StudyFile/백엔드/이론/2.rest API, GraphQL비교.md",
     "StudyFile/백엔드/fast_api/0.출처.md",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/7.텐서플로 세션.md",
-    "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)/6.텐서플로 아키텍처.md",
     "vector-20241024081654026.webp",
     "vector-20241024081643612.webp",
     "vector-20241024081410592.webp",
