@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/이론/3.도메인.md",
+                "file": "StudyFile/백엔드/이론/4.호스팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.도메인"
+              "title": "4.호스팅"
             }
           }
         ]
@@ -186,6 +186,10 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/백엔드/이론/3.도메인.md",
+    "StudyFile/백엔드/이론/4.호스팅.md",
+    "StudyFile/백엔드/이론/TCP,IP.md",
+    "StudyFile/백엔드/이론/0.로드맵.md",
     "StudyFile/백엔드/fast_api/쿠키 매개변수 모델.md",
     "StudyFile/백엔드/fast_api/12.헤더 매개변수.md",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
@@ -209,11 +213,7 @@
     "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
     "StudyFile/백엔드/fast_api/9.요청 예제 데이터 선언.md",
     "StudyFile/AI/nlp/1.자연어 처리란.md",
-    "StudyFile/c/구조체.md",
-    "StudyFile/c/무제 파일.md",
     "StudyFile/백엔드/img/API-20241018201140525.webp",
-    "StudyFile/백엔드/이론/0.로드맵.md",
-    "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/이론/무제 폴더",
     "무제 파일.canvas",
     "vector-20241024081654026.webp",
