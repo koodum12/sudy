@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -187,14 +186,17 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
-    "StudyFile/백엔드/이론/4.호스팅.md",
-    "StudyFile/백엔드/이론/1.인터넷.md",
-    "StudyFile/백엔드/img/image.png",
-    "StudyFile/백엔드/이론/5.DNS.md",
-    "StudyFile/백엔드/img/image.png.crdownload",
-    "StudyFile/백엔드/이론/3.도메인.md",
+    "StudyFile/백엔드/이론/Cookie.md",
     "StudyFile/백엔드/이론/TCP,IP.md",
+    "StudyFile/백엔드/이론/1.인터넷.md",
+    "StudyFile/백엔드/이론/3.도메인.md",
+    "StudyFile/백엔드/이론/5.DNS.md",
+    "StudyFile/백엔드/이론/4.호스팅.md",
     "StudyFile/백엔드/이론/0.로드맵.md",
+    "StudyFile/백엔드/img/image (1).png",
+    "StudyFile/백엔드/img/image.png",
+    "StudyFile/백엔드/img/image (1).png.crdownload",
+    "StudyFile/백엔드/img/image.png.crdownload",
     "StudyFile/백엔드/fast_api/쿠키 매개변수 모델.md",
     "StudyFile/백엔드/fast_api/12.헤더 매개변수.md",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
@@ -215,7 +217,6 @@
     "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/fast_api/11.쿠키 매개변수.md",
-    "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
     "StudyFile/백엔드/img/API-20241018201140525.webp",
     "StudyFile/백엔드/이론/무제 폴더",
     "무제 파일.canvas",
@@ -227,14 +228,12 @@
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171358311.webp",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171234469.webp",
-    "StudyFile/AI/Ai Image/2.프로세스-20241021231335101.webp",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/외부 강사/기업 탐방",
     "StudyFile/백엔드/img",
     "StudyFile/백엔드/이론",
     "StudyFile/Python/python 공부/14.pandas",
     "StudyFile/임베디드",
-    "StudyFile/AI/수학",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
 }
