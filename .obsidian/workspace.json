@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/이론/5.DNS.md",
+                "file": "StudyFile/백엔드/이론/6.브라우저(웹).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.DNS"
+              "title": "6.브라우저(웹)"
             }
           }
         ]
@@ -186,15 +186,19 @@
   },
   "active": "2998386ee5949393",
   "lastOpenFiles": [
+    "StudyFile/백엔드/이론/4.호스팅.md",
+    "StudyFile/백엔드/이론/0.로드맵.md",
+    "StudyFile/백엔드/img/image (2).png",
+    "StudyFile/백엔드/img/image (1).png",
+    "StudyFile/백엔드/img/image.png",
+    "StudyFile/백엔드/img/API-20241018201140525.webp",
+    "StudyFile/백엔드/이론/6.브라우저(웹).md",
+    "StudyFile/백엔드/img/image (2).png.crdownload",
+    "StudyFile/백엔드/이론/5.DNS.md",
     "StudyFile/백엔드/이론/Cookie.md",
     "StudyFile/백엔드/이론/TCP,IP.md",
     "StudyFile/백엔드/이론/1.인터넷.md",
     "StudyFile/백엔드/이론/3.도메인.md",
-    "StudyFile/백엔드/이론/5.DNS.md",
-    "StudyFile/백엔드/이론/4.호스팅.md",
-    "StudyFile/백엔드/이론/0.로드맵.md",
-    "StudyFile/백엔드/img/image (1).png",
-    "StudyFile/백엔드/img/image.png",
     "StudyFile/백엔드/img/image (1).png.crdownload",
     "StudyFile/백엔드/img/image.png.crdownload",
     "StudyFile/백엔드/fast_api/쿠키 매개변수 모델.md",
@@ -215,9 +219,6 @@
     "StudyFile/🥕/2024-05-01-힘들어..md",
     "StudyFile/백엔드/fast_api/0.출처.md",
     "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
-    "StudyFile/백엔드/fast_api/1.기본기.md",
-    "StudyFile/백엔드/fast_api/11.쿠키 매개변수.md",
-    "StudyFile/백엔드/img/API-20241018201140525.webp",
     "StudyFile/백엔드/이론/무제 폴더",
     "무제 파일.canvas",
     "vector-20241024081654026.webp",
@@ -227,13 +228,11 @@
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현",
     "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171358311.webp",
-    "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171234469.webp",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/외부 강사/기업 탐방",
     "StudyFile/백엔드/img",
     "StudyFile/백엔드/이론",
     "StudyFile/Python/python 공부/14.pandas",
-    "StudyFile/임베디드",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
 }
