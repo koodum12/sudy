@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/이론/3.도메인.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.도메인"
+              "title": "3.mnist 데이터셋에서 x의 형태 바꾸기"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/1.기본기.md",
+                "file": "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.기본기의 백링크"
+              "title": "3.mnist 데이터셋에서 x의 형태 바꾸기의 백링크"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +183,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2998386ee5949393",
+  "active": "04a927dea2972f42",
   "lastOpenFiles": [
+    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
+    "StudyFile/AI/참고 자료/영상 분석 ai.md",
+    "StudyFile/백엔드/이론/3.도메인.md",
     "StudyFile/백엔드/이론/4.호스팅.md",
     "StudyFile/백엔드/이론/5.DNS.md",
     "StudyFile/백엔드/이론/6.브라우저(웹).md",
@@ -198,14 +200,12 @@
     "StudyFile/백엔드/이론/Cookie.md",
     "StudyFile/백엔드/이론/TCP,IP.md",
     "StudyFile/백엔드/이론/1.인터넷.md",
-    "StudyFile/백엔드/이론/3.도메인.md",
     "StudyFile/백엔드/img/image (1).png.crdownload",
     "StudyFile/백엔드/img/image.png.crdownload",
     "StudyFile/백엔드/fast_api/쿠키 매개변수 모델.md",
     "StudyFile/백엔드/fast_api/12.헤더 매개변수.md",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/5.인공지능 모델 설계하기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/6.데이터 학습시키기..md",
