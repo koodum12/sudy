@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/최적화/python 코드 최적화.md",
+                "file": "StudyFile/백엔드/이론/5.DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python 코드 최적화"
+              "title": "5.DNS"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Python/python 공부/최적화/python 코드 최적화.md",
+                "file": "StudyFile/백엔드/이론/5.DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "python 코드 최적화의 백링크"
+              "title": "5.DNS의 백링크"
             }
           },
           {
@@ -187,15 +186,15 @@
   },
   "active": "f4db67e6fd32dd45",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/Enum 열거형.md",
+    "StudyFile/백엔드/이론/4.호스팅.md",
     "StudyFile/Python/python 공부/최적화/python 코드 최적화.md",
+    "StudyFile/Python/python 공부/Enum 열거형.md",
     "StudyFile/Python/python 공부/최적화",
     "StudyFile/AI/LSTM/LSTM 튜토리얼.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/참고 자료/영상 분석 ai.md",
     "StudyFile/백엔드/이론/3.도메인.md",
-    "StudyFile/백엔드/이론/4.호스팅.md",
     "StudyFile/백엔드/이론/5.DNS.md",
     "StudyFile/백엔드/이론/6.브라우저(웹).md",
     "StudyFile/백엔드/이론/0.로드맵.md",
