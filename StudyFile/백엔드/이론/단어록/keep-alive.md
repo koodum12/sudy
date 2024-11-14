@@ -1,7 +1,7 @@
 [참고 자료 - 1](https://velog.io/@jihwankim94/Network-TCP-HTTP-Keep-alive)
 # TCP
 ### TCP keep-alive란?
-Keep alive 기능이란 single connection으로 여러 request와 response를 주고 받을 수 있게 끔 해주는 persistent을 만드는 기술중 하나이다.
+Keep alive 기능이란 single connection으로 여러 request와 response를 주고 받을 수 있게 끔 해주는 [Persistent](StudyFile/백엔드/이론/단어록/Persistent)을 만드는 기술중 하나이다.
 
 
 ### 사용 이유
