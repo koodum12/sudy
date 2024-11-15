@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "92a8a1ca974ae4c6",
+        "id": "3090dff448be112a",
         "type": "tabs",
         "children": [
           {
@@ -202,9 +202,11 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/백엔드/이론/2.HTTP.md",
+    "StudyFile/백엔드/이론/6.브라우저(웹).md",
+    "6.브라우저(웹)-20241115095000567.webp",
     "6.브라우저(웹)-20241114201517589.webp",
     "StudyFile/백엔드/이론/0.로드맵.md",
-    "StudyFile/백엔드/이론/2.HTTP.md",
     "StudyFile/백엔드/이론/4.호스팅.md",
     "StudyFile/백엔드/이론/1.인터넷.md",
     "StudyFile/백엔드/이론/단어록/keep-alive.md",
@@ -226,7 +228,6 @@
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
     "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/AI/참고 자료/영상 분석 ai.md",
-    "StudyFile/백엔드/이론/6.브라우저(웹).md",
     "StudyFile/백엔드/img/image (2).png",
     "StudyFile/백엔드/img/image (1).png",
     "StudyFile/백엔드/img/image.png",
@@ -243,10 +244,8 @@
     "vector-20241024081654026.webp",
     "vector-20241024081643612.webp",
     "vector-20241024081410592.webp",
-    "StudyFile/AI/gemini api/vector-20241023202202681.webp",
     "StudyFile/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)",
     "StudyFile/AI/간단하진 않은 개념/TensorFlow로 구현",
-    "StudyFile/AI/Ai Image/LSTM 튜토리얼-20241021171358311.webp",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/외부 강사/기업 탐방",
     "StudyFile/백엔드/img",
