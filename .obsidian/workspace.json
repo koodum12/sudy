@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/3.Query.md",
+                "file": "StudyFile/백엔드/fast_api/6.다중 매개변수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Query"
+              "title": "6.다중 매개변수"
             }
           }
         ],
@@ -201,6 +201,9 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
+    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
+    "StudyFile/백엔드/fast_api/3.Query.md",
     "텐서플로 아키텍처-20241028202454000.webp",
     "프로젝트 구상(maybe).md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
@@ -225,9 +228,7 @@
     "StudyFile/백엔드/fast_api/무제 폴더",
     "StudyFile/백엔드/fast_api/11.쿠키 매개변수.md",
     "StudyFile/백엔드/fast_api/9.요청 예제 데이터 선언.md",
-    "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
     "StudyFile/백엔드/fast_api/13.쿠키 매개변수 모델.md",
-    "StudyFile/백엔드/fast_api/12.헤더 매개변수.md",
     "StudyFile/백엔드/img/제목 없음.png",
     "StudyFile/백엔드/img/6.브라우저(웹)-20241115095000567.webp",
     "StudyFile/백엔드/img/6.브라우저(웹)-20241114201517589.webp",
