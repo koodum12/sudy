@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/이론/단어록/Persistent.md",
+                "file": "StudyFile/백엔드/이론/4.호스팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Persistent"
+              "title": "4.호스팅"
             }
           }
         ],
@@ -201,8 +201,10 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "StudyFile/백엔드/이론/단어록/keep-alive.md",
+    "StudyFile/백엔드/이론/3.도메인.md",
     "StudyFile/백엔드/이론/2.HTTP.md",
+    "StudyFile/백엔드/이론/단어록/keep-alive.md",
+    "StudyFile/백엔드/이론/단어록/Persistent.md",
     "StudyFile/백엔드/이론/1.인터넷.md",
     "StudyFile/백엔드/이론/0.로드맵.md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
@@ -226,8 +228,6 @@
     "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/fast_api/0.출처.md",
     "텐서플로 아키텍처-20241028202454000.webp",
-    "프로젝트 구상(maybe).md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
     "StudyFile/백엔드/fast_api/무제 폴더",
     "StudyFile/백엔드/img/제목 없음.png",
     "StudyFile/백엔드/img/6.브라우저(웹)-20241115095000567.webp",
