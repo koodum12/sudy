@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/백엔드/fast_api/8.중첩 모델.md",
+                "file": "StudyFile/백엔드/fast_api/12.헤더 매개변수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.중첩 모델"
+              "title": "12.헤더 매개변수"
             }
           }
         ],
@@ -201,6 +201,13 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/백엔드/fast_api/13.쿠키 매개변수 모델.md",
+    "StudyFile/백엔드/fast_api/12.헤더 매개변수.md",
+    "StudyFile/백엔드/fast_api/11.쿠키 매개변수.md",
+    "StudyFile/백엔드/이론/단어록/Cookie.md",
+    "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
+    "StudyFile/백엔드/fast_api/9.요청 예제 데이터 선언.md",
+    "StudyFile/백엔드/fast_api/8.중첩 모델.md",
     "StudyFile/백엔드/fast_api/7.필드(Field).md",
     "StudyFile/백엔드/fast_api/6.다중 매개변수.md",
     "StudyFile/백엔드/fast_api/5.쿼리 파라미터 모델.md",
@@ -209,8 +216,6 @@
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/fast_api/0.출처.md",
-    "StudyFile/백엔드/fast_api/8.중첩 모델.md",
-    "StudyFile/백엔드/fast_api/9.요청 예제 데이터 선언.md",
     "텐서플로 아키텍처-20241028202454000.webp",
     "프로젝트 구상(maybe).md",
     "StudyFile/Python/python 알고리즘(방과후))/2024-9-2.md",
@@ -223,11 +228,6 @@
     "StudyFile/Python/python 공부/4.배열/4-3.split.md",
     "StudyFile/Python/python 공부/4.배열/4-1.배열(list).md",
     "StudyFile/Python/python 공부/2.python 기능/2.주석.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-9.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-10-14.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-10-07.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024-9-23.md",
-    "StudyFile/Python/python 알고리즘(방과후))/2024_08_26.md",
     "StudyFile/백엔드/fast_api/무제 폴더",
     "StudyFile/백엔드/img/제목 없음.png",
     "StudyFile/백엔드/img/6.브라우저(웹)-20241115095000567.webp",
