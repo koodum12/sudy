@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/백엔드/이론/5.DNS.md",
+                "file": "StudyFile/백엔드/fast_api/15.응답 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "5.DNS의 백링크"
+              "title": "15.응답 모델의 백링크"
             }
           },
           {
