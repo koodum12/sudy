@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
+                "file": "StudyFile/Git 사용법/1.깃허브 명령어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.겨울 방학전 사전 조사"
+              "title": "1.깃허브 명령어"
             }
           }
         ],
@@ -194,15 +194,26 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
+    "StudyFile/web/web 공부/3.JS/변수.md",
+    "vector-20241024081410592.webp",
+    "vector-20241024081643612.webp",
+    "vector-20241024081654026.webp",
+    "StudyFile/web/web 공부/4.react",
+    "프로젝트 구상(maybe).md",
+    "텐서플로 아키텍처-20241028202454000.webp",
+    "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
     "StudyFile/백엔드/이론/6.브라우저(웹).md",
     "StudyFile/백엔드/이론/TCP,IP.md",
     "StudyFile/백엔드/이론/1.인터넷.md",
-    "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
     "StudyFile/백엔드/fast_api/11.쿠키 매개변수.md",
     "StudyFile/백엔드/fast_api/13.쿠키 매개변수 모델.md",
     "[.md",
@@ -224,28 +235,20 @@
     "StudyFile/백엔드/fast_api/12.헤더 매개변수.md",
     "StudyFile/백엔드/이론/단어록/Cookie.md",
     "StudyFile/백엔드/fast_api/10.추가 데이터 자료형.md",
-    "StudyFile/백엔드/fast_api/9.요청 예제 데이터 선언.md",
-    "StudyFile/백엔드/fast_api/8.중첩 모델.md",
-    "StudyFile/백엔드/fast_api/7.필드(Field).md",
-    "텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/백엔드/fast_api/무제 폴더",
     "StudyFile/백엔드/img/제목 없음.png",
     "StudyFile/백엔드/img/6.브라우저(웹)-20241115095000567.webp",
     "StudyFile/백엔드/img/6.브라우저(웹)-20241114201517589.webp",
-    "vector-20241024081654026.webp",
-    "vector-20241024081410592.webp",
     "단어록",
     "StudyFile/백엔드/이론/단어록",
     "StudyFile/Python/python 공부/최적화",
     "StudyFile/백엔드/img/image (2).png",
     "StudyFile/백엔드/img/image (1).png",
     "StudyFile/백엔드/img/image.png",
-    "StudyFile/백엔드/img/API-20241018201140525.webp",
     "StudyFile/백엔드/img/image (2).png.crdownload",
     "StudyFile/백엔드/img/image (1).png.crdownload",
     "StudyFile/백엔드/img/image.png.crdownload",
     "무제 파일.canvas",
-    "StudyFile/c/AI/간단하진 않은 개념/동빈나 tensor & 머신러닝 강좌 (내 마음대로 정리)",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
