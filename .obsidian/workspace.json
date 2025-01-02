@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -201,10 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "772e25c31556ff88",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
+    "StudyFile/web/web 공부/image/1.jsx문법이란-20250102181502316.webp",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
+    "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
+    "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
+    "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "StudyFile/Git 사용법/3.그룹 프로젝트..md",
@@ -235,7 +237,6 @@
     "StudyFile/백엔드/이론/단어록/Persistent.md",
     "StudyFile/백엔드/이론/0.로드맵.md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
-    "학교 프로그래밍/무제 파일.md",
     "StudyFile/백엔드/fast_api/무제 폴더",
     "StudyFile/백엔드/img/제목 없음.png",
     "StudyFile/백엔드/img/6.브라우저(웹)-20241115095000567.webp",
@@ -243,9 +244,6 @@
     "단어록",
     "StudyFile/백엔드/이론/단어록",
     "StudyFile/Python/python 공부/최적화",
-    "StudyFile/백엔드/img/image (2).png",
-    "StudyFile/백엔드/img/image (1).png",
-    "StudyFile/백엔드/img/image.png",
     "StudyFile/백엔드/img/image (2).png.crdownload",
     "StudyFile/백엔드/img/image (1).png.crdownload",
     "StudyFile/백엔드/img/image.png.crdownload",
