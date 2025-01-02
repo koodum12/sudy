@@ -195,9 +195,9 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "media-extended:Open media": false,
-      "obsidian-git:Open Git source control": false
+      "media-extended:Open media": false
     }
   },
   "active": "35c856b3f08d79a3",
