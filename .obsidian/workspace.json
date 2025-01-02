@@ -200,10 +200,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/image/1.jsx문법이란-20250102181502316.webp",
+    "README.md",
+    "StudyFile/백엔드/이론/2.HTTP.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
+    "StudyFile/web/web 공부/image/1.jsx문법이란-20250102181502316.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
@@ -232,7 +234,6 @@
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/이론/4.호스팅.md",
     "StudyFile/백엔드/이론/3.도메인.md",
-    "StudyFile/백엔드/이론/2.HTTP.md",
     "StudyFile/백엔드/이론/단어록/keep-alive.md",
     "StudyFile/백엔드/이론/단어록/Persistent.md",
     "StudyFile/백엔드/이론/0.로드맵.md",
