@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/프로젝트 정리/nsetProject/주별 제출/2주차.md",
+                "file": "StudyFile/프로젝트 정리/nsetProject/주별 제출/1주차 (디자인).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2주차"
+              "title": "1주차 (디자인)"
             }
           }
         ]
@@ -187,8 +187,14 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "StudyFile/프로젝트 정리/nsetProject/주별 제출/1주차 (디자인).md",
+    "1주차 (디자인)-20250107203000823.webp",
+    "1주차 (디자인)-20250107203000755.webp",
+    "1주차 (디자인)-20250107203000683.webp",
+    "1주차 (디자인)-20250107203000580.webp",
+    "1주차 (디자인)-20250107203000534.webp",
+    "StudyFile/프로젝트 정리/nsetProject/주별 제출/img",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출/2주차.md",
+    "StudyFile/프로젝트 정리/nsetProject/주별 제출/1주차 (디자인).md",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출/3주차.md",
     "StudyFile/백엔드/이론/2.HTTP.md",
     "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
@@ -209,7 +215,6 @@
     "vector-20241024081654026.webp",
     "StudyFile/web/web 공부/4.react",
     "프로젝트 구상(maybe).md",
-    "텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/백엔드/이론/6.브라우저(웹).md",
     "StudyFile/백엔드/이론/TCP,IP.md",
     "StudyFile/백엔드/이론/1.인터넷.md",
@@ -223,16 +228,11 @@
     "StudyFile/백엔드/fast_api/14.헤더 매개변수 모델.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/이론/4.호스팅.md",
-    "StudyFile/백엔드/이론/3.도메인.md",
     "StudyFile/백엔드/fast_api/무제 폴더",
-    "StudyFile/백엔드/img/제목 없음.png",
-    "StudyFile/백엔드/img/6.브라우저(웹)-20241115095000567.webp",
-    "StudyFile/백엔드/img/6.브라우저(웹)-20241114201517589.webp",
     "단어록",
     "StudyFile/백엔드/이론/단어록",
     "StudyFile/Python/python 공부/최적화",
     "StudyFile/백엔드/img/image (2).png.crdownload",
-    "StudyFile/백엔드/img/image (1).png.crdownload",
     "무제 파일.canvas",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
