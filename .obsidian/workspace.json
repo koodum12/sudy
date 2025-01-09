@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
+                "file": "StudyFile/web/web 공부/4.react/Router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.겨울 방학전 사전 조사"
+              "title": "Router"
             }
           }
         ]
@@ -185,8 +185,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출/1주차 (디자인).md",
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
@@ -201,7 +202,6 @@
     "1주차 (디자인)-20250107203000534.webp",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출/img",
     "StudyFile/백엔드/이론/2.HTTP.md",
-    "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출",
     "StudyFile/프로젝트 정리/nsetProject/무제 파일.md",
     "README.md",
