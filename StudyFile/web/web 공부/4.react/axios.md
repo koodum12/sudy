@@ -11,7 +11,7 @@ python의 axios라이브러리처럼 비동기 방식을 사용할 수 있게 �
 ### Axios란?
 Axios는 브라우저, Node.js를 위한 **Promise API를 활용하는 HTTP 비동기 통신 라이브러리이다.**
 
-##### axios 사용법
+### axios 사용법
 - axios 다운로드
 - http methods
 	- get
@@ -29,3 +29,9 @@ npm i axios
 ```js
 import axios from 'axios'
 ```
+
+
+#### HTTP Methods
+
+##### 1.get
+y
