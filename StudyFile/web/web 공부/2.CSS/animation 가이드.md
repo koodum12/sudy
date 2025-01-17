@@ -46,3 +46,21 @@ animation: name | duration | timing-function | delay | iteration-count | directi
 
 출처: [https://webclub.tistory.com/621](https://webclub.tistory.com/621) [Web Club:티스토리]
 ```
+
+##### 1-1-1 animation-name
+유효한 이름
+- 문자열 시작
+- 언더바 시작
+- 하이픈 시작
+
+유효 x
+- 숫자로 시작
+- 특수문자로 시작
+
+
+
+##### 1-1-2 animation-duration
+ex)
+```css
+
+```
