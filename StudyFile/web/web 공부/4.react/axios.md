@@ -34,4 +34,23 @@ import axios from 'axios'
 #### HTTP Methods
 
 ##### 1.get
-y
+```
+axios.get(url,[,config])
+```
+
+##### 2.post
+```js
+axios.post("url주소",{
+  data객체
+    },[,config])
+```
+
+##### 3.Delete
+```js
+axios.delete(url,[,config]);
+```
+
+##### 4. Put
+```js
+axios.put(url[, data[, config]])
+```
