@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
+                "file": "StudyFile/web/web 공부/4.react/axios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "animation 가이드"
+              "title": "axios"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/4.react/axios.md",
-    "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
     "StudyFile/web/web 공부/4.react/Router.md",
+    "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
+    "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/무제 폴더",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
