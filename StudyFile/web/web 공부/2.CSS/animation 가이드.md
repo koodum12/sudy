@@ -102,39 +102,28 @@ animation: name | duration | timing-function | delay | iteration-count | directi
 
 
 - transform-origin : 회전을 시킬 축을 결정, 기본값은 `transform-origin: 50% 50%;`  
-      
-    
+
+
 - backface-visibility :입체적인 뒷면의 가시성을 결정하는 속성,  즉, 변형이 가해져서 요소의 뒷면(뒤집힌 것)을 숨기거나 보여지게 할 수 있습니다.
-                  
-      
-    
-        
+
 - rotateX()
 - rotateY()
 - rotateZ() = rotate()
 - rotate3d(x, y, z)   
-    
+
 - translateX()
 - translateY()
 - translateZ() = translate()
 - translate3d(x, y, z)   
-    
+
 - scaleX()
 - scaleY()
 - scaleZ() = scale()
  - scale3d(x, y, z)   
-      
-    
-        
-        
+  
 - skewX() : skew 는 ==skewZ() 인 Z축이 없으며 사실 3D가 아닙니다.==(생동감만 부여할 뿐..)
 - skewY()
 - skew()   
-      
-    
-        
-        
-        - perspective : 원근, 소실점, 투시도법(가까이 있는 사물은 커보이고 멀리 있는 사물은 작아보이는 것)   
-                예를 들어, 평면에서 입체적으로 보여주기 위해 건축도면(설계도) 등에서 투시도법을 많이 사용함.
+  
+ - perspective : 원근, 소실점, 투시도법(가까이 있는 사물은 커보이고 멀리 있는 사물은 작아보이는 것)   예를 들어, 평면에서 입체적으로 보여주기 위해 건축도면(설계도) 등에서 투시도법을 많이 사용함.
 
-출처: [https://webclub.tistory.com/626](https://webclub.tistory.com/626) [Web Club:티스토리]
