@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/axios.md",
+                "file": "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "axios"
+              "title": "animation 가이드"
             }
           }
         ]
@@ -187,10 +187,11 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/web/web 공부/4.react/axios.md",
-    "StudyFile/web/web 공부/4.react/무제 폴더",
+    "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
+    "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
+    "StudyFile/web/web 공부/4.react/무제 폴더",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "1주차 (디자인)-20250107203000534.webp",
     "StudyFile/백엔드/무제 파일.md",
@@ -228,7 +229,6 @@
     "StudyFile/프로젝트 정리/nsetProject",
     "StudyFile/프로젝트 정리",
     "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
-    "StudyFile/백엔드/fast_api/14.헤더 매개변수 모델.md",
     "StudyFile/백엔드/fast_api/무제 폴더",
     "단어록",
     "StudyFile/백엔드/이론/단어록",
