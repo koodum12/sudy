@@ -12,10 +12,13 @@ animation은 위 언급과 같이 `animation-*`속성과 애니메이션의 중�
 ### 1. 속성
 #### 1-1 animation 단일 속성
 
-- animation-name : 애니메이션의 중간 상태를 지정하기 위한 이름을 정의합니다. 중간 상태는 `@keyframes` 규칙을 이용하여 기술합니다.
+- animation-name : 애니메이션의 중간 상태를 지정하기 위한 이름을 정의합니다. 중간 상태는 `@keyframes` 규칙을 이용하여 기술한다.
 
-- animation-duration : 한 싸이클의 애니메이션이 얼마에 걸쳐 일어날지 지정합니다.
+- animation-duration : 한 싸이클의 애니메이션이 얼마에 걸쳐 일어날지 지정한다.
 
-- animation-delay : 엘리먼트가 로드되고 나서 언제 애니메이션이 시작될지 지정합니다.
+- animation-delay : 엘리먼트가 로드되고 나서 언제 애니메이션이 시작될지 지정한다.
 
+- animation-direction : 애니메이션이 종료되고 다시 처음부터 시작할지 역방향으로 진행할지 지정한다.
+
+- animation-iteration-count: 애니메이션이 몇 번 반복될지 지정합니다. `infinite` 로 지정하여 무한히 반복할 수 있다.
 
