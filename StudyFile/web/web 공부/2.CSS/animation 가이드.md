@@ -22,3 +22,27 @@ animation은 위 언급과 같이 `animation-*`속성과 애니메이션의 중�
 
 - animation-iteration-count: 애니메이션이 몇 번 반복될지 지정합니다. `infinite` 로 지정하여 무한히 반복할 수 있다.
 
+- animation-play-state : 애니메이션을 멈추거나 다시 시작할 수 있다.
+
+- animation-timing-funnction : 중간 생태들의 전환을 어떤 시간간격으로 진행할지 지정한다.
+
+- animation-fill-mode : 애니메이션이 시작되기 전이나 끝나고 난 후 어떤ㄷ 값이 적용될지 지정한다.
+
+```css
+/* 단일 속성 */
+.object {
+    animation-name: 1s;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-direction: alternate;
+    animation-iteration-count: 3;
+    animation-play-state: paused;
+    animation-timing-function: 1s;
+    animation-fill-mode: both;
+}
+    
+/* 속기형 */
+animation: name | duration | timing-function | delay | iteration-count | direction | fill-mode | play-state> [,...];
+
+출처: [https://webclub.tistory.com/621](https://webclub.tistory.com/621) [Web Club:티스토리]
+```
