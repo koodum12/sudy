@@ -84,7 +84,16 @@ animation: name | duration | timing-function | delay | iteration-count | directi
 
 
 
-##### 1-1-4
+##### 1-1-5 animation-timing-function
+
+애니메이션의 키프레임 사이의 재생 속도를 조절하는 속성으로 재생하는 동안 단계별 재생 속도를 설정합니다.
+
+예를 들어 `animation-timing-function:ease-in-out;` 속성은 시작 부분의 재생 속도를 점점 빠르게 하고, 마지막 부분의 재생 속도를 점점 느리게 한다.
+
+`transition-timing-function` 과 유사하다.
+
+
+
 
 
 
