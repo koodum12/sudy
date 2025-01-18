@@ -38,4 +38,11 @@ FROM 상품;
 ```
 
 
-### 속성
+### SELECT DISTINCT
+
+DISTINCT는 중복된 데이터를 제거하는 키워드
+
+```sql
+SELECT column1 FROM table1
+```
+
