@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
+                "file": "StudyFile/백엔드/node.js/0..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "animation 가이드"
+              "title": "0."
             }
           }
         ]
@@ -185,12 +185,19 @@
       "media-extended:Open media": false
     }
   },
-  "active": "772e25c31556ff88",
+  "active": "35c856b3f08d79a3",
   "lastOpenFiles": [
+    "StudyFile/정보처리기능사/sql",
+    "StudyFile/정보처리기능사",
+    "StudyFile/백엔드/node.js/1..md",
+    "StudyFile/백엔드/node.js/0..md",
+    "StudyFile/백엔드/django/공부 파일/0.강의.md",
+    "StudyFile/백엔드/django/공부 파일/1.Rest api.md",
+    "StudyFile/백엔드/django/공부 한 날.md",
+    "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
     "StudyFile/web/web 공부/2.CSS/grid.md",
     "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/web/web 공부/4.react/Router.md",
-    "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/무제 폴더",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
@@ -221,18 +228,11 @@
     "StudyFile/web/web 공부/4.react",
     "프로젝트 구상(maybe).md",
     "StudyFile/백엔드/이론/6.브라우저(웹).md",
-    "StudyFile/백엔드/이론/TCP,IP.md",
-    "StudyFile/백엔드/이론/1.인터넷.md",
-    "StudyFile/백엔드/fast_api/11.쿠키 매개변수.md",
-    "StudyFile/백엔드/fast_api/13.쿠키 매개변수 모델.md",
-    "[.md",
-    "StudyFile/백엔드/fast_api/15.응답 모델.md",
     "StudyFile/프로젝트 정리/nsetProject",
     "StudyFile/프로젝트 정리",
     "StudyFile/백엔드/fast_api/무제 폴더",
     "단어록",
     "StudyFile/백엔드/이론/단어록",
-    "StudyFile/Python/python 공부/최적화",
     "무제 파일.canvas",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
