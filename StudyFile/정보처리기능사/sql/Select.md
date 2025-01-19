@@ -133,5 +133,6 @@ ORDER BY column1 DESC;
 
 ```sql
 SELECT *
-
+FROM table1
+ORDER BY column1, column2;
 ```
