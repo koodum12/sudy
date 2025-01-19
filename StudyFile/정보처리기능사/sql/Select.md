@@ -129,4 +129,9 @@ ORDER BY column1 DESC;
 - 오름차순 : ASC(기본, 작은 수에서 큰 수로)
 - 내림차순: DESC(큰 수에서 작은 수로)
 
-아
+`ORDER BY`절은 여러 열로 정렬할 수 있다.
+
+```sql
+SELECT *
+
+```
