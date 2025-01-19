@@ -147,5 +147,7 @@ ORDER BY column1, column2;
 
 ```sql
 SELECT column1 AS new_name
-FROM table1
+FROM table1;
 ```
+
+ 
