@@ -102,3 +102,4 @@ SELECT COUNT(column1) FROM table1;
 ```sql
 SELECT COUNT(column1) - COUNT(DISTINCT column1) FROM table1;
 ```
+
