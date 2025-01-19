@@ -124,4 +124,9 @@ FROM table_name
 ORDER BY column1 DESC;
 ```
 
-위와 같이 작성하면 `table_name`테이블의 `column_name`열을 기준으로 내림차순으로 정렬된 결과를 출력한다.
+위와 같이 작성하면 `table_name`테이블의 `column_name`열을 기준으로 내림차순으로 정렬된 결과를 출력한다. 
+
+- 오름차순 : ASC(기본, 작은 수에서 큰 수로)
+- 내림차순: DESC(큰 수에서 작은 수로)
+
+아
