@@ -115,3 +115,13 @@ SELECT *
 FROM table1
 ORDER BY column1
 ```
+
+위와 같이 작성하면 `table_name` 테이블의 `column_name`열을 기준으로 오름차순으로 정렬된 결과를 출력한다.
+
+```sql
+SELECT *
+FROM table_name
+ORDER BY column1 DESC;
+```
+
+위와 같이 작성하면 `table_name`테이블의 `column_name`열을 기준으로 내림차순으로 정렬된 결과를 출력한다.
