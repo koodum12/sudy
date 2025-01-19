@@ -150,4 +150,8 @@ SELECT column1 AS new_name
 FROM table1;
 ```
 
- 
+  `AS`는 연산 결과에도 사용할 수 있다.
+  ex)
+```sql
+SELECT column, column2 + 1 AS new_name FROM table1  
+```
