@@ -136,3 +136,7 @@ SELECT *
 FROM table1
 ORDER BY column1, column2;
 ```
+
+ 위와 같이 작성하면 `table_name` 테이블의 `column1` 열을 기준으로 먼저 정렬하고, `column2`열을 기준으로 다시 정렬한다.
+
+
