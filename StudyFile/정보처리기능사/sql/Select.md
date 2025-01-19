@@ -83,3 +83,22 @@ SELECT DISTINCT column1 FROM table1
 | 3       |
 | 4       |
 과 같이 중복이 제거된 체 출력이 되는 것을 볼 수 있다.
+
+#### 중복 제거 개수 확인
+중복이 얼마나 제거되었는지 확인하려면 COUNT()함수를 사용하면 된다.
+
+```sql
+SELECT COUNT(DISTINCT column1) FROM table1;
+```
+
+원본 데이터는 아래와 같이 확인 가능.
+
+```sql
+SELECT COUNT(column1) FROM table1;
+```
+
+한번에 연산 가능
+
+```sql
+SELECT COUNT(column1) - COUNT(DISTINCT column1) FROM table1;
+```
