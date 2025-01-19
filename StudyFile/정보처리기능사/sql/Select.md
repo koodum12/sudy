@@ -103,3 +103,15 @@ SELECT COUNT(column1) FROM table1;
 SELECT COUNT(column1) - COUNT(DISTINCT column1) FROM table1;
 ```
 
+### ORDER BY
+
+`ORDER BY`절은 `SELECT`문의 결과를 정렬하는데 사용된다
+
+`ORDER BY`절은 `SELECT`문의 마지막에 위치하며 
+`ORDER BY`절 뒤에 오는 열 이름에 따라 결과가 정렬된다
+
+```sql
+SELECT *
+FROM table1
+ORDER BY column1
+```
