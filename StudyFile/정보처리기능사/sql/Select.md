@@ -140,3 +140,12 @@ ORDER BY column1, column2;
  위와 같이 작성하면 `table_name` 테이블의 `column1` 열을 기준으로 먼저 정렬하고, `column2`열을 기준으로 다시 정렬한다.
 
 
+
+
+### AS
+`AS`는 열의 별칭을 지정할 때 사용하는 키워드이다. 별칭을 지정하면 결과를 출력할 때 별칭을 사용할 수 있다. 별칭을 사용하면 열 이름이 길거나 복잡한 경우에도 간단하게 사용 ㄱㄴ
+
+```sql
+SELECT column1 AS new_name
+FROM table1
+```
