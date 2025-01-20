@@ -155,3 +155,5 @@ FROM table1;
 ```sql
 SELECT column, column2 + 1 AS new_name FROM table1  
 ```
+
+#### WHERE

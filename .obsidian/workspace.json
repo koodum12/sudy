@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
+                "file": "StudyFile/정보처리기능사/sql/Select.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "추가적인 무언가"
+              "title": "Select"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "StudyFile/정보처리기능사/sql/Select.md",
     "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
+    "StudyFile/정보처리기능사/sql/Select.md",
     "StudyFile/백엔드/node.js/0..md",
     "StudyFile/정보처리기능사/sql",
     "StudyFile/정보처리기능사",
