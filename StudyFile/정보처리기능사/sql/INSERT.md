@@ -13,6 +13,7 @@ VALUES (값1, 값2,....);
 모든 열에 삽입할 때에는 열 이름을 생략할 수 있다.
 
 ```sql
-INSERT INTO table
+INSERT INTO table1 (행1,행2,행3)
+VALUES (1,2,3)
 
 ```
