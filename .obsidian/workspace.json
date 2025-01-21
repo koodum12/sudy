@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/정보처리기능사/sql/Select.md",
+                "file": "StudyFile/정보처리기능사/sql/INSERT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Select"
+              "title": "INSERT"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/정보처리기능사/sql/Select.md",
+    "StudyFile/정보처리기능사/sql/INSERT.md",
+    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/백엔드/node.js/0..md",
     "StudyFile/정보처리기능사/sql",
     "StudyFile/정보처리기능사",
@@ -228,7 +229,6 @@
     "StudyFile/web/web 공부/3.JS/변수.md",
     "vector-20241024081410592.webp",
     "StudyFile/web/web 공부/4.react",
-    "프로젝트 구상(maybe).md",
     "StudyFile/프로젝트 정리/nsetProject",
     "StudyFile/프로젝트 정리",
     "StudyFile/백엔드/fast_api/무제 폴더",

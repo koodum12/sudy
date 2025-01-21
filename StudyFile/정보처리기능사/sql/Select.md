@@ -157,3 +157,11 @@ SELECT column, column2 + 1 AS new_name FROM table1
 ```
 
 #### WHERE
+`WHERE`이란?
+특정 조건에 맞는 데이터만 조회
+ex)
+```sql
+SELECT column1
+FROM table1
+WHERE column1 <> 100;
+```
