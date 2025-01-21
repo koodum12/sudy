@@ -13,7 +13,20 @@ VALUES (값1, 값2,....);
 모든 열에 삽입할 때에는 열 이름을 생략할 수 있다.
 
 ```sql
-INSERT INTO table1 (행1,행2,행3)
+INSERT INTO table1
 VALUES (1,2,3)
 
+```
+
+일부 열만 값을 삽입할 수 있다.
+```sql
+INSERT INTO table1 (column1, column2)VALUES (35, 45);
+```
+
+여러 행을 동시에 삽입할 수 도 있다.
+```sql
+INSERT INTO table1 (column1, column2, column3) 
+VALUES
+(21,34,234)
+(3,4,5);
 ```
