@@ -13,5 +13,9 @@ WHERE 조건
 ```sql
 UPDATE table1
 SET row = 400, row2 = 3
-WHERE text = 
+WHERE column2 = 45
 ```
+
+조건 없이도 사용할 순 있는데 굳이 쓰지는 말자(되도록이면)
+
+### 아직 다 안씀 !! ㄹㅇ임 https://www.books.weniv.co.kr/basecamp-sql/chapter02/02-14
