@@ -17,5 +17,4 @@ WHERE column2 = 45
 ```
 
 조건 없이도 사용할 순 있는데 굳이 쓰지는 말자(되도록이면)
-
-### 아직 다 안씀 !! ㄹㅇ임 https://www.books.weniv.co.kr/basecamp-sql/chapter02/02-14
+굳이 사용한다면 `WHERE`만 빼면 된다. 
