@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/정보처리기능사/sql/UPDATE.md",
+                "file": "StudyFile/web/web 공부/4.react/firebase/firebase다운로드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UPDATE"
+              "title": "firebase다운로드"
             }
           }
         ]
@@ -187,9 +187,11 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/정보처리기능사/sql/UPDATE.md",
+    "StudyFile/web/web 공부/4.react/firebase/firebase다운로드.md",
+    "StudyFile/web/web 공부/4.react/firebase",
     "StudyFile/정보처리기능사/sql/INSERT.md",
     "StudyFile/정보처리기능사/sql/Select.md",
-    "StudyFile/정보처리기능사/sql/UPDATE.md",
     "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/백엔드/node.js/0..md",
     "StudyFile/정보처리기능사/sql",
@@ -203,7 +205,6 @@
     "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
-    "StudyFile/web/web 공부/4.react/무제 폴더",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "1주차 (디자인)-20250107203000534.webp",
     "StudyFile/백엔드/무제 파일.md",
@@ -226,7 +227,6 @@
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
     "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
     "StudyFile/Git 사용법/1.깃허브 명령어.md",
-    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "vector-20241024081410592.webp",
     "StudyFile/web/web 공부/4.react",
     "StudyFile/프로젝트 정리/nsetProject",

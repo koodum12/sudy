@@ -1,0 +1,3 @@
+```sql
+npm install firebase
+```
