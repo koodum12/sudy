@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/firebase/firebase다운로드.md",
+                "file": "StudyFile/정보처리기능사/sql/DELETE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "firebase다운로드"
+              "title": "DELETE"
             }
           }
         ]
@@ -187,12 +187,18 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/4.react/axios.md",
+    "StudyFile/정보처리기능사/sql/DELETE.md",
+    "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
+    "StudyFile/web/web 공부/4.react/Router.md",
+    "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
+    "StudyFile/임베디드/1.Arduino.md",
+    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/정보처리기능사/sql/UPDATE.md",
+    "StudyFile/정보처리기능사/sql/Select.md",
     "StudyFile/web/web 공부/4.react/firebase/firebase다운로드.md",
     "StudyFile/web/web 공부/4.react/firebase",
     "StudyFile/정보처리기능사/sql/INSERT.md",
-    "StudyFile/정보처리기능사/sql/Select.md",
-    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/백엔드/node.js/0..md",
     "StudyFile/정보처리기능사/sql",
     "StudyFile/정보처리기능사",
@@ -202,10 +208,6 @@
     "StudyFile/백엔드/django/공부 한 날.md",
     "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
     "StudyFile/web/web 공부/2.CSS/grid.md",
-    "StudyFile/web/web 공부/4.react/axios.md",
-    "StudyFile/web/web 공부/4.react/Router.md",
-    "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
-    "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "1주차 (디자인)-20250107203000534.webp",
     "StudyFile/백엔드/무제 파일.md",
     "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
@@ -225,8 +227,6 @@
     "StudyFile/web/web 공부/image/1.jsx문법이란-20250102181502316.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519134055417.webp",
     "StudyFile/web/web 공부/image/7. form 삽입하기-20240519133328375.webp",
-    "StudyFile/Python/python 공부/3.연산자/3.연산자.md",
-    "StudyFile/Git 사용법/1.깃허브 명령어.md",
     "vector-20241024081410592.webp",
     "StudyFile/web/web 공부/4.react",
     "StudyFile/프로젝트 정리/nsetProject",

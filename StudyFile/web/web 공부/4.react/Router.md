@@ -33,5 +33,3 @@ react는 SPA다(Single Page Application)
 3.큰 프로젝트에 적합하다
 
 
-#### useNavigate
-
