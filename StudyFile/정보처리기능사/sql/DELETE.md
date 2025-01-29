@@ -25,4 +25,17 @@ WHERE 조건 IN (
 ```
 
 대규모 데이터 삭제는 트랜잭션을 사용하여 실행할 수 있다.
+트랜젝션은 데이터를 안전하게 유지하는 방법으로 중간에 문제가 생기면 `ROLLBACK`할 수 있다.
 
+```SQL
+BEGIN TRANSACTION;
+
+DELETE FROM table1
+WHERE 조건
+
+COMMIT;
+```
+
+```SQL
+ROLLBACK;
+```
