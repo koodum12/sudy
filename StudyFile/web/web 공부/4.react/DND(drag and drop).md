@@ -1,3 +1,4 @@
+https://everyday-is-christmas.tistory.com/73
 #### 설치
 react-dnd와 react-dnd-html5=backend를 설치한다.
 드래그 앤 드롭 API를 사용하는 기본 백엔드이다.
@@ -28,4 +29,7 @@ const [{isDragging}, drag] = useDSrag({
 });
 ```
 
-https://everyday-is-christmas.tistory.com/73
+type 
+- 필수 요소
+- string || symbol
+- 같은 종료로 등록된 드롭 대상만 이 아이템에 반응
