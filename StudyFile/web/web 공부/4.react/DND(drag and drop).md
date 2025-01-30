@@ -75,3 +75,11 @@ canDrag(monitor)
 - 이 메서드에서는 monitor.canDrag()를 호출할 수 없다.
 
 
+IsDragging(monitor)
+- optional 요소
+- 현재 드래그 중인지 여부를 나타내는 bool 값
+- 컴포넌트가 드래그중일 때와 아닐 때를 시각적으로 구분할 수 있게 해줌.
+- 기번적으로 드래그 작업을 시작한 드래그소스만 드래그하는 것으로 간주한다.
+- 드래그 하는 소스를 변경하고 싶다면 사용자정의 isDragging 메서드를 재정의 하면된다.
+	- props.id === monitor,getItem().id와 같이 return하면 된다.
+- 기술적으로 컴포넌트가 다른곳으로 위치를 이동할 때, 기본 컴포넌트는 unmount되고 새로운곳에서 mounted된다. 
