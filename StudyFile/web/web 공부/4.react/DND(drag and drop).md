@@ -86,3 +86,7 @@ IsDragging(monitor)
 - 이 메소드 내에서 moonitor.isDragged()를 호출 불가
 
 collect(monitor, props)
+- optional 요소
+- 드래그 상태 정보를 수집하는 함수를 정의한다.
+- 이 함수의 return 값은 컴포넌트 리랜더링에 사용하는 데이터 객체
+- 두개의 
