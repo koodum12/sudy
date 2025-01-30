@@ -89,4 +89,7 @@ collect(monitor, props)
 - optional 요소
 - 드래그 상태 정보를 수집하는 함수를 정의한다.
 - 이 함수의 return 값은 컴포넌트 리랜더링에 사용하는 데이터 객체
-- 두개의 
+- 두개의 매개변수를 받는다. (monitor, props)
+	- monitor 객체를 사용하는 드래그 중인지의 여부(isDragging)를 체크
+
+### useDrop

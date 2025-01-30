@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
+                "file": "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND(drag and drop)"
+              "title": "위상정렬"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -188,6 +187,7 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
@@ -203,7 +203,6 @@
     "StudyFile/오늘 공부한거/2024-5-22 오늘 공부한 것.md",
     "StudyFile/오늘 공부한거/2024-5-13 오늘 공부한 전공.md",
     "StudyFile/오늘 공부한거/2024-5-7 오늘 공부한 전공.md",
-    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "1주차 (디자인)-20250107203000534.webp",
     "StudyFile/web/web 공부/4.react/무제 폴더",
     "1주차 (디자인)-20250107203000580.webp",
