@@ -21,6 +21,11 @@ import {useDrag, useDrop, DndProvider} from 'react-dnd'
 
 const [{isDragging}, drag] = useDSrag({
 	type: 'MARKER',
-	
-})
+	item: {id : point.id, middleIdx},
+	collect : (monitor) => ({
+		isDragging: monitor.isDragging(),
+	}),
+});
 ```
+
+https://everyday-is-christmas.tistory.com/73
