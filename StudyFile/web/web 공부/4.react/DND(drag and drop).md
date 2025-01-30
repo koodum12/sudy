@@ -56,4 +56,22 @@ previewOptions
 options
 - optional 요소
 - dropEffect를 선택적으로 포함하는 일반 개체
-	- **dropEffect(optional): 이 드래그에 사용할 드롭의 type이다. move혹은 copy값을 가진다.**
+	- **dropEffect(optional): 이 드래그에 사용할 드롭의 type이다. move혹은 copy값을 가진다.
+	- 
+
+end(item, monitor)
+- optional 요소
+- 드래깅을 멈추면 end가호출
+- 모든 시작 호출에는 그 상응하는 end가 보장
+- monitor.didDrop()을 호출해서, drop이 드롭 타겟에 의해 handle되었는지 체크할 수 있다.
+- 만약 handle되었고, 드롭 타겟이 drop()메서드에서 일반객체를 반환해서 드롭결과를 지정했다면 monitor.getDropResult()로 사용가능하다.
+
+
+canDrag(monitor)
+- optional요소
+- drag가 현재 허용되는지여부를 지정할 수 있다. 
+- 항상 허용하려면 canDrag()를 생략하면 된다.
+- prop로 드래그 비활성화를 조정 하려고 한다면 canDrag()지정하는게 좋다.
+- 이 메서드에서는 monitor.canDrag()를 호출할 수 없다.
+
+
