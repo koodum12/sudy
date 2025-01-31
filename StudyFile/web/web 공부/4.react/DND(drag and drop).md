@@ -92,4 +92,4 @@ collect(monitor, props)
 - 두개의 매개변수를 받는다. (monitor, props)
 	- monitor 객체를 사용하는 드래그 중인지의 여부(isDragging)를 체크
 
-### useDrop
+#### useDrop

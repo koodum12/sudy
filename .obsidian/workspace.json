@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
+                "file": "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "위상정렬"
+              "title": "DND(drag and drop)"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "위상정렬-20250130181854605"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -187,10 +187,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
@@ -198,15 +198,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "91cd05388b626455",
+  "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "위상정렬-20250131011758990.webp",
-    "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
-    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/Router.md",
+    "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
+    "위상정렬-20250130181854605.webp",
+    "위상정렬-20250131011758990.webp",
+    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/axios.md",
     "무제 파일.md",
-    "위상정렬-20250130181854605.webp",
     "vector-20241024081410592.webp",
     "vector-20241024081643612.webp",
     "vector-20241024081654026.webp",
