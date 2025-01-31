@@ -92,4 +92,61 @@ collect(monitor, props)
 - 두개의 매개변수를 받는다. (monitor, props)
 	- monitor 객체를 사용하는 드래그 중인지의 여부(isDragging)를 체크
 
-#### useDrop
+#### useDrop()
+```jsx
+const [,drop] = useDrop({
+	accept: 'MARKER',
+	hover: (item, monitor) => {
+
+	if (!ref.current){
+		return;
+	}
+	const dragIndex = item.index;
+	const hoverIndex = middleIdx;
+	if (dragIndex === hoverIndex){
+		return;
+	}
+	const hoverBoundingRect = 
+	ref.current?.getBoundingClientReact();
+	const hoverMiddleY = (hoverBoundingRect.bottom - hoverBoundingRect.top) / 2;
+	const hoverClientY = clientOffset.y - hoverBoundingRect.top;
+
+	if(dragIndex < hoverIndex && hoverClientY < hoverMiddleY) {
+		return;
+	}
+	if (dragIndex > hoverIndex && hoverClientY > hoverMiddleY){
+		return;
+	}
+	_dragToReorder(dragIndex, hoverIndex);
+	item.index = hoverIndex;
+},
+});
+```
+
+useDrop은 구성요소를 dnd 시스템에 드롭 대상으로 연결할수있게 해준다.
+
+useDrop에 사양(accept, hover)을 전달함으로써
+
+- **accept** : 드롭 타겟이 수락하는 드래그 아이템의 타입을 정의한다. useDrag의 type으로 지정한것을 여기에 적어줘야 같은 type이므로 드롭이 된다. (drag item과 drag target을 맞춰주는 과정이다)
+- **hover(item, monitor)** : drop target의 위에 drag item이 hover되었을때 실행되는 함수, 두개의 매개변수를 받는다
+    - item: 현재 드래그중인 아이템 정보 (item.index는 아이템의 인덱스 정보)
+    - monitor: 드래그 상태 관련 정보를 제공하는 객체(**monitor.getClientOffset()** 은 드래그 아이템의 현재 마우스 위치값)
+
+
+ **hover 함수가 실행 중단하는 상황**
+
+1. ref.current가 존재하지 않을때(DOM요소가 없음)
+2. drag item과 호버하는 아이템 위치가 같은(위치변경이 필요없는) 경우
+
+
+
+ **hover 함수의 로직**
+
+**- 요소 경계를 계산**: ref.current.getBoundingClientRect() 를 호출해서 drop target의 위치,크기 정보를 얻는다. 그렇게 요소의 수직 중앙 위치(hoverMiddleY) 값을 계산한다.
+
+**- 마우스 위치를 계산**: **monitor.getClientOffset()**로 얻은 마우스 위치에서 요소 상단위치(hoverBoundingRect.top)를 뺀 값이 hoverClientY(마우스 포인터의 요소 내 수직 위치)이다.
+
+**- 위치 변경 조건**
+
+1. 드래그 아이템의 인덱스가 호버 인덱스보다 작은데 마우스 위치가 요소의 수직 중앙 아래에 있는 경우
+2. 드래그 아이템의 인덱스가 호버인덱스보다 큰데 마우스 위치가 요소의 수직 중앙 위에 있는 경우
