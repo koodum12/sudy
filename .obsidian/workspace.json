@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
+                "file": "StudyFile/Java/7.문자열.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND(drag and drop)"
+              "title": "7.문자열"
             }
           },
           {
@@ -215,6 +215,14 @@
   },
   "active": "631938b73b026a30",
   "lastOpenFiles": [
+    "StudyFile/Java/4.상수.md",
+    "StudyFile/Java/1.자료형.md",
+    "StudyFile/Java/5.형 변환.md",
+    "StudyFile/Java/7.문자열.md",
+    "StudyFile/Java/3.변수 명.md",
+    "StudyFile/Java/6.연산자.md",
+    "StudyFile/Java/2.주석.md",
+    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/정보처리기능사/sql/DELETE.md",
@@ -224,7 +232,6 @@
     "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
     "위상정렬-20250130181854605.webp",
     "위상정렬-20250131011758990.webp",
-    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/axios.md",
     "무제 파일.md",
     "vector-20241024081410592.webp",
@@ -247,14 +254,8 @@
     "StudyFile/임베디드/1.Arduino.md",
     "StudyFile/web/web 공부/4.react/firebase/firebase다운로드.md",
     "StudyFile/web/web 공부/4.react/firebase",
-    "StudyFile/백엔드/node.js/0..md",
     "StudyFile/정보처리기능사/sql",
     "StudyFile/정보처리기능사",
-    "StudyFile/백엔드/node.js/1..md",
-    "StudyFile/백엔드/django/공부 파일/0.강의.md",
-    "StudyFile/백엔드/django/공부 파일/1.Rest api.md",
-    "StudyFile/백엔드/django/공부 한 날.md",
-    "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출/img",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출",
     "StudyFile/web/web 공부/4.react",
