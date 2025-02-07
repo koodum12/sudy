@@ -20,4 +20,22 @@ CREATE TABLE employees (
     salary DECIMAL(10, 2)
 );
 ```
-- 이 명령은 `employees`라는 이름의 테이블을 생성하며, `employee_id`, `first_name`, `last_name`, `hire_date`, `salary` 컬럼을 정의합니다.
+- 이 명령은 `employees`라는 이름의 테이블을 생성하며, `employee_id`, `first_name`, `last_name`, `hire_date`, `salary` 컬럼을 정의한다.
+
+#### DB생성
+
+```sql
+CREATE DATABASE 데이터베이스명;
+```
+
+#### 뷰 생성
+
+```sql
+CREATE VIEW 뷰명 AS 
+SELECT 문;
+```
+
+#### 인덱스 생성
+```sql
+CREATE INDEX 인덱스명 ON 테이블명 (컬럼명);
+```
