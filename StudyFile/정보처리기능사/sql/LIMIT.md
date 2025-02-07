@@ -7,9 +7,18 @@ ex)
 SELECT column1,column2
 FROM table1
 ORDER BY 조건 DESC
-LIMIT 5
+LIMIT 5;
 ```
 
 조건에 대한 내림차순으로 반환되는 행의 개수를 LIMIT으로 5개 제한
 
 
+OFFSET을 사용하여 건너뛸 행의 수를 지정할 수 있다
+
+```sql
+SELECT column1,column2
+FROM table1
+ORDER BY 조건 DESC
+LIMIT 5 OFFSET 10;
+```
+10번째 행 이후 5가지의 행을 추출
