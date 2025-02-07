@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/정보처리기능사/sql/drop.md",
+                "file": "StudyFile/정보처리기능사/sql/DELETE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drop"
+              "title": "DELETE"
             }
           },
           {
@@ -202,12 +202,12 @@
   "lastOpenFiles": [
     "StudyFile/정보처리기능사/sql/CREATE.md",
     "StudyFile/정보처리기능사/sql/drop.md",
+    "StudyFile/정보처리기능사/sql/Select.md",
     "StudyFile/정보처리기능사/sql/LIMIT.md",
     "StudyFile/정보처리기능사/sql/UPDATE.md",
     "StudyFile/정보처리기능사/sql/INSERT.md",
     "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/정보처리기능사/sql/DELETE.md",
-    "StudyFile/정보처리기능사/sql/Select.md",
     "1주차 (디자인)-20250107203144029.webp",
     "2025-02-07.md",
     "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
