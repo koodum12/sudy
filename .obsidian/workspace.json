@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/무제.md",
+                "file": "StudyFile/Python/python 공부/sys모듈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
-            }
-          },
-          {
-            "id": "91cd05388b626455",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "위상정렬-20250130181854605.webp"
-              },
-              "icon": "lucide-image",
-              "title": "위상정렬-20250130181854605"
+              "title": "sys모듈"
             }
           }
         ]
@@ -200,8 +188,9 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "위상정렬-20250130181854605.webp",
+    "StudyFile/Python/python 공부/sys모듈.md",
     "StudyFile/정보처리기능사/sql/DELETE.md",
-    "StudyFile/Python/python 공부/무제.md",
     "StudyFile/정보처리기능사/sql/CREATE.md",
     "StudyFile/정보처리기능사/sql/drop.md",
     "StudyFile/정보처리기능사/sql/Select.md",
@@ -221,7 +210,6 @@
     "StudyFile/Java/2.주석.md",
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
-    "위상정렬-20250130181854605.webp",
     "위상정렬-20250131011758990.webp",
     "StudyFile/web/web 공부/4.react/axios.md",
     "무제 파일.md",
@@ -233,7 +221,6 @@
     "StudyFile/자료구조(정리는 잘 안할듯)",
     "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
     "StudyFile/오늘 공부한거/2024-5-22 오늘 공부한 것.md",
-    "StudyFile/오늘 공부한거/2024-5-13 오늘 공부한 전공.md",
     "1주차 (디자인)-20250107203000534.webp",
     "StudyFile/web/web 공부/4.react/무제 폴더",
     "1주차 (디자인)-20250107203000580.webp",
