@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/sys모듈.md",
+                "file": "StudyFile/백엔드/fast_api/2.Request Body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sys모듈"
+              "title": "2.Request Body"
             }
           }
         ]
@@ -188,8 +188,16 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
-    "위상정렬-20250130181854605.webp",
+    "StudyFile/백엔드/fast_api/1.기본기.md",
+    "StudyFile/옵시디언/옵시디언 마크다운.md",
+    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
+    "StudyFile/백엔드/node.js/0..md",
+    "StudyFile/백엔드/node.js/1..md",
+    "StudyFile/백엔드/fast_api/15.응답 모델.md",
+    "StudyFile/백엔드/fast_api/2.Request Body.md",
+    "StudyFile/백엔드/fast_api/4.경로 매개변수와 숫자 검증.md",
     "StudyFile/Python/python 공부/sys모듈.md",
+    "위상정렬-20250130181854605.webp",
     "StudyFile/정보처리기능사/sql/DELETE.md",
     "StudyFile/정보처리기능사/sql/CREATE.md",
     "StudyFile/정보처리기능사/sql/drop.md",
@@ -209,18 +217,12 @@
     "StudyFile/Java/6.연산자.md",
     "StudyFile/Java/2.주석.md",
     "StudyFile/web/web 공부/4.react/Router.md",
-    "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
     "위상정렬-20250131011758990.webp",
-    "StudyFile/web/web 공부/4.react/axios.md",
-    "무제 파일.md",
     "vector-20241024081410592.webp",
     "vector-20241024081643612.webp",
     "vector-20241024081654026.webp",
     "위상정렬-20250130181831564.webp",
-    "StudyFile/오늘 공부한거/2024-6-04 오늘 공부한 것.md",
     "StudyFile/자료구조(정리는 잘 안할듯)",
-    "StudyFile/오늘 공부한거/2024-5-27~6-1.md",
-    "StudyFile/오늘 공부한거/2024-5-22 오늘 공부한 것.md",
     "1주차 (디자인)-20250107203000534.webp",
     "StudyFile/web/web 공부/4.react/무제 폴더",
     "1주차 (디자인)-20250107203000580.webp",
@@ -234,7 +236,6 @@
     "StudyFile/프로젝트 정리/nsetProject",
     "StudyFile/프로젝트 정리",
     "무제 파일.canvas",
-    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
 }
