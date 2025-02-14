@@ -1,3 +1,5 @@
+#python #library #프로젝트사용
+
 설치 
 ```cmd
 pip install spleeter
@@ -44,3 +46,13 @@ accompaniment = separated["accompaniment"] # 반주 부분
 
 #### AudioAdapter 클래스 (오디오 입출력 관련)
 
+```python
+from spleeter.audio.adapter import AudioAdapter 
+
+audio_loader = AudioAdapter.default() # 오디오 로드 
+waveform, rate = audio_loader.load("input.mp3", sample_rate=44100) # 오디오 저장
+
+audio_loader.save("output.wav", waveform, rate)
+```
+- `load(audio_path, sample_rate)` → 오디오 파일을 NumPy 배열로 로드  
+-  `save(audio_path, waveform, sample_rate)` → NumPy 배열을 오디오 파일로 저장
