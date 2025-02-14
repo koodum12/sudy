@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/spleeter.md",
+                "file": "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spleeter"
+              "title": "추가적인 무언가"
             }
           }
         ]
@@ -188,12 +188,12 @@
   },
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/spleeter.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.lcm.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/functools.reduce.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/operator.itemgetter.md",
-    "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/spleeter.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/math.gcd.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/datetime.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/itertools/itertools.zip_longest.md",
