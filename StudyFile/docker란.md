@@ -22,3 +22,6 @@
 	(ctrl + alt + del)에 진입 후 성능에 들어가 확인 
 
 
+- Docker 설치
+	가상화가 사용가능하다면 **Docker DeskTop for Windows**를 사용해야 한다.
+
