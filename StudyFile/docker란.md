@@ -25,3 +25,21 @@
 - Docker 설치
 	가상화가 사용가능하다면 **Docker DeskTop for Windows**를 사용해야 한다.
 
+- Image 다운로드
+	만약 Docker의 ubuntu Image를 다운 받고 싶다면 ubuntu검색을 통해 사용할 수 있다
+	또한 
+	`docker search ubuntu`
+	같은 명령어를 통해 사용할 수 도 있다
+
+	원하는 이미지를 찾았다면 아래 명령어 처럼 다운로드 받으면 된다.
+	`docker pull ubuntu:18.04` 
+
+- Container 생성및 실행
+	Image를 생성했다면 해당 Image안에 여러 개의 Container 설치 가능
+
+	docker run -it --name 이름 image이름/bin/bash
+	`docker run -it -name Ubuntu ubuntu:18.04 /bin/bash`
+
+	`docker ps -a`
+	위 명령어로 Container 확인 가능
+	
