@@ -181,3 +181,75 @@ const SendTest = () => {
 
 export default SendTest;
 ```
+
+server.js
+```javascript
+const express = require("express");
+const cors = require("cors");
+
+const port = 5000; // 사용할 포트 번호
+const mysql = require("mysql2"); // 'mysql2' 모듈 사용
+const bodyParser = require("body-parser");
+
+const app = express();
+app.use(cors()); // 모든 요청에 대해 CORS를 허용
+
+// MySQL 데이터베이스 연결 설정
+const connection = mysql.createConnection({
+  host: "localhost", // 데이터베이스 호스트 주소
+  user: "root", // 데이터베이스 사용자 이름
+  password: "password", // 사용자 비밀번호
+  database: "database", // 접속하려는 데이터베이스 이름
+  port: 3306, // MySQL 포트 번호
+});
+
+// 데이터베이스 연결
+connection.connect((error) => {
+  if (error) {
+    return console.error("데이터베이스 연결 실패:", error);
+  }
+  console.log("데이터베이스에 성공적으로 연결됨");
+});
+
+// JSON 형식의 본문을 파싱할 수 있도록 설정
+app.use(bodyParser.json());
+
+// '/send' 경로에 대한 POST 요청 처리
+app.post("/send", (req, res) => {
+  const { id, password, code, email } = req.body;
+  const query = `
+    INSERT INTO user_info (id, password, code, email)
+    VALUES (?, ?, ?, ?);
+  `;
+
+  // 데이터베이스에 데이터를 삽입
+  connection.execute(
+    query,
+    [id, password, code, email],
+    (error, results, fields) => {
+      if (error) {
+        console.error("데이터 삽입 실패:", error);
+        res.status(500).send("데이터 삽입에 실패했습니다.");
+      } else {
+        console.log("데이터 삽입 성공:", results);
+        res.status(200).send("데이터가 성공적으로 삽입되었습니다.");
+      }
+    }
+  );
+});
+
+// 데이터베이스 쿼리 실행 예제
+app.get("/hello", (req, res) => {
+  connection.query("SELECT VERSION()", (error, results, fields) => {
+    if (error) {
+      return res.send("쿼리 실행 실패: " + error.message);
+    }
+    res.send("데이터베이스 서버 버전: " + results[0]["VERSION()"]);
+  });
+});
+
+// 서버 실행
+app.listen(port, () => {
+  console.log(`Server listening at http://localhost:${port}`);
+});
+```
