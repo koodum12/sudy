@@ -78,3 +78,20 @@ app.listen(port, () => {
   console.log(`Server listening at http://localhost:${port}`);
 });
 ```
+위 코드는 주석만 봐도 쉽게 이해 될 것이다(진짜 뭐 적을게 없네..., )
+그래도 블로그에 적힌대로 설명을 해보자면
+
+가장 중요한 부분의 코드 -> 7번째 줄부터 보면 될 듯
+host 는 그대로 localhost유지
+기본 설정대로 DB를 구성했다면 User부분은 "root" Port부분은 "3306"을 그대로 유지
+
+위 코드를 실행하기 위해서는 아래 명령어가 필요하다
+(mysql2다운, 실행)
+
+```cmd
+npm install mysql2
+```
+```cmd
+node server.js
+```
+
