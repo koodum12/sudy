@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/정보처리기능사/sql/Join.md",
+                "file": "StudyFile/docker란.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Join"
+              "title": "docker란"
             }
           }
         ]
@@ -189,9 +189,11 @@
   "active": "772e25c31556ff88",
   "lastOpenFiles": [
     "StudyFile/정보처리기능사/sql/집계 함수.md",
-    "StudyFile/정보처리기능사/sql/Join.md",
     "StudyFile/정보처리기능사/sql/단일 행 함수.md",
+    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/정보처리기능사/sql/sql 함수란.md",
+    "StudyFile/정보처리기능사/sql/Join.md",
+    "StudyFile/정보처리기능사/sql/LIMIT.md",
     "StudyFile/정보처리기능사/sql/Select.md",
     "StudyFile/정보처리기능사/sql/drop.md",
     "StudyFile/정보처리기능사/sql/CREATE.md",
@@ -202,10 +204,8 @@
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/임베디드/1.Arduino.md",
-    "StudyFile/정보처리기능사/sql/LIMIT.md",
     "StudyFile/정보처리기능사/sql/INSERT.md",
     "StudyFile/정보처리기능사/sql/DELETE.md",
-    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/spleeter.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/time.md",
     "StudyFile/Python/python 공부/라이브러리/내부 라이브러리/random(앞에서 정리함).md",
