@@ -25,12 +25,14 @@
             "id": "46dbe54f37fc6757",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "StudyFile/프로젝트 정리/잠깐 정리.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "잠깐 정리"
             }
           }
         ],
@@ -202,6 +204,8 @@
   "active": "46dbe54f37fc6757",
   "lastOpenFiles": [
     "StudyFile/docker란.md",
+    "StudyFile/임베디드/1.Arduino.md",
+    "StudyFile/AI/수학/시그마(Σ).md",
     "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
     "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
     "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
@@ -235,11 +239,9 @@
     "StudyFile/오늘 공부한거/2024-5-7 오늘 공부한 전공.md",
     "StudyFile/전처리/Series Dataframe.md",
     "StudyFile/전처리/데이터 불러오기,요약 확인,결측치, missing data 확인컬럼데이터 추출.md",
-    "StudyFile/임베디드/1.Arduino.md",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/정보처리기능사/sql/집계 함수.md",
     "StudyFile/정보처리기능사/sql/단일 행 함수.md",
-    "StudyFile/정보처리기능사/sql/sql 함수란.md",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출",
     "StudyFile/정보처리기능사/sql",
     "StudyFile/정보처리기능사",
