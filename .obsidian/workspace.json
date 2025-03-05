@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/axios.md",
+                "file": "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "axios"
+              "title": "DND(drag and drop)"
             }
           }
         ],
@@ -203,10 +203,14 @@
   },
   "active": "46dbe54f37fc6757",
   "lastOpenFiles": [
+    "StudyFile/정보처리기능사/sql/sql 함수란.md",
+    "StudyFile/정보처리기능사/sql/LIMIT.md",
+    "StudyFile/정보처리기능사/sql/Join.md",
+    "StudyFile/정보처리기능사/sql/INSERT.md",
+    "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
-    "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/프로젝트 정리/잠깐 정리.md",
     "무제 파일.md",
@@ -237,10 +241,6 @@
     "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000755.webp",
     "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000683.webp",
     "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000580.webp",
-    "conflict-files-obsidian-git.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-2인공신경망의 작동 모습.md",
-    "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출",
     "StudyFile/정보처리기능사/sql",
