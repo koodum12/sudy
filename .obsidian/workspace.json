@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
+                "file": "StudyFile/web/web 공부/4.react/useEffect, fetch()로 API호출.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND(drag and drop)"
+              "title": "useEffect, fetch()로 API호출"
             }
           }
         ],
@@ -203,12 +203,13 @@
   },
   "active": "46dbe54f37fc6757",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
+    "StudyFile/web/web 공부/4.react/useEffect, fetch()로 API호출.md",
     "StudyFile/정보처리기능사/sql/sql 함수란.md",
     "StudyFile/정보처리기능사/sql/LIMIT.md",
     "StudyFile/정보처리기능사/sql/Join.md",
     "StudyFile/정보처리기능사/sql/INSERT.md",
     "StudyFile/web/web 공부/4.react/axios.md",
-    "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/Router.md",
@@ -228,7 +229,6 @@
     "StudyFile/프로젝트 정리/nsetProject/0.겨울 방학전 사전 조사.md",
     "StudyFile/web/mysql 연결.md",
     "StudyFile/백엔드/이론/2.HTTP.md",
-    "README.md",
     "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
     "StudyFile/AI/Ai Image/vector-20241024081654026.webp",
