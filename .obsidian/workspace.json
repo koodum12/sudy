@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
+                "file": "StudyFile/프로젝트 정리/잠깐 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selenium"
+              "title": "잠깐 정리"
             }
           }
         ],
@@ -215,12 +215,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "4067d929fd88b687",
   "lastOpenFiles": [
-    "StudyFile/Python/python 공부/sys모듈.md",
+    "StudyFile/Python/python 공부/최적화/python 코드 최적화.md",
     "StudyFile/Python/python 공부/Enum 열거형.md",
-    "StudyFile/Python/requests.md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/Selenium.md",
+    "StudyFile/Python/python 공부/sys모듈.md",
+    "StudyFile/Python/requests.md",
     "StudyFile/Python/python image/Selenium-20250310091706138.webp",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
@@ -243,7 +244,6 @@
     "잠깐 쓰는 매모장.md",
     "프로젝트 구상(maybe).md",
     "StudyFile/docker란.md",
-    "StudyFile/Git 사용법/3.그룹 프로젝트..md",
     "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
     "StudyFile/AI/Ai Image/vector-20241024081654026.webp",
