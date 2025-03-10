@@ -24,3 +24,10 @@ const days = ["Mon", "Tue", "Wed", "Thus", "Fri"];
 이때 모든 값에 숫자를 추가하고 싶다면 map()함수를 이용하는 것이다. 
 map()함수는 모든 배열의 값에 Function을 실행하는 Method이다
 (python map이랑 비슷한 듯)
+
+```js
+const smilmingDays = days.map(day => console.log(day));
+```
+
+여기서 console.log(day)를 return한다
+
