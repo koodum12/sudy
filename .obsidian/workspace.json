@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
+                "file": "StudyFile/AI/데이터 수집.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.jsx문법이란"
+              "title": "데이터 수집"
             }
           }
         ],
@@ -217,6 +217,14 @@
   },
   "active": "4067d929fd88b687",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
+    "StudyFile/AI/데이터 수집.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
+    "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
+    "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/Router.md",
@@ -235,15 +243,7 @@
     "StudyFile/Python/python image/Selenium-20250310091706138.webp",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/openpyxl   (excel 관련 라이브러리).md",
     "StudyFile/Python/python 공부/라이브러리/데이터 수집할때 쓸 것/beautifulsoup.md",
-    "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
-    "StudyFile/web/web 공부/4.react/firebase/firebase다운로드.md",
-    "StudyFile/정보처리기능사/sql/단일 행 함수.md",
-    "StudyFile/정보처리기능사/sql/CREATE.md",
-    "StudyFile/정보처리기능사/sql/DELETE.md",
-    "StudyFile/정보처리기능사/sql/sql 함수란.md",
-    "StudyFile/정보처리기능사/sql/LIMIT.md",
-    "StudyFile/정보처리기능사/sql/Join.md",
     "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
     "StudyFile/AI/Ai Image/vector-20241024081654026.webp",
