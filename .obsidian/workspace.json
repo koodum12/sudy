@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/5.typeScript/기본.md",
+                "file": "StudyFile/web/web 공부/5.typeScript/솔찍히.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기본"
+              "title": "솔찍히"
             }
           }
         ],
@@ -217,6 +217,10 @@
   },
   "active": "4067d929fd88b687",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/5.typeScript/기본.md",
+    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
+    "StudyFile/web/web 공부/5.typeScript/솔찍히.md",
+    "StudyFile/web/web 공부/5.typeScript/무제",
     "StudyFile/web/mysql 연결.md",
     "StudyFile/web/web 공부/4.react/useEffect, fetch()로 API호출.md",
     "StudyFile/web/web 공부/4.react/Router.md",
@@ -224,7 +228,6 @@
     "StudyFile/web/web 공부/4.react/axios.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
-    "StudyFile/web/web 공부/5.typeScript/기본.md",
     "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
     "StudyFile/web/web 공부/5.typeScript",
     "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
@@ -242,8 +245,6 @@
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/오토 드로우.md",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
-    "StudyFile/web/web 공부/2.CSS/flex.md",
     "StudyFile/Python/python image/Selenium-20250310091706138.webp",
     "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
@@ -263,7 +264,6 @@
     "StudyFile/자료구조(정리는 잘 안할듯)",
     "StudyFile/web/web 공부/4.react/firebase",
     "StudyFile/web/web 공부/4.react",
-    "StudyFile/프로젝트 정리/nsetProject",
     "무제 파일.canvas",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
