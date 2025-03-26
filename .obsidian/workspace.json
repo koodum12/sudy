@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/5.typeScript/기본.md",
+                "file": "StudyFile/Topcit/기술영역/소프트웨어 공학.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기본"
+              "title": "소프트웨어 공학"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/web/web 공부/5.typeScript/기본.md",
+                "file": "StudyFile/Topcit/기술영역/소프트웨어 공학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "기본 의 백링크"
+              "title": "소프트웨어 공학 의 백링크"
             }
           },
           {
@@ -216,10 +216,14 @@
   },
   "active": "4067d929fd88b687",
   "lastOpenFiles": [
+    "StudyFile/Topcit/기술영역/들어가기 앞서.md",
+    "StudyFile/Topcit/기술영역/소프트웨어 공학.md",
+    "StudyFile/Topcit/기술영역",
+    "StudyFile/web/web 공부/5.typeScript/기본.md",
+    "StudyFile/Topcit",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "StudyFile/web/web 공부/4.react/firebase/firebase다운로드.md",
-    "StudyFile/web/web 공부/5.typeScript/기본.md",
     "StudyFile/web/web 공부/5.typeScript/솔찍히.md",
     "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/5-1 스케치 RNN을 순환 신경망 체험.md",
     "StudyFile/web/web 공부/5.typeScript/무제",
@@ -241,9 +245,6 @@
     "StudyFile/AI/수학/limit.md",
     "StudyFile/AI/수학/지수 함수.md",
     "StudyFile/AI/데이터 수집.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/딥러닝이란.md",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/티쳐블 머신 체험하기.md",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
     "StudyFile/Python/python image/Selenium-20250310091706138.webp",
     "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
@@ -261,8 +262,6 @@
     "StudyFile/정보처리기능사/sql",
     "StudyFile/정보처리기능사",
     "StudyFile/자료구조(정리는 잘 안할듯)",
-    "StudyFile/web/web 공부/4.react/firebase",
-    "StudyFile/web/web 공부/4.react",
     "무제 파일.canvas",
     "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
   ]
