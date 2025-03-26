@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/Topcit/기술영역/소프트웨어 설계원리와 구조적 설계.md",
+                "file": "StudyFile/Topcit/기술영역/4.소프트웨어 설계원리와 구조적 설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소프트웨어 설계원리와 구조적 설계"
+              "title": "4.소프트웨어 설계원리와 구조적 설계"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "421e7c0c1b6549cc",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/Topcit/기술영역/소프트웨어 설계원리와 구조적 설계.md",
+                "file": "StudyFile/Topcit/기술영역/4.소프트웨어 설계원리와 구조적 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "소프트웨어 설계원리와 구조적 설계 의 백링크"
+              "title": "4.소프트웨어 설계원리와 구조적 설계 의 백링크"
             }
           },
           {
@@ -204,10 +203,11 @@
   },
   "active": "46dbe54f37fc6757",
   "lastOpenFiles": [
-    "StudyFile/Topcit/기술영역/자료구조.md",
-    "StudyFile/Topcit/기술영역/소프트웨어 설계원리와 구조적 설계.md",
-    "StudyFile/Topcit/기술영역/소프트웨어 재사용.md",
-    "StudyFile/Topcit/기술영역/소프트웨어 공학.md",
+    "StudyFile/Topcit/기술영역/3.자료구조.md",
+    "StudyFile/Topcit/기술영역/4.소프트웨어 설계원리와 구조적 설계.md",
+    "StudyFile/Topcit/기술영역/2.소프트웨어 재사용.md",
+    "StudyFile/Topcit/기술영역/1.소프트웨어 공학.md",
+    "StudyFile/Topcit/기술영역/image/소프트웨어 설계원리와 구조적 설계-20250326202731519.webp",
     "StudyFile/Topcit/기술영역/들어가기 앞서.md",
     "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191843784.webp",
     "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191221384.webp",
@@ -240,11 +240,9 @@
     "StudyFile/AI/참고 자료/영상 분석 ai.md",
     "StudyFile/AI/수학/로그 함수.md",
     "StudyFile/AI/수학/미분 & 적분.md",
-    "StudyFile/AI/수학/limit.md",
     "StudyFile/Python/python image/Selenium-20250310091706138.webp",
     "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
-    "StudyFile/AI/Ai Image/vector-20241024081654026.webp",
     "StudyFile/자료구조(정리는 잘 안할듯)/img",
     "StudyFile/프로젝트 정리/image",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
