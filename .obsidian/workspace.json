@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/axios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "axios"
-            }
-          },
-          {
-            "id": "4067d929fd88b687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "StudyFile/Topcit/기술영역/소프트웨어 공학.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,14 +202,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4067d929fd88b687",
+  "active": "46dbe54f37fc6757",
   "lastOpenFiles": [
-    "소프트웨어 공학-20250326191020589.webp",
-    "소프트웨어 공학-20250326190904049.webp",
-    "StudyFile/Topcit/기술영역/image",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326190616973.webp",
+    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191843784.webp",
     "StudyFile/Topcit/기술영역/들어가기 앞서.md",
+    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191221384.webp",
+    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326190616973.webp",
     "StudyFile/Topcit/기술영역/소프트웨어 공학.md",
+    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191313951.webp",
+    "소프트웨어 공학-20250326190904049.webp",
+    "소프트웨어 공학-20250326191020589.webp",
+    "StudyFile/Topcit/기술영역/image",
     "StudyFile/Topcit/기술영역",
     "StudyFile/web/web 공부/5.typeScript/기본.md",
     "StudyFile/Topcit",
@@ -256,10 +245,7 @@
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
     "StudyFile/AI/Ai Image/vector-20241024081654026.webp",
     "StudyFile/AI/Ai Image/vector-20241024081643612.webp",
-    "StudyFile/자료구조(정리는 잘 안할듯)/img/위상정렬-20250130181831564.webp",
     "StudyFile/자료구조(정리는 잘 안할듯)/img",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203144029.webp",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000823.webp",
     "StudyFile/프로젝트 정리/image",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "StudyFile/프로젝트 정리/nsetProject/주별 제출",
