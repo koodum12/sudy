@@ -33,3 +33,34 @@
 	- 메타 프롬프트/그라운딩
 	- 응답 필터링
 	- 플러그인 실행
+#### semantic Kernel이란
+app에서 ai를 쉽게 사용할 수 있게 해주는 orchestration
+
+orcehstration{
+여러 LLM모델을 가져와서 각자 다른 역할을 맞게 하는 그런 좋은 거
+}
+
+##### 장점
+- 기업용 앱 개발 친화적
+	- 기존 앱 개발 경험 유지
+	- 래거시 앱 통합
+	- 스케일링
+	- 보안
+- 플러그인
+	- 기존의 API 등에 연결
+	- 프롬프트 플러그인
+	- 네이티브 코드 플러그인
+- 멀티 에이전트
+	- 다양한 페르소나
+	- 다양한 에이전트
+	- 에이전트 오케스트레이션
+##### LangChain vs Semantic Kernel
+Semantic Kernel은 여러 코드를 사용할 수 있음.(여러 기술스택 사용 가능)
+
+
+#### Microsoft copilot
+사용 가능 ai
+- Hugging Face
+- GitHub Models
+- OpenAI
+- Ollama
