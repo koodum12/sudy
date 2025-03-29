@@ -78,3 +78,5 @@ Native code plugin
 - AutoFunctionCalling
 
 
+#### 멀티 에이전트
+- 여러 업무를 ai 에이전트에게 ㄷ
