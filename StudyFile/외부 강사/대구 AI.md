@@ -71,4 +71,10 @@ Prompt plugin
 - 말로서 ai에게 역할 지정
 
 Native code plugin
-- 함수
+- 코드로 플러그인 제작
+
+- ChatHistory
+	- 대화 기록 저장 객체
+- AutoFunctionCalling
+
+
