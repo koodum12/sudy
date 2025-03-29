@@ -64,3 +64,11 @@ Semantic Kernel은 여러 코드를 사용할 수 있음.(여러 기술스택 �
 - GitHub Models
 - OpenAI
 - Ollama
+
+
+#### 
+Prompt plugin
+- 말로서 ai에게 역할 지정
+
+Native code plugin
+- 함수
