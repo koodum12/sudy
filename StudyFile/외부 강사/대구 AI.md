@@ -80,3 +80,28 @@ Native code plugin
 
 #### 멀티 에이전트
 - 여러 업무를 ai 에이전트에게 도움을 받을 수 있음.
+
+#### RAG
+Retrieval Augment Generation
+검색 증강 생성
+
+최신 데이터 적용
+보안,기밀 유지
+
+
+##### 비정형 텍스트 데이터
+사진 , 동영상, 코드 등등....,
+
+
+이 때문에 vector db 사용
+
+Azure Cosmos DB
+Redis
+Mongo DB
+Elastic Search
+등등이 있음
+
+
+####
+OpenTelemetry
+오픈소스 프로토콜
