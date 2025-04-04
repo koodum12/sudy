@@ -1,6 +1,7 @@
 **강사분 git, instar**
 @justinyoo
 
+# 내가 정리
 #### justinyoo
 
 사전 학습 모델

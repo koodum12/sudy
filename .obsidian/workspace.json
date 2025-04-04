@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/외부 강사/대구 AI.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "대구 AI"
+              "title": "3-3활성화 함수"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyFile/외부 강사/대구 AI.md",
+                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "대구 AI 의 백링크"
+              "title": "3-3활성화 함수 의 백링크"
             }
           },
           {
@@ -202,9 +202,15 @@
   },
   "active": "46dbe54f37fc6757",
   "lastOpenFiles": [
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
+    "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
+    "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
+    "StudyFile/외부 강사/대구 AI.md",
     "StudyFile/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/docker란.md",
-    "StudyFile/외부 강사/대구 AI.md",
     "StudyFile/프로젝트 정리/잠깐 정리.md",
     "StudyFile/Topcit/기술영역/들어가기 앞서.md",
     "StudyFile/Topcit/기술영역/3.자료구조.md",
@@ -233,13 +239,7 @@
     "StudyFile/web/web 공부/4.react/Router.md",
     "StudyFile/web/web 공부/4.react/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/axios.md",
-    "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
     "StudyFile/web/web 공부/5.typeScript",
-    "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
     "StudyFile/Python/python image/Selenium-20250310091706138.webp",
     "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
     "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
