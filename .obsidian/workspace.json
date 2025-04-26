@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
+                "file": "StudyFile/백엔드/fast_api/16.응답 상태 코드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "위상정렬"
+              "title": "16.응답 상태 코드"
             }
           }
         ]
@@ -186,8 +186,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "35c856b3f08d79a3",
+  "active": "772e25c31556ff88",
   "lastOpenFiles": [
+    "StudyFile/백엔드/fast_api/15.응답 모델.md",
+    "StudyFile/백엔드/fast_api/폼 데이터.md",
+    "StudyFile/백엔드/fast_api/중간에 정리하지 못한 것.md",
+    "StudyFile/백엔드/fast_api/16.응답 상태 코드.md",
+    "StudyFile/web/mysql 연결.md",
+    "StudyFile/docker란.md",
+    "StudyFile/자료구조(정리는 잘 안할듯)/위상정렬.md",
     "1주차 (디자인)-20250107203000534.webp",
     "Excalidraw/Drawing 2024-05-16 23.19.50.excalidraw.md",
     "StudyFile/정보처리기능사/sql/단일 행 함수.md",
@@ -198,25 +205,19 @@
     "StudyFile/Java/5.형 변환.md",
     "StudyFile/Java/6.연산자.md",
     "StudyFile/Java/7.문자열.md",
-    "StudyFile/web/mysql 연결.md",
-    "StudyFile/docker란.md",
     "위상정렬-20250131011758990.webp",
     "vector-20241024081410592.webp",
     "README.md",
     "프로젝트 구상(maybe).md",
     "텐서플로 아키텍처-20241028202454000.webp",
-    "StudyFile/백엔드/fast_api/폼 데이터.md",
-    "StudyFile/백엔드/fast_api/16.응답 상태 코드.md",
     "StudyFile/백엔드/fast_api/1.기본기.md",
     "StudyFile/백엔드/fast_api/2.Request Body.md",
     "StudyFile/백엔드/fast_api/3.Query.md",
     "StudyFile/백엔드/fast_api/0.출처.md",
-    "StudyFile/백엔드/fast_api/15.응답 모델.md",
     "StudyFile/백엔드/fast_api/14.헤더 매개변수 모델.md",
     "StudyFile/백엔드/fast_api/13.쿠키 매개변수 모델.md",
     "StudyFile/백엔드/fast_api/8.중첩 모델.md",
     "StudyFile/정보처리기능사/sql/집계 함수.md",
-    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
     "StudyFile/옵시디언/옵시디언 켄버스.canvas",
     "위상정렬-20250130181854605.webp",
     "1주차 (디자인)-20250107203144029.webp",
