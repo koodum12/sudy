@@ -67,3 +67,7 @@ serch_box = driver.find_element(By.CLASS_NAME, 'gLFyf.gsfi')
 search_box = driver.find_element_by_xpath('//*[@id="google_search"]')
 ```
 ##### 3)기능 동작 관련 함수로 원하는 기능 조작
+- 클릭 : .click()
+- 키 입력 : . send_keys()
+![[Selenium-20250310091706138.webp]]
+
