@@ -1,8 +1,16 @@
 [
+<<<<<<< HEAD
   "obsidian-git",
+=======
+>>>>>>> 8cc520a (1)
   "obsidian-excalidraw-plugin",
   "media-extended",
   "get-stock-information",
   "image-converter",
+<<<<<<< HEAD
   "calendar"
+=======
+  "calendar",
+  "obsidian-git"
+>>>>>>> 8cc520a (1)
 ]
