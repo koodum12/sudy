@@ -1,82 +1,41 @@
 {
   "main": {
-    "id": "7ff7cc4644e5da76",
+    "id": "792fc6a1bfda0653",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "3090dff448be112a",
+        "id": "c6bb44f12243b05c",
         "type": "tabs",
         "children": [
           {
-            "id": "772e25c31556ff88",
-=======
-        "id": "cf19d1eee4377e85",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f0c87a4d641c217",
->>>>>>> 8cc520a (1)
+            "id": "e1c357ddc4ca078c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "StudyFile/Docker/docker란.md",
-=======
-                "file": "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
->>>>>>> 8cc520a (1)
+                "file": "StudyFile/web/javaScript/마이크로태스크 큐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "docker란"
-            }
-          },
-          {
-            "id": "8c8741d17b49f8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyFile/Docker/docker란.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "docker란"
-=======
-              "title": "3-4-2 인공 신경망 오차 줄이기"
-            }
-          },
-          {
-            "id": "46dbe54f37fc6757",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
->>>>>>> 8cc520a (1)
+              "title": "마이크로태스크 큐"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c5a9055f68b6347d",
+    "id": "4dc63878b680a810",
     "type": "split",
     "children": [
       {
-        "id": "a6333fffde38d4b7",
+        "id": "9b6e0703f99b87e4",
         "type": "tabs",
         "children": [
           {
-            "id": "35c856b3f08d79a3",
+            "id": "4d5021e8a7d42c6d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,16 +48,12 @@
             }
           },
           {
-            "id": "99bf95d7316a49cd",
+            "id": "4c24baa5a0f33a2a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "path:\"StudyFile/\" ",
-=======
                 "query": "",
->>>>>>> 8cc520a (1)
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,17 +65,13 @@
             }
           },
           {
-            "id": "d3aa25509f7c9095",
+            "id": "cb724fcc77d8a042",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-<<<<<<< HEAD
               "title": "북마크"
-=======
-              "title": "Bookmarks"
->>>>>>> 8cc520a (1)
             }
           }
         ]
@@ -130,23 +81,20 @@
     "width": 200
   },
   "right": {
-    "id": "421e7c0c1b6549cc",
+    "id": "f93a1663589151e2",
     "type": "split",
     "children": [
       {
-        "id": "0803b598215fcb26",
+        "id": "e890c566b1533ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "04a927dea2972f42",
+            "id": "93847cae0aaaef87",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "StudyFile/Docker/docker란.md",
-=======
->>>>>>> 8cc520a (1)
+                "file": "StudyFile/Topcit/image/Pasted image 20250507172806.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,210 +104,116 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "docker란 의 백링크"
-=======
-              "title": "백링크"
->>>>>>> 8cc520a (1)
+              "title": "Pasted image 20250507172806 의 백링크"
             }
           },
           {
-            "id": "6c7a9f21c9a25f54",
+            "id": "890a8a38d4721956",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md",
+                "file": "StudyFile/Topcit/image/Pasted image 20250507172806.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "RNN,LSTM,GRU의 나가는 링크"
+              "title": "Pasted image 20250507172806 의 나가는 링크"
             }
           },
           {
-            "id": "59be182538b6a663",
+            "id": "bc97467754857100",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
-            "id": "94fbfb3e13eee17a",
+            "id": "7bc3ce3297c59470",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyFile/AI/LSTM/RNN,LSTM,GRU.md"
+                "file": "StudyFile/Topcit/image/Pasted image 20250507172806.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RNN,LSTM,GRU 개요"
+              "title": "Pasted image 20250507172806 의 개요"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "d37653168701813e",
-=======
-            "id": "0bc56d0393e15249",
->>>>>>> 8cc520a (1)
+            "id": "03cf0dcb5667196f",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-<<<<<<< HEAD
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
-          },
-          {
-            "id": "cec4ec854aa9190c",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-=======
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
->>>>>>> 8cc520a (1)
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-<<<<<<< HEAD
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-=======
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
->>>>>>> 8cc520a (1)
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "media-extended:Open media": false
     }
   },
-<<<<<<< HEAD
-  "active": "8c8741d17b49f8f9",
+  "active": "e1c357ddc4ca078c",
   "lastOpenFiles": [
-    "StudyFile/Docker/Drawing 2025-04-27 01.23.37.excalidraw.md",
-    "StudyFile/Docker/docker란.md",
-    "conflict-files-obsidian-git.md",
-    "StudyFile/Docker",
-    "StudyFile/web/web 공부/5.typeScript/솔찍히.md",
-    "StudyFile/web/web 공부/5.typeScript/기본.md",
-    "StudyFile/web/web 공부/5.typeScript",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191843784.webp",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 설계원리와 구조적 설계-20250326202731519.webp",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326190616973.webp",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191313951.webp",
-    "StudyFile/Topcit/기술영역/image",
-    "StudyFile/Topcit/기술영역/들어가기 앞서.md",
-    "StudyFile/Topcit/기술영역/4.소프트웨어 설계원리와 구조적 설계.md",
-    "StudyFile/Topcit/기술영역/2.소프트웨어 재사용.md",
-    "StudyFile/Topcit/기술영역/3.자료구조.md",
-    "StudyFile/Topcit/기술영역/1.소프트웨어 공학.md",
-    "StudyFile/Topcit/기술영역",
-    "StudyFile/Topcit",
-    "StudyFile/프로젝트 정리/잠깐 정리.md",
-    "StudyFile/프로젝트 정리/고민고민.md",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000823.webp",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203144029.webp",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000755.webp",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000683.webp",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000580.webp",
-    "StudyFile/프로젝트 정리/image/1주차 (디자인)-20250107203000534.webp",
-    "StudyFile/프로젝트 정리/image",
-    "StudyFile/자료구조(정리는 잘 안할듯)/img",
-    "StudyFile/외부 강사/대구 AI.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Test set.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/용어/Epoch,Loss,Accuracy.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Validation set.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/원-핫 인코딩.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/dataset/Train set.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/softmax 함수.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/verbose.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/predict 함수.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
-    "StudyFile/AI/수학/선형대수/행렬.md",
-    "StudyFile/AI/수학/선형대수/행렬 곱셈.md",
-    "StudyFile/AI/간단한 개념/2,딥러닝/용어",
-    "StudyFile/AI/간단한 개념/2,딥러닝/dataset",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트",
-    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
-=======
-  "active": "46dbe54f37fc6757",
-  "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-05-01 19.51.17.excalidraw.md",
-    "StudyFile/강의/강의/데이터 직군은.md",
-    "StudyFile/프로젝트 정리/고민고민.md",
-    "StudyFile/강의/강의",
-    "StudyFile/강의",
-    "StudyFile/AI/간단한 개념/0.인공지능 체험(인공지능으로 놀기)/퀵 드로우 체험.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/1. 개발 환경 만들기..md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/3.mnist 데이터셋에서 x의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/2.데이터셋 불러오기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/4.mnist 데이터셋에서 Y의 형태 바꾸기.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Optimizer(옵티마이저).md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/nonzero.md",
-    "StudyFile/AI/따라만들기/숫자 인식 인공지능 만들기/0.공부하면서 사용하는 개념 노트/Keras(케라스).md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-1가중치와 편향.md",
-    "StudyFile/AI/간단한 개념/1.머신러닝/2.머신러닝 프로세스.md",
-    "StudyFile/AI/간단한 개념/1.머신러닝/1.머신러닝이란..md",
-    "StudyFile/강의/외부 강사/대구 AI.md",
-    "StudyFile/강의/외부 강사/임팩티브 AI 대표 강의 240822.md",
+    "StudyFile/면접 예상질문/cs/마이크로태스크 vs 매크로태스크.md",
+    "StudyFile/web/javaScript/마이크로태스크 큐.md",
+    "StudyFile/web/javaScript",
+    "StudyFile/web/javaScripts.md",
+    "StudyFile/면접 예상질문/cs/렌더링 성능 최적화 기법(React).md",
+    "StudyFile/면접 예상질문/cs/가상 DOM과 실제 DOM의 차이.md",
+    "StudyFile/면접 예상질문/cs/브라우저가 웹페이지를 렌더링하는 과정을 설명해보세요..md",
+    "StudyFile/면접 예상질문/cs/DOM변경 최소화 방법(React).md",
+    "StudyFile/면접 예상질문/cs/DNS 동작 방식.md",
+    "StudyFile/면접 예상질문/cs/HTML을 어떻게 해석해서 사용자에게 화면을 보여주나.md",
+    "StudyFile/면접 예상질문/cs/node js가 어떻게 돌아가는지.md",
+    "StudyFile/면접 예상질문/cs/CSSOM이 DOM과 분리되어 있는 이유는 무엇일까, 그리고 둘이 결합되는 시점은 언제인가요.md",
+    "StudyFile/면접 예상질문/cs/cssom.md",
+    "StudyFile/면접 예상질문/cs/Render Tree.md",
+    "StudyFile/면접 예상질문/cs",
+    "StudyFile/면접 예상질문",
+    "StudyFile/정보처리기능사/sql/단일 행 함수.md",
+    "StudyFile/정보처리기능사/sql/집계 함수.md",
+    "StudyFile/정보처리기능사/sql/추가적인 무언가.md",
+    "StudyFile/정보처리기능사/sql/sql 함수란.md",
+    "StudyFile/정보처리기능사/sql/Select.md",
+    "StudyFile/정보처리기능사/sql/LIMIT.md",
+    "StudyFile/정보처리기능사/sql/Join.md",
+    "StudyFile/정보처리기능사/sql/drop.md",
+    "StudyFile/정보처리기능사/sql/INSERT.md",
+    "StudyFile/Topcit/PEST 분석.md",
+    "StudyFile/Topcit/SWOT.md",
+    "StudyFile/Topcit/ROI.md",
     "StudyFile/docker란.md",
-    "StudyFile/프로젝트 정리/잠깐 정리.md",
-    "StudyFile/Topcit/기술영역/들어가기 앞서.md",
-    "StudyFile/Topcit/기술영역/3.자료구조.md",
-    "StudyFile/Topcit/기술영역/4.소프트웨어 설계원리와 구조적 설계.md",
-    "StudyFile/Topcit/기술영역/2.소프트웨어 재사용.md",
-    "StudyFile/Topcit/기술영역/1.소프트웨어 공학.md",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 설계원리와 구조적 설계-20250326202731519.webp",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191843784.webp",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191221384.webp",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326190616973.webp",
-    "StudyFile/Topcit/기술영역/image/소프트웨어 공학-20250326191313951.webp",
-    "소프트웨어 공학-20250326190904049.webp",
-    "소프트웨어 공학-20250326191020589.webp",
-    "StudyFile/Topcit/기술영역/image",
-    "StudyFile/Topcit/기술영역",
-    "StudyFile/Topcit",
-    "StudyFile/web/web 공부/5.typeScript/무제",
-    "StudyFile/web/web 공부/5.typeScript",
-    "StudyFile/Python/python image/Selenium-20250310091706138.webp",
-    "StudyFile/AI/Ai Image/텐서플로 아키텍처-20241028202454000.webp",
-    "StudyFile/AI/Ai Image/vector-20241024081410592.webp",
-    "StudyFile/자료구조(정리는 잘 안할듯)/img",
-    "StudyFile/프로젝트 정리/image",
-    "StudyFile/옵시디언/옵시디언 켄버스.canvas",
-    "StudyFile/프로젝트 정리/nsetProject/주별 제출",
->>>>>>> 8cc520a (1)
-    "무제 파일.canvas",
-    "StudyFile/Unity/Unity_MapleSrory/Code Canvas.canvas"
+    "StudyFile/web/web 공부/4.react/library",
+    "StudyFile/Topcit/image/Pasted image 20250507172806.png",
+    "StudyFile/Topcit/image",
+    "StudyFile/무제"
   ]
 }
