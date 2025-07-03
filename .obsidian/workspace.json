@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/LLM 모델 사용/gpt/사용 후기/5~6일차.md",
+                "file": "StudyFile/web/web 공부/4.react/library/D3.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5~6일차"
+              "title": "D3.js"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"학교 프로그래밍/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,13 +180,26 @@
       "media-extended:Open media": false
     }
   },
-  "active": "e1c357ddc4ca078c",
+  "active": "4d5021e8a7d42c6d",
   "lastOpenFiles": [
-    "StudyFile/LLM 모델 사용/gpt/사용 후기/2일차.md",
+    "StudyFile/web/web 공부/4.react/library/axios.md",
+    "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
+    "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
+    "StudyFile/web/web 공부/4.react/library/Router.md",
+    "StudyFile/web/web 공부/4.react/library/DND(drag and drop).md",
+    "StudyFile/web/web 공부/4.react/library/D3.js.md",
+    "StudyFile/docker란.md",
+    "무제 파일.md",
+    "README.md",
+    "잠깐 쓰는 매모장.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
+    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
+    "StudyFile/AI/수학/미분 & 적분.md",
     "StudyFile/LLM 모델 사용/gpt/사용 후기/5~6일차.md",
+    "StudyFile/LLM 모델 사용/gpt/사용 후기/2일차.md",
     "StudyFile/LLM 모델 사용/gpt/사용 후기/1일차 사용 후기.md",
     "StudyFile/LLM 모델 사용/gpt/gpt 누구보다 더 잘 사용하는 법(with gpt).md",
-    "무제 파일.md",
     "StudyFile/LLM 모델 사용/gpt/gpt 프롬프트 세트.md",
     "StudyFile/LLM 모델 사용/gpt/사용 후기",
     "StudyFile/강의/강의/데이터 직군은.md",
@@ -199,19 +212,6 @@
     "StudyFile/강의/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/강의/외부 강사/대구 AI.md",
     "StudyFile/AI/수학/시그마(Σ).md",
-    "StudyFile/면접 예상질문/cs/DNS 동작 방식.md",
-    "StudyFile/면접 예상질문/cs/DOM변경 최소화 방법(React).md",
-    "StudyFile/면접 예상질문/cs/HTML을 어떻게 해석해서 사용자에게 화면을 보여주나.md",
-    "StudyFile/면접 예상질문/cs/node js가 어떻게 돌아가는지.md",
-    "StudyFile/면접 예상질문/cs/Render Tree.md",
-    "StudyFile/면접 예상질문/cs/CSSOM이 DOM과 분리되어 있는 이유는 무엇일까, 그리고 둘이 결합되는 시점은 언제인가요.md",
-    "StudyFile/면접 예상질문/cs/렌더링 성능 최적화 기법(React).md",
-    "StudyFile/면접 예상질문/cs/마이크로태스크 vs 매크로태스크.md",
-    "StudyFile/면접 예상질문/cs/브라우저가 웹페이지를 렌더링하는 과정을 설명해보세요..md",
-    "StudyFile/면접 예상질문/cs/cssom.md",
-    "StudyFile/web/javaScript/매크로태스크.md",
-    "StudyFile/web/javaScript/마이크로태스크 큐.md",
-    "StudyFile/면접 예상질문/cs/무제.md",
     "StudyFile/web/javaScript",
     "StudyFile/면접 예상질문/cs",
     "StudyFile/면접 예상질문",
