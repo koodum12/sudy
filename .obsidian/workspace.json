@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/library/D3.js.md",
+                "file": "StudyFile/web/web 공부/4.react/library/Dnd/DND-kit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D3.js"
+              "title": "DND-kit"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"학교 프로그래밍/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,14 +180,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4d5021e8a7d42c6d",
+  "active": "e1c357ddc4ca078c",
   "lastOpenFiles": [
+    "StudyFile/web/web 공부/4.react/library/Dnd/DND(drag and drop).md",
+    "StudyFile/web/web 공부/4.react/library/Dnd/DND-kit.md",
+    "StudyFile/web/web 공부/4.react/library/Dnd",
+    "StudyFile/web/web 공부/4.react/library/D3.js.md",
     "StudyFile/web/web 공부/4.react/library/axios.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
     "StudyFile/web/web 공부/4.react/library/Router.md",
-    "StudyFile/web/web 공부/4.react/library/DND(drag and drop).md",
-    "StudyFile/web/web 공부/4.react/library/D3.js.md",
     "StudyFile/docker란.md",
     "무제 파일.md",
     "README.md",
@@ -211,7 +213,6 @@
     "StudyFile/강의/외부 강사/기업 탐방/Exem.md",
     "StudyFile/강의/외부 강사/임팩티브 AI 대표 강의 240822.md",
     "StudyFile/강의/외부 강사/대구 AI.md",
-    "StudyFile/AI/수학/시그마(Σ).md",
     "StudyFile/web/javaScript",
     "StudyFile/면접 예상질문/cs",
     "StudyFile/면접 예상질문",
