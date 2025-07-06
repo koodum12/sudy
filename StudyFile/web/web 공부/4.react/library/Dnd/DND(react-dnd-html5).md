@@ -1,7 +1,7 @@
 #javaScripts  #library 
 https://everyday-is-christmas.tistory.com/73
 #### 설치
-react-dnd와 react-dnd-html5=backend를 설치한다.
+react-dnd와 react-dnd-html5-backend를 설치한다.
 드래그 앤 드롭 API를 사용하는 기본 백엔드이다.
 ```cmd
 npm i react-dnd react-dnd-html5-backend
