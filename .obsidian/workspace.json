@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/4.react/library/Dnd/DND-kit.md",
+                "file": "StudyFile/web/web 공부/4.react/library/Recoil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND-kit"
+              "title": "Recoil"
+            }
+          },
+          {
+            "id": "5c558a7d2cc49213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudyFile/web/web 공부/6.design pattern/디자인 패턴 종류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "디자인 패턴 종류"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f93a1663589151e2",
@@ -182,14 +197,29 @@
   },
   "active": "e1c357ddc4ca078c",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/4.react/library/Dnd/DND(drag and drop).md",
+    "StudyFile/web/web 공부/6.design pattern/디자인 패턴 종류.md",
+    "StudyFile/web/web 공부/4.react/library/Recoil.md",
+    "StudyFile/web/web 공부/4.react/library/Router.md",
+    "StudyFile/web/web 공부/6.design pattern/Atomic 패턴.md",
+    "Atomic 패턴-20250708114858336.webp",
+    "Atomic 패턴-20250708114748808.webp",
+    "Atomic 패턴-20250708114553973.webp",
+    "Atomic 패턴-20250708114322030.webp",
+    "Atomic 패턴-20250708114314345.webp",
+    "디자인 패턴 종류-20250708110613376.webp",
+    "디자인 패턴 종류-20250708110207901.webp",
+    "디자인 패턴 종류-20250708110203459.webp",
+    "StudyFile/web/web 공부/2.CSS/tailwindcss/tailwindcss 시작.md",
+    "StudyFile/web/web 공부/6.design pattern",
     "StudyFile/web/web 공부/4.react/library/Dnd/DND-kit.md",
+    "StudyFile/web/web 공부/4.react/library/Dnd/DND(react-dnd-html5).md",
+    "StudyFile/web/web 공부/2.CSS/tailwindcss",
+    "StudyFile/web/web 공부/4.react/library/Dnd/DND(drag and drop).md",
     "StudyFile/web/web 공부/4.react/library/Dnd",
     "StudyFile/web/web 공부/4.react/library/D3.js.md",
     "StudyFile/web/web 공부/4.react/library/axios.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
-    "StudyFile/web/web 공부/4.react/library/Router.md",
     "StudyFile/docker란.md",
     "무제 파일.md",
     "README.md",
@@ -207,17 +237,10 @@
     "StudyFile/강의/강의/데이터 직군은.md",
     "StudyFile/LLM 모델 사용/claud",
     "StudyFile/LLM 모델 사용/gpt",
-    "StudyFile/LLM 모델 사용/무제.md",
     "StudyFile/LLM 모델 사용",
-    "StudyFile/강의/외부 강사/기업 탐방/아우름플래닛 기업 탐방.md",
-    "StudyFile/강의/외부 강사/기업 탐방/Exem.md",
-    "StudyFile/강의/외부 강사/임팩티브 AI 대표 강의 240822.md",
-    "StudyFile/강의/외부 강사/대구 AI.md",
     "StudyFile/web/javaScript",
     "StudyFile/면접 예상질문/cs",
     "StudyFile/면접 예상질문",
-    "StudyFile/web/web 공부/4.react/library",
-    "StudyFile/Topcit/image/Pasted image 20250507172806.png",
-    "StudyFile/Topcit/image"
+    "StudyFile/Topcit/image/Pasted image 20250507172806.png"
   ]
 }
