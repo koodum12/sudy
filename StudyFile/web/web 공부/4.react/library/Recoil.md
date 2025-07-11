@@ -183,3 +183,6 @@ const multipliedState = selector({
 	- 새로운 값(`newValue`)를 받아 `numberState`를 계산해서 변경
 		- `numberState`를 다시 /2해주어 변경
 
+
+
+
