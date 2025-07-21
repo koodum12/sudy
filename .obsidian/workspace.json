@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyFile/web/web 공부/아직 분류하기 애매한거/Optimiistic UI.md",
+                "file": "StudyFile/Java/7.문자열.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimiistic UI"
+              "title": "7.문자열"
             }
           },
           {
@@ -194,14 +194,23 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4d5021e8a7d42c6d",
+  "active": "e1c357ddc4ca078c",
   "lastOpenFiles": [
-    "StudyFile/web/web 공부/4.react/library/3js/threejs 시작하기.md",
+    "StudyFile/Java/6.연산자.md",
+    "StudyFile/Java/5.형 변환.md",
+    "StudyFile/Java/4.상수.md",
+    "StudyFile/Java/2.주석.md",
+    "StudyFile/Java/3.변수 명.md",
+    "StudyFile/Java/1.자료형.md",
+    "StudyFile/백엔드/springboot/빌드 도구.md",
+    "StudyFile/web/web 공부/2.CSS/tailwindcss/tailwindcss 시작.md",
+    "StudyFile/백엔드/springboot",
+    "StudyFile/web/mysql 연결.md",
     "StudyFile/web/web 공부/아직 분류하기 애매한거/Optimiistic UI.md",
+    "StudyFile/web/web 공부/4.react/library/3js/threejs 시작하기.md",
     "StudyFile/web/web 공부/아직 분류하기 애매한거",
     "StudyFile/web/web 공부/2.CSS/animation 가이드.md",
     "StudyFile/web/web 공부/4.react/library/3js",
-    "StudyFile/web/web 공부/2.CSS/tailwindcss/tailwindcss 시작.md",
     "StudyFile/web/web 공부/6.design pattern/디자인 패턴 종류.md",
     "StudyFile/web/web 공부/4.react/1.jsx문법이란.md",
     "StudyFile/web/web 공부/4.react/0.들어가기 앞서.md",
@@ -227,19 +236,10 @@
     "StudyFile/web/web 공부/4.react/library/Dnd",
     "StudyFile/docker란.md",
     "무제 파일.md",
-    "README.md",
-    "잠깐 쓰는 매모장.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-3활성화 함수.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-1 인공 신경망 오차 구하기.md",
-    "StudyFile/AI/간단한 개념/3.인공신경망/3-4-2 인공 신경망 오차 줄이기.md",
-    "StudyFile/AI/수학/미분 & 적분.md",
-    "StudyFile/LLM 모델 사용/gpt/사용 후기/5~6일차.md",
-    "StudyFile/LLM 모델 사용/gpt/사용 후기/2일차.md",
     "StudyFile/LLM 모델 사용/gpt/사용 후기",
     "StudyFile/LLM 모델 사용/claud",
     "StudyFile/LLM 모델 사용/gpt",
     "StudyFile/LLM 모델 사용",
-    "StudyFile/web/javaScript",
     "StudyFile/Topcit/image/Pasted image 20250507172806.png"
   ]
 }
