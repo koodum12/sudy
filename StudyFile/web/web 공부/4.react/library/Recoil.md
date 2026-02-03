@@ -2,8 +2,7 @@
 
 [참고자료 - 1](https://velog.io/@zooyaho/Recoil%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0)
 상태 관리 라이브러리
-Atomic 디자인 패턴을 따르고 있다
-
+Recoil에서의 atom은 물리학·컴퓨터 과학에서의 “**더 이상 나눌 수 없는 최소 단위**
 ### 설치
 
 npm

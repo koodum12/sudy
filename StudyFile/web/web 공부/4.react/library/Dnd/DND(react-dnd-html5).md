@@ -21,7 +21,7 @@ useDrag에 사양(정보)를 전달하면 아래의것들을 선언적으로 사
 ```jsx
 import {useDrag, useDrop, DndProvider} from 'react-dnd'
 
-const [{isDragging}, drag] = useDSrag({
+const [{isDragging}, drag] = useDrag({
 	type: 'MARKER',
 	item: {id : point.id, middleIdx},
 	collect : (monitor) => ({
