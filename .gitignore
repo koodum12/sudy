@@ -1,0 +1,23 @@
+# 이미지 파일
+*.webp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+image/
+
+# Obsidian canvas/base 파일
+*.canvas
+*.base
+
+# Obsidian 설정 (workspace 상태 등)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Excalidraw 자동생성 파일
+Excalidraw/
+
+# 기타
+.DS_Store
+Thumbs.db
