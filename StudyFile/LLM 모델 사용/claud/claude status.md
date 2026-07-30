@@ -1,0 +1,1 @@
+https://status.claude.com/ <-- 클로드 작동 안될때 확인 ㄱㄱ	

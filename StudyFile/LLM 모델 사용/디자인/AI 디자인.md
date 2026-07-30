@@ -28,3 +28,10 @@ baner text : 20px
 색상을 메인 색상만 주는게 아니라 extantion이나 safe등등의 색을 주는 것도 고려해봐야 할 것 같음
 
 그라데이션, 셰도우 난발 x
+
+
+
+
+
+# 뭔가 응용하면 좋을 것 같음
+https://getdesign.md/spotify/design-md : design.md 뽀려올 수 있음(타사랑 비슷한 거)
